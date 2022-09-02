@@ -1,0 +1,9 @@
+<map id="moveit_rviz_plugin::JMGItemModel::updateRobotState" name="moveit_rviz_plugin::JMGItemModel::updateRobotState">
+<area shape="rect" id="node1" title="call this on any external change of the RobotState" alt="" coords="5,97,223,153"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a5ecd3e71d7283f30be300c83cfd84041" title="Get the robot model this state is constructed for." alt="" coords="277,5,461,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a72e5062115857bc793f0ba6be6aca059" title="Get a raw pointer to the positions of the variables stored in this state. Use carefully...." alt="" coords="277,71,461,112"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1JMGItemModel.html#ad606974d756cf248ebe62c58f5f6a9a2" title=" " alt="" coords="271,136,467,177"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1RobotState.html#a04b9343fdf57f04895fa21c326164d0f" title="It is assumed positions is an array containing the new positions for all variables in this state...." alt="" coords="277,201,461,243"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="516,104,697,145"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1RobotState.html#abf6f716f6cf1ba8c4a63807b11962c41" title="Get the number of variables that make up this state." alt="" coords="515,169,699,211"/>
+</map>

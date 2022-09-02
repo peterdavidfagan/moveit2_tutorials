@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::GroupEditWidget::deleteGroup" name="moveit_setup::srdf_setup::GroupEditWidget::deleteGroup">
+<area shape="rect" id="node1" title="Event sent when delete is being requested for group." alt="" coords="236,5,419,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1GroupEditWidget.html#af791343b992dbe1e87c1140c4b5122fd" title="Constructor." alt="" coords="5,5,188,61"/>
+</map>

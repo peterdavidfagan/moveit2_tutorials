@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnvBullet::addAttachedOjects" name="collision_detection::CollisionEnvBullet::addAttachedOjects">
+<area shape="rect" id="node1" title="All of the attached objects in the robot state are wrapped into bullet collision objects." alt="" coords="5,5,159,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a449158e2e8aeba947bbc1a4473400ff7" title="Get all bodies attached to the model corresponding to this state." alt="" coords="207,13,391,54"/>
+</map>

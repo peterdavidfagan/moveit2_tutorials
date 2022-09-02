@@ -1,0 +1,12 @@
+<map id="moveit_ros/planning/kinematics_plugin_loader" name="moveit_ros/planning/kinematics_plugin_loader">
+<area shape="rect" id="node1" href="dir_1721e4a481c289b24e69a866cca60f83.html" title="rdf_loader" alt="" coords="344,159,432,207"/>
+<area shape="rect" id="node5" href="dir_d9cb55919b2dab7e58617a4db1d520b8.html" title="moveit_core" alt="" coords="231,255,334,303"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000447_000025.html" title="1" alt="" coords="323,241,333,256"/>
+<area shape="rect" id="node3" href="dir_b6343f2a70d83a2b41de0f6bc7abb821.html" title="include" alt="" coords="143,159,215,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000412_000025.html" title="3" alt="" coords="238,229,248,244"/>
+<area shape="rect" id="node4" href="dir_19c0aa577ed967183b9647796564b1e7.html" title="src" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000415_000447.html" title="1" alt="" coords="324,139,334,154"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000415_000412.html" title="1" alt="" coords="140,133,150,148"/>
+<area shape="rect" id="clust2" href="dir_2db037e10e262259a66cbb213291f95c.html" alt="" coords="27,52,333,217"/>
+<area shape="rect" id="clust1" href="dir_fba027dbac5a86c5d2f335ee867d17b9.html" title="planning" alt="" coords="16,16,443,228"/>
+</map>

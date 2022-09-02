@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::setJointGroupVelocities" name="moveit::core::RobotState::setJointGroupVelocities">
+<area shape="rect" id="node1" title="Given velocities for the variables that make up a group, in the order found in the group (including v..." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a4c3dc21cb7e8b21d0552677a3aeb819e" title="Given velocities for the variables that make up a group, in the order found in the group (including v..." alt="" coords="237,5,421,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="kinematics::KinematicsBase::setRedundantJoints" name="kinematics::KinematicsBase::setRedundantJoints">
+<area shape="rect" id="node1" title="Set a set of redundant joints for the kinematics solver to use. This function is just a convenience f..." alt="" coords="5,35,212,76"/>
+<area shape="rect" id="node2" href="$classkinematics_1_1KinematicsBase.html#a116303b23cc6c0b105b7aa058901a90a" title="Return all the joint names in the order they are used internally." alt="" coords="515,5,721,47"/>
+<area shape="rect" id="node3" href="$classkinematics_1_1KinematicsBase.html#aece5cc8cb89ce4f06b4923b77940a380" title="Set a set of redundant joints for the kinematics solver to use. This can fail, depending on the IK so..." alt="" coords="260,64,467,105"/>
+<area shape="rect" id="node4" href="$classkinematics_1_1KinematicsBase.html#a1ab7f68c8d7d694f9dd35bd14a150c0a" title="Set the search discretization value for all the redundant joints." alt="" coords="515,71,721,112"/>
+</map>

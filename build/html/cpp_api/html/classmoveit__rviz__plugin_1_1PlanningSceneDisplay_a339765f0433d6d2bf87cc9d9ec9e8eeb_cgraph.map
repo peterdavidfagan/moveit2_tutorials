@@ -1,0 +1,4 @@
+<map id="moveit_rviz_plugin::PlanningSceneDisplay::renderPlanningScene" name="moveit_rviz_plugin::PlanningSceneDisplay::renderPlanningScene">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,180,61"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a13fce732c3b9f3f8010e5a5988048afe" title="get read&#45;only access to planning scene" alt="" coords="228,5,403,61"/>
+</map>

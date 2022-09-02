@@ -1,0 +1,12 @@
+<map id="distance_field::findInternalPointsConvex" name="distance_field::findInternalPointsConvex">
+<area shape="rect" id="node1" title="Find all points on a regular grid that are internal to the body, assuming the body is a convex shape...." alt="" coords="756,119,951,160"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a6d4d5386350ec80d3ca511cf940c0cfb" title="Get the points associated with a shape. This is mainly used when the external application needs to ca..." alt="" coords="512,11,689,52"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1BodyDecomposition.html#a6d19937a6478ac033b3ba0a4edd8e9bd" title=" " alt="" coords="505,81,696,123"/>
+<area shape="rect" id="node7" href="$classdistance__field_1_1DistanceField.html#a3ff4e4053688842a27968fa7cb0ae750" title="Moves the shape in the distance field from the old pose to the new pose, removing points that are no ..." alt="" coords="510,151,691,192"/>
+<area shape="rect" id="node9" href="$classdistance__field_1_1DistanceField.html#a4ae04b4efe60e20d681cc6f3fbf73fea" title="All points corresponding to the shape are removed from the distance field." alt="" coords="493,216,708,257"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#a7d40ca72ce5a575ddbc4f7602612a05a" title="Adds the set of points corresponding to the shape at the given pose as obstacle points into the dista..." alt="" coords="249,5,427,47"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#a691113c17e41b934916dc5d7c6b71272" title=" " alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node6" href="$classcollision__detection_1_1BodyDecomposition.html#a66efef721c7cff0dfac64616b6d1f0d2" title=" " alt="" coords="257,71,419,127"/>
+<area shape="rect" id="node8" href="$classdistance__field_1_1DistanceField.html#a572e4ce46e5b223f85e943be50146e6f" title=" " alt="" coords="247,152,429,193"/>
+<area shape="rect" id="node10" href="$classdistance__field_1_1DistanceField.html#a8180976b664df11a9431b70154681c4c" title=" " alt="" coords="231,217,445,259"/>
+</map>

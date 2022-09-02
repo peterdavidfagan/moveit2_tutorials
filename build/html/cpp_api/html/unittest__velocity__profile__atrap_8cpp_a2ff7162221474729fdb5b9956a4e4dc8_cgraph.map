@@ -1,0 +1,9 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,130,60,157"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#ae4e14cddd6ea68b002a56217f535a5e0" title="Get given acceleration/deceleration at given time." alt="" coords="108,5,353,47"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a7a814ecd5b06b7301b79711bdcf660ad" title="Duration." alt="" coords="401,83,616,139"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a0f02591564f893bf26a158d42131e4a1" title="Get position at given time." alt="" coords="108,123,353,164"/>
+<area shape="rect" id="node5" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#aa07111d8f0ebe4fb035551b3201ba81c" title="Profile scaled by the total duration." alt="" coords="123,189,338,245"/>
+<area shape="rect" id="node7" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a03de8d42df20156051557543b3adf6f2" title="Get velocity at given time." alt="" coords="109,269,352,311"/>
+<area shape="rect" id="node6" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a38aa2d9c190b97ab94d185a20f3b6630" title="compute the fastest profile Algorithm:" alt="" coords="401,189,616,245"/>
+</map>

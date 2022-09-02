@@ -1,0 +1,4 @@
+<map id="kinematics::KinematicsBase::setRedundantJoints" name="kinematics::KinematicsBase::setRedundantJoints">
+<area shape="rect" id="node1" title="Set a set of redundant joints for the kinematics solver to use. This can fail, depending on the IK so..." alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node2" href="$classkinematics_1_1KinematicsBase.html#ae8596c4d8eaf32ea9d00c07629c8c00a" title="Set a set of redundant joints for the kinematics solver to use. This function is just a convenience f..." alt="" coords="5,5,212,47"/>
+</map>

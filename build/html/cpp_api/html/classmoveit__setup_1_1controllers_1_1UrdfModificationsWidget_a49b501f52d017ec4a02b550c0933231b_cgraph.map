@@ -1,0 +1,8 @@
+<map id="moveit_setup::controllers::UrdfModificationsWidget::focusGiven" name="moveit_setup::controllers::UrdfModificationsWidget::focusGiven">
+<area shape="rect" id="node1" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="5,159,196,215"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1UrdfModifications.html#ac74226e29350d490b180653a6439d27f" title=" " alt="" coords="263,5,497,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1UrdfModifications.html#a28c23f218acf31df2f41feee1f96a1eb" title=" " alt="" coords="269,85,491,141"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1controllers_1_1UrdfModifications.html#a517360cf8d48c2447f86b9f35c35bfd0" title=" " alt="" coords="261,166,499,207"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1controllers_1_1UrdfModifications.html#a74f026dec9ed7a709ad8fa872ef74080" title="Return true if there aren&#39;t ros2_control tags for all the joints." alt="" coords="244,231,516,273"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1controllers_1_1UrdfModifications.html#ad0ac963217324e81b371d2e844f3eca0" title=" " alt="" coords="281,297,479,338"/>
+</map>

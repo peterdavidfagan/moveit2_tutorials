@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::attachObject" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::attachObject">
+<area shape="rect" id="node1" title=" " alt="" coords="308,5,555,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#aa37519f35cbed12eaa398d6391872898" title="Given the name of an object in the planning scene, make the object attached to a link of the robot...." alt="" coords="5,13,260,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::SRDFStep::hasGroups" name="moveit_setup::srdf_setup::SRDFStep::hasGroups">
+<area shape="rect" id="node1" title=" " alt="" coords="211,53,424,94"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1EndEffectors.html#a1b7ee363fb297967abf657abc101a409" title="Return true if the data necessary to proceed with this step has been configured." alt="" coords="7,5,161,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1RobotPoses.html#aa8825f5404f432f330571ecb5b224f04" title="Return true if the data necessary to proceed with this step has been configured." alt="" coords="5,85,163,141"/>
+</map>

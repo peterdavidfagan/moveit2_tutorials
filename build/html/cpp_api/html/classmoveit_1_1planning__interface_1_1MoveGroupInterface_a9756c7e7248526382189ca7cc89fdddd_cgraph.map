@@ -1,0 +1,7 @@
+<map id="moveit::planning_interface::MoveGroupInterface::rememberJointValues" name="moveit::planning_interface::MoveGroupInterface::rememberJointValues">
+<area shape="rect" id="node1" title="Remember the current joint values (of the robot being monitored) under name. These can be used by set..." alt="" coords="5,43,273,99"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a4eccf93e03d4366229043dc9cfebdb44" title="Get the current joint values for the joints planned for by this instance (see getJoints())" alt="" coords="321,43,561,99"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a559c3c9af128d75d878d09fce60be941" title=" " alt="" coords="609,5,856,61"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#aa21afe5c6101521545694fe85156b156" title="Get the name of the group this instance operates on." alt="" coords="617,86,848,127"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a2a047c327cedaf904eb8f13f5a43d9f9" title=" " alt="" coords="904,79,1151,135"/>
+</map>

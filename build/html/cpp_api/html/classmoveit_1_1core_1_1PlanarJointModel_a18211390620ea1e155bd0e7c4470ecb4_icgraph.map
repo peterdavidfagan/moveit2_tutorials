@@ -1,0 +1,5 @@
+<map id="moveit::core::PlanarJointModel::normalizeRotation" name="moveit::core::PlanarJointModel::normalizeRotation">
+<area shape="rect" id="node1" title=" " alt="" coords="311,43,501,84"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1PlanarJointModel.html#ab74b54abc29ca687ec1953cf5c6fbb42" title="Force the specified values to be inside bounds and normalized. Quaternions are normalized,..." alt="" coords="25,5,243,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1PlanarJointModel.html#a2ce5ecc9e27bbe71906206ad4c469d30" title="Provide random values for the joint variables (within specified bounds). Enough memory is assumed to ..." alt="" coords="5,71,263,127"/>
+</map>

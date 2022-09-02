@@ -1,0 +1,8 @@
+<map id="planning_scene::PlanningScene::checkCollision" name="planning_scene::PlanningScene::checkCollision">
+<area shape="rect" id="node1" title="Check whether the current state is in collision, and if needed, updates the collision transforms of t..." alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#ac5b3f3aba3878b0e90a071db8657db50" title="Check whether a specified state (robot_state) is in collision. The collision transforms of robot_stat..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene_1_1PlanningScene.html#aac195370d32ef1ad1fa81fca8e20db46" title="Get the names of the links that are involved in collisions for the state robot_state given the allowe..." alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node4" href="$classplanning__scene_1_1PlanningScene.html#ab536eaccd77e4e1f495b782e44ecab5d" title="Get the top max_costs cost sources for a specified trajectory, but only for group group_name...." alt="" coords="5,136,192,177"/>
+<area shape="rect" id="node5" href="$classplanning__scene_1_1PlanningScene.html#a51d9556d969327ad59ba575c7e2a2b5a" title="Check if a given state is in collision (with the environment or self collision) If a group name is sp..." alt="" coords="5,201,192,243"/>
+<area shape="rect" id="node6" href="$core_8cpp.html#a92e436fb725965a2681c8e0eff28a83e" title=" " alt="" coords="23,267,174,294"/>
+</map>

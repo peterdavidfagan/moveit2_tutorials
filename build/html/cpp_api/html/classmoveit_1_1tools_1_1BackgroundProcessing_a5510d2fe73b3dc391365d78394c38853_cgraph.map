@@ -1,0 +1,4 @@
+<map id="moveit::tools::BackgroundProcessing::clearJobUpdateEvent" name="moveit::tools::BackgroundProcessing::clearJobUpdateEvent">
+<area shape="rect" id="node1" title="Clear the callback to be triggered when events in JobEvent take place." alt="" coords="5,5,241,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#a90dc9dd1f19fa8e5e975d0a0c62923aa" title="Set the callback to be triggered when events in JobEvent take place." alt="" coords="289,5,513,47"/>
+</map>

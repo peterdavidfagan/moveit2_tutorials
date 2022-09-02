@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups::renameGroup" name="moveit_setup::srdf_setup::PlanningGroups::renameGroup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,180,69"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#aef7aa319e9dbe1e704a065dce62e5a96" title="Renames an item and returns a pointer to the item." alt="" coords="228,5,401,76"/>
+</map>

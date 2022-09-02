@@ -1,0 +1,8 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::MotionPlanningDisplay" name="moveit_rviz_plugin::MotionPlanningDisplay::MotionPlanningDisplay">
+<area shape="rect" id="node1" title=" " alt="" coords="5,83,185,139"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a27a604efc0eb407d1fbefb95c83dc09f" title=" " alt="" coords="255,45,435,101"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#a90dc9dd1f19fa8e5e975d0a0c62923aa" title="Set the callback to be triggered when events in JobEvent take place." alt="" coords="233,126,457,167"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a920ac69f439f677204b580d659fc762a" title="queue the execution of this function for the next time the main update() loop gets called" alt="" coords="543,5,718,61"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a6b24e9041d6e0107f3ce703f87499490" title=" " alt="" coords="505,85,756,141"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#ab44504c3da3a42da0b810941fd1a3a7d" title="Get the size of the queue of jobs (includes currently processed job)." alt="" coords="804,93,997,134"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TEST_P" name="TEST_P">
+<area shape="rect" id="node1" title="Tests the collision detector in multiple threads." alt="" coords="5,93,75,120"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionPluginCache.html#a22608240bd9c46b6ba9af89f8ecd003a" title="Activate a specific collision plugin for the given planning scene instance." alt="" coords="131,5,298,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a5ecd3e71d7283f30be300c83cfd84041" title="Get the robot model this state is constructed for." alt="" coords="123,86,307,127"/>
+<area shape="rect" id="node4" href="$test__multi__threaded_8cpp.html#a9aa03b5675c7b8136017b9b10a6ce6b1" title=" " alt="" coords="133,152,296,179"/>
+<area shape="rect" id="node5" href="$structcollision__detection_1_1CollisionResult.html#ac2f7f5603102be94cda1fe5d5fd1b531" title="Clear a previously stored result." alt="" coords="355,145,521,186"/>
+</map>

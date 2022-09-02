@@ -1,0 +1,5 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getEndEffector" name="moveit::planning_interface::MoveGroupInterface::getEndEffector">
+<area shape="rect" id="node1" title="Get the current end&#45;effector name. This returns the value set by setEndEffector() (or indirectly by s..." alt="" coords="5,13,272,54"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a10db1ca7e0a93e5e2d01e6565d528b42" title=" " alt="" coords="320,5,567,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a9a6746f8fe4fab2d2a17891b1dfc18db" title=" " alt="" coords="615,5,861,61"/>
+</map>

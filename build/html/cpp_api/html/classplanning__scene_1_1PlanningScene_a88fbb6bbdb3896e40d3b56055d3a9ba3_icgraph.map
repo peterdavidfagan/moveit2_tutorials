@@ -1,0 +1,5 @@
+<map id="planning_scene::PlanningScene::getCollisionDetectorName" name="planning_scene::PlanningScene::getCollisionDetectorName">
+<area shape="rect" id="node1" title=" " alt="" coords="289,39,531,80"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#af455ebe02c1eb6f45b3d4a66fa94edb1" title="Get a specific collision detector for the world. If not found return active CollisionWorld." alt="" coords="30,5,217,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene_1_1PlanningScene.html#ae0592bef9ca62337ad07336af0d990bd" title="Get a specific collision detector for the unpadded robot. If no found return active unpadded Collisio..." alt="" coords="5,71,241,112"/>
+</map>

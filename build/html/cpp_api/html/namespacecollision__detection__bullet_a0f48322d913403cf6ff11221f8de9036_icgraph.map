@@ -1,0 +1,5 @@
+<map id="collision_detection_bullet::createShapePrimitive" name="collision_detection_bullet::createShapePrimitive">
+<area shape="rect" id="node1" title="Casts a geometric shape into a btCollisionShape." alt="" coords="555,13,769,54"/>
+<area shape="rect" id="node2" href="$classcollision__detection__bullet_1_1CollisionObjectWrapper.html#ac1f8994b708800887775db70975b824d" title="Standard constructor." alt="" coords="280,5,507,61"/>
+<area shape="rect" id="node3" href="$classcollision__detection__bullet_1_1CollisionObjectWrapper.html#a009e942575043729bb8cfb4516d34214" title="Clones the collision objects but not the collision shape which is const." alt="" coords="5,5,232,61"/>
+</map>

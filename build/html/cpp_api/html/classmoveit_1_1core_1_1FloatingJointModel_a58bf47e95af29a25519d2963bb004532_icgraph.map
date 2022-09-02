@@ -1,0 +1,4 @@
+<map id="moveit::core::FloatingJointModel::normalizeRotation" name="moveit::core::FloatingJointModel::normalizeRotation">
+<area shape="rect" id="node1" title=" " alt="" coords="272,5,467,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1FloatingJointModel.html#ab9a43896e844e3a906e605d6e76e9a79" title="Force the specified values to be inside bounds and normalized. Quaternions are normalized,..." alt="" coords="5,5,224,47"/>
+</map>

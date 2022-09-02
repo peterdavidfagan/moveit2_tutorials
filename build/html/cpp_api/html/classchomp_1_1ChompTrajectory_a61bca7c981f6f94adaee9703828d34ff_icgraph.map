@@ -1,0 +1,7 @@
+<map id="chomp::ChompTrajectory::getNumPoints" name="chomp::ChompTrajectory::getNumPoints">
+<area shape="rect" id="node1" title="Gets the number of points in the trajectory." alt="" coords="740,57,924,98"/>
+<area shape="rect" id="node2" href="$classchomp_1_1ChompCost.html#a0f57ec99bc10539e37c11fdb8271b233" title=" " alt="" coords="460,5,692,32"/>
+<area shape="rect" id="node3" href="$classchomp_1_1ChompTrajectory.html#a7c699cdfffe049e9b9e103d787b41b39" title="Receives the path obtained from a given MotionPlanDetailedResponse res object&#39;s trajectory (e...." alt="" coords="484,57,668,98"/>
+<area shape="rect" id="node4" href="$classchomp_1_1ChompPlanner.html#a15329905603fe1bf38e84a3973dc3e83" title=" " alt="" coords="243,86,412,127"/>
+<area shape="rect" id="node5" href="$classchomp_1_1OptimizerAdapter.html#ac4b3582c46aba259952e593ebce7fcdb" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,86,195,127"/>
+</map>

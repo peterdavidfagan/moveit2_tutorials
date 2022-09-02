@@ -1,0 +1,8 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getCurrentPose" name="moveit::planning_interface::MoveGroupInterface::getCurrentPose">
+<area shape="rect" id="node1" title="Get the pose for the end&#45;effector end_effector_link. If end_effector_link is empty (the default value..." alt="" coords="5,130,276,171"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a28e03ac14fb8735120c953e75d03e435" title=" " alt="" coords="347,5,594,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a559c3c9af128d75d878d09fce60be941" title=" " alt="" coords="347,85,594,141"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a10a9d94597ba094bd59cb1ca9f69e75e" title="Get the current end&#45;effector link. This returns the value set by setEndEffectorLink() (or indirectly ..." alt="" coords="324,166,617,207"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a9a6746f8fe4fab2d2a17891b1dfc18db" title=" " alt="" coords="347,232,594,288"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a082889a56b7dd7f5003cb8673aadfd76" title=" " alt="" coords="665,159,912,215"/>
+</map>

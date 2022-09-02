@@ -1,0 +1,9 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setGoalTolerance" name="moveit::planning_interface::MoveGroupInterface::setGoalTolerance">
+<area shape="rect" id="node1" title="Set the tolerance that is used for reaching the goal. For joint state goals, this will be distance fo..." alt="" coords="5,93,288,134"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a8ec9d8fa132c8d807a5e48d18c579187" title="Set the joint tolerance (for each joint) that is used for reaching the goal when moving to a joint va..." alt="" coords="358,5,609,61"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a7f803a9f365c5c37801c04611d1db933" title="Set the orientation tolerance that is used for reaching the goal when moving to a pose." alt="" coords="336,85,631,141"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a25e58a6cc1c120409cfa5f256716ffca" title="Set the position tolerance that is used for reaching the goal when moving to a pose." alt="" coords="347,165,620,221"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#aa74efb0453a9df2775a33d81784fc448" title=" " alt="" coords="701,5,959,61"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a45db8bdbe71ec5c96a96030adb71e7aa" title=" " alt="" coords="679,85,981,141"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a66d19fefef880050f30bb1c7fd87766d" title=" " alt="" coords="689,165,971,221"/>
+</map>

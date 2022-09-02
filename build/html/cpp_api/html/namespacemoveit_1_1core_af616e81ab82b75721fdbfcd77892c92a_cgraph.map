@@ -1,0 +1,7 @@
+<map id="moveit::core::robotStateMsgToRobotState" name="moveit::core::robotStateMsgToRobotState">
+<area shape="rect" id="node1" title="Convert a robot state msg (with accompanying extra transforms) to a MoveIt robot state." alt="" coords="5,39,185,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#aaec5557d55b862d9dd832b3d4c221836" title="Update all transforms." alt="" coords="233,39,417,80"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#afa1f72a766bdf75d81f4404058322576" title="Update the transforms for the collision bodies. This call is needed before calling collision checking..." alt="" coords="465,39,701,80"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModel.html#aa6dbe9f994aca22adf80add175d10681" title="Get all the link models that descend from this joint, in the kinematic tree." alt="" coords="749,5,952,47"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="759,71,943,112"/>
+</map>

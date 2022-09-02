@@ -1,0 +1,21 @@
+<map id="moveit_setup::getSharePath" name="moveit_setup::getSharePath">
+<area shape="rect" id="node1" title="Return a path for the given package&#39;s share folder." alt="" coords="599,593,804,620"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1app_1_1LaunchBundle_1_1GenericLaunchTemplate.html#ab089d58dbf0b95d3df521069feca569c" title=" " alt="" coords="277,5,524,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1app_1_1LaunchBundle_1_1BonusTemplatedFile.html#a0cdcf868c94ae2831fc623cdd598f59d" title="Returns the full path to the template file." alt="" coords="286,85,515,141"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig_1_1GeneratedControlHeader.html#ac823b3ac832effc2594d94f58e06c005" title="Returns the full path to the template file." alt="" coords="284,165,517,221"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1ModifiedUrdfConfig_1_1GeneratedModifiedURDF.html#a2d2b89c2630a49689a3135f3274d0b3b" title="Returns the full path to the template file." alt="" coords="285,245,517,301"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1PackageSettingsConfig_1_1GeneratedPackageXML.html#aa3ffa37ef4bf3f0670367fa28166aacd" title="Returns the full path to the template file." alt="" coords="288,325,513,381"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1PackageSettingsConfig_1_1GeneratedCMake.html#a4b000e747cd6a49b21a5894e4379e866" title="Returns the full path to the template file." alt="" coords="251,406,551,447"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1SRDFConfig_1_1GeneratedCartesianLimits.html#ab7b940f29330e433ddd4d669341d486a" title="Returns the full path to the template file." alt="" coords="301,472,501,528"/>
+<area shape="rect" id="node9" href="$classSRDFTest.html#a92c4af5a7fa03c3fee55cdc99eac8ee8" title=" " alt="" coords="313,553,489,594"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1PackageSettingsConfig.html#ad005ee33923b5e269dbf0e9d6f8aaab1" title="Method for loading the contents of the .setup_assistant file into all the configs." alt="" coords="288,618,513,659"/>
+<area shape="rect" id="node11" href="$classmoveit__setup_1_1URDFConfig.html#aac67aed07dd23e2f72812009d6cbdc76" title=" " alt="" coords="302,683,499,725"/>
+<area shape="rect" id="node13" href="$classmoveit__setup_1_1app_1_1PerceptionConfig.html#ace501aef0163907f8cc7a9ecd6225279" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="289,749,513,790"/>
+<area shape="rect" id="node14" href="$classmoveit__setup_1_1core_1_1StartScreenWidget.html#a78d23f61b55af0e66760c650719dbad4" title=" " alt="" coords="325,815,476,871"/>
+<area shape="rect" id="node15" href="$classmoveit__setup_1_1URDFConfig.html#a70d88371b5628e5e657084726fc51991" title=" " alt="" coords="302,895,499,937"/>
+<area shape="rect" id="node17" href="$classPerceptionTest.html#acb55ab30623ed87ffa3ac2f064663607" title=" " alt="" coords="319,961,483,988"/>
+<area shape="rect" id="node18" href="$classmoveit__setup_1_1assistant_1_1SetupAssistantWidget.html#a44288a03a926f7ed8906298973aba5df" title=" " alt="" coords="311,1012,490,1068"/>
+<area shape="rect" id="node19" href="$test__controllers_8cpp.html#af5fc4f819a7eb9880a20f67c47c769b6" title=" " alt="" coords="366,1092,435,1119"/>
+<area shape="rect" id="node12" href="$classmoveit__setup_1_1URDFConfig.html#add58ed2d101f0fde5396a63ca8e39e36" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,683,203,725"/>
+<area shape="rect" id="node16" href="$classmoveit__setup_1_1URDFConfig.html#a264c79c66ebc953a1b078d2192d2586b" title="Load URDF File." alt="" coords="5,895,203,937"/>
+</map>

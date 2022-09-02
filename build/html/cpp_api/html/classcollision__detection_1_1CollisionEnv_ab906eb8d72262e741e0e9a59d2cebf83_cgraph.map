@@ -1,0 +1,6 @@
+<map id="collision_detection::CollisionEnv::distanceSelf" name="collision_detection::CollisionEnv::distanceSelf">
+<area shape="rect" id="node1" title="The distance to self&#45;collision given the robot is at state state, ignoring the distances between link..." alt="" coords="5,71,203,112"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnv.html#a803746c8ce727c0a7a0d1b8231fb8181" title="The distance to self&#45;collision given the robot is at state state." alt="" coords="267,5,465,47"/>
+<area shape="rect" id="node3" href="$structcollision__detection_1_1DistanceRequest.html#a3b9a173e3ac3bc7c653f4cdac75f3101" title="Compute active_components_only_ based on req_." alt="" coords="251,71,481,112"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1CollisionEnv.html#adc7afd7a2e3ff0fed04bc26717816e26" title="The kinematic model corresponding to this collision model." alt="" coords="258,136,474,177"/>
+</map>

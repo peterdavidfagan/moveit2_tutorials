@@ -1,0 +1,13 @@
+<map id="moveit_setup::RVizPanel::initialize" name="moveit_setup::RVizPanel::initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,50,188,91"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a8c4f020af521f8d1954703693fe483b0" title=" " alt="" coords="483,5,633,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1RVizPanel.html#a1aee819eda5a717edc00020e6951797a" title=" " alt="" coords="236,79,419,121"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1RVizPanel.html#a8323a545316f108e1eceb497cd19cb0d" title=" " alt="" coords="467,86,649,127"/>
+<area shape="rect" id="node6" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a2bdff8e6d98935b6e9f836adfe7936ff" title=" " alt="" coords="483,152,633,208"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1SRDFConfig.html#aaa5e1ec7eee10b0ebdbfc7bfed7e88d5" title=" " alt="" coords="697,86,892,127"/>
+<area shape="rect" id="node7" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a74781ccd8ac39ed29201d6c9d5a1d5d8" title=" " alt="" coords="719,152,870,208"/>
+<area shape="rect" id="node8" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a74829f8a12e4feabc197faa0dfe1fef3" title="Set the scene node&#39;s position, given the target frame and the planning frame." alt="" coords="1139,111,1319,167"/>
+<area shape="rect" id="node10" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a363ecce239112be517265d0328689dc1" title=" " alt="" coords="940,184,1091,240"/>
+<area shape="rect" id="node9" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#af045667511025aa8d36fe11a80fcaa8a" title=" " alt="" coords="1367,151,1517,207"/>
+<area shape="rect" id="node11" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#ab8aefed02a97756c133dac14a41e81b9" title=" " alt="" coords="1153,191,1304,247"/>
+</map>

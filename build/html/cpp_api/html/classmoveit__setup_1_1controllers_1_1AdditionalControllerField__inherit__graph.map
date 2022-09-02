@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::AdditionalControllerField" name="moveit_setup::controllers::AdditionalControllerField">
+<area shape="rect" id="node1" title="Structure for containing information about types of additional parameters." alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1MoveItControllers_1_1ActionNamespaceField.html" title=" " alt="" coords="244,5,547,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1MoveItControllers_1_1DefaultField.html" title=" " alt="" coords="279,71,512,112"/>
+</map>

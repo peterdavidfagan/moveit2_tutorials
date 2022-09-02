@@ -1,0 +1,8 @@
+<map id="chomp::ChompTrajectory::getTrajectoryPoint" name="chomp::ChompTrajectory::getTrajectoryPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="959,78,1143,119"/>
+<area shape="rect" id="node2" href="$classchomp_1_1ChompTrajectory.html#a2dbe9348a647ccfa28d47b9e0c03f6ce" title="This function assigns the given source RobotState to the row at index chomp_trajectory_point." alt="" coords="692,5,911,61"/>
+<area shape="rect" id="node4" href="$classchomp_1_1ChompPlanner.html#a15329905603fe1bf38e84a3973dc3e83" title=" " alt="" coords="243,49,412,90"/>
+<area shape="rect" id="node6" href="$classchomp_1_1ChompTrajectory.html#ac6648f657f13641600b3d39f1b6270dd" title="Creates a new containing only the joints of interest, and adds padding to the start and end if needed..." alt="" coords="709,137,893,178"/>
+<area shape="rect" id="node3" href="$classchomp_1_1ChompTrajectory.html#a7c699cdfffe049e9b9e103d787b41b39" title="Receives the path obtained from a given MotionPlanDetailedResponse res object&#39;s trajectory (e...." alt="" coords="460,17,644,58"/>
+<area shape="rect" id="node5" href="$classchomp_1_1OptimizerAdapter.html#ac4b3582c46aba259952e593ebce7fcdb" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,49,195,90"/>
+</map>

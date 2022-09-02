@@ -1,0 +1,10 @@
+<map id="collision_detection::CollisionEnvBullet::checkRobotCollision" name="collision_detection::CollisionEnvBullet::checkRobotCollision">
+<area shape="rect" id="node1" title="Check whether the robot model is in collision with the world. Allowed collisions are ignored...." alt="" coords="5,112,168,168"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvBullet.html#a7d61a67dcd95b0e223cf483643727cd3" title=" " alt="" coords="216,112,421,168"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnvBullet.html#aede208803d77b1e56d2419dae354d8ef" title="All of the attached objects in the robot state are wrapped into bullet collision objects." alt="" coords="520,5,673,61"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#ab67fb64eb7f7b59e4d6e940bb79f8d8e" title="Get the attached body named name. Return nullptr if not found." alt="" coords="505,86,689,127"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1AttachedBody.html#a385c7ec39f012ce26eb81b32fa22cae9" title="Get the global transforms (in world frame) for the collision bodies. The returned transforms are guar..." alt="" coords="469,151,724,193"/>
+<area shape="rect" id="node7" href="$classcollision__detection_1_1CollisionEnvBullet.html#a1b31896239d9bcdaab50d3b08d1090f6" title="Updates the poses of the objects in the manager according to given robot state." alt="" coords="489,217,704,273"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a449158e2e8aeba947bbc1a4473400ff7" title="Get all bodies attached to the model corresponding to this state." alt="" coords="783,13,967,54"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1RobotState.html#a22c47153cf437cbbd3914f15d177dd3d" title="Get the link transform w.r.t. the root link (model frame) of the RobotModel. This is typically the ro..." alt="" coords="772,225,977,266"/>
+</map>

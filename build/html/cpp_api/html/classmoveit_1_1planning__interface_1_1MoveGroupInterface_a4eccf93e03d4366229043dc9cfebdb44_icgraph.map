@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getCurrentJointValues" name="moveit::planning_interface::MoveGroupInterface::getCurrentJointValues">
+<area shape="rect" id="node1" title="Get the current joint values for the joints planned for by this instance (see getJoints())" alt="" coords="321,5,561,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a9756c7e7248526382189ca7cc89fdddd" title="Remember the current joint values (of the robot being monitored) under name. These can be used by set..." alt="" coords="5,5,273,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="distance_field::DistanceField::removeShapeFromField" name="distance_field::DistanceField::removeShapeFromField">
+<area shape="rect" id="node1" title="All points corresponding to the shape are removed from the distance field." alt="" coords="5,39,220,80"/>
+<area shape="rect" id="node2" href="$namespacedistance__field.html#a065dcdb8fe0b7ed297fb87a62afa2fbd" title="Find all points on a regular grid that are internal to the body, assuming the body is a convex shape...." alt="" coords="278,5,473,47"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#a292e7bad50dad1e00f1659aa83f5486c" title="Remove a set of obstacle points from the distance field, updating distance values accordingly." alt="" coords="268,71,483,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnvDistanceField::checkSelfCollisionHelper" name="collision_detection::CollisionEnvDistanceField::checkSelfCollisionHelper">
+<area shape="rect" id="node1" title=" " alt="" coords="252,5,451,61"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#add2cbd856521f2041bf3b72a190a35fb" title="Check for robot self collision. Any collision between any pair of links is checked for,..." alt="" coords="5,5,204,61"/>
+</map>

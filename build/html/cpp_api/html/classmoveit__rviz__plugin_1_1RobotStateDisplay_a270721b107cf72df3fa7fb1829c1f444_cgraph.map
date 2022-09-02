@@ -1,0 +1,5 @@
+<map id="moveit_rviz_plugin::RobotStateDisplay::update" name="moveit_rviz_plugin::RobotStateDisplay::update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,156,61"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a74829f8a12e4feabc197faa0dfe1fef3" title="Set the scene node&#39;s position, given the target frame and the planning frame." alt="" coords="204,5,384,61"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#af045667511025aa8d36fe11a80fcaa8a" title=" " alt="" coords="432,5,583,61"/>
+</map>

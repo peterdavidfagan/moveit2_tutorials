@@ -1,0 +1,5 @@
+<map id="moveit_simple_controller_manager::GripperControllerHandle::sendTrajectory" name="moveit_simple_controller_manager::GripperControllerHandle::sendTrajectory">
+<area shape="rect" id="node1" title="Send a trajectory to the controller." alt="" coords="5,61,259,117"/>
+<area shape="rect" id="node2" href="$classmoveit__simple__controller__manager_1_1ActionBasedControllerHandle.html#a40be1bef8852e58d5e54c6d2caed1dc7" title="Get the full name of the action using the action namespace and base name." alt="" coords="307,5,576,76"/>
+<area shape="rect" id="node3" href="$classmoveit__simple__controller__manager_1_1ActionBasedControllerHandle.html#a95e7132bcd0f2ad448cd3efaa7b8d68f" title="Check if the controller&#39;s action server is ready to receive action goals." alt="" coords="317,100,565,171"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit::core::Transforms::transformQuaternion" name="moveit::core::Transforms::transformQuaternion">
+<area shape="rect" id="node1" title="Transform a quaternion in from_frame to the target_frame." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1Transforms.html#a97876cc8c68434c382955b62a3fa3d99" title="Get transform for from_frame (w.r.t target frame)" alt="" coords="237,5,421,47"/>
+</map>

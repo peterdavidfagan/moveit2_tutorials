@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnv::distanceRobot" name="collision_detection::CollisionEnv::distanceRobot">
+<area shape="rect" id="node1" title="Compute the distance between a robot and the world." alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnv.html#a5b4e14b6e19a900f85056f4ec2e92130" title="Compute the shortest distance between a robot and the world." alt="" coords="5,5,216,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="occupancy_map_monitor::OccupancyMapMonitor::getTFClient" name="occupancy_map_monitor::OccupancyMapMonitor::getTFClient">
+<area shape="rect" id="node1" title="Gets the tf client." alt="" coords="275,5,460,61"/>
+<area shape="rect" id="node2" href="$classoccupancy__map__monitor_1_1DepthImageOctomapUpdater.html#a24649864175e9896b01eb6a576730c1f" title="Do any necessary setup (subscribe to ros topics, etc.). This call assumes setMonitor() and setParams(..." alt="" coords="5,5,227,61"/>
+</map>

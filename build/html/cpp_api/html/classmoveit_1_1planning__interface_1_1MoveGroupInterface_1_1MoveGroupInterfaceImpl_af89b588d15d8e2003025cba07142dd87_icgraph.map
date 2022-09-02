@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setStartStateToCurrentState" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setStartStateToCurrentState">
+<area shape="rect" id="node1" title=" " alt="" coords="309,5,608,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a34e857711a8dca3e98635f4925abaf46" title="Set the starting state for planning to be that reported by the robot&#39;s joint state publication." alt="" coords="5,5,261,61"/>
+</map>

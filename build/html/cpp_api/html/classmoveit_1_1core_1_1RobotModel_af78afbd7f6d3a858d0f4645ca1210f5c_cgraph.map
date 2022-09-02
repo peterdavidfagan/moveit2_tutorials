@@ -1,0 +1,5 @@
+<map id="moveit::core::RobotModel::setKinematicsAllocators" name="moveit::core::RobotModel::setKinematicsAllocators">
+<area shape="rect" id="node1" title="A map of known kinematics solvers (associated to their group name)" alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#ab438e2875489f6fd2149372c591eab21" title="Get a joint group from this model (by name)" alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5c96362127bca0b1263983def71cf86a" title="Get all the joints in this group (including fixed and mimic joints)." alt="" coords="249,71,430,112"/>
+</map>

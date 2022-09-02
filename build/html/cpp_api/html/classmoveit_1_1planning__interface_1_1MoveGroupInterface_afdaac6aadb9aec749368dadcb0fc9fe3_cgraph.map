@@ -1,0 +1,6 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setWorkspace" name="moveit::planning_interface::MoveGroupInterface::setWorkspace">
+<area shape="rect" id="node1" title="Specify the workspace bounding box. The box is specified in the planning frame (i...." alt="" coords="5,53,268,94"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#afde473456bf8e613734b639640392860" title=" " alt="" coords="316,45,563,101"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a28e03ac14fb8735120c953e75d03e435" title=" " alt="" coords="611,5,857,61"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a9a6746f8fe4fab2d2a17891b1dfc18db" title=" " alt="" coords="611,85,857,141"/>
+</map>

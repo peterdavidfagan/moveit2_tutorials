@@ -1,0 +1,4 @@
+<map id="kinematics::KinematicsBase::supportsGroup" name="kinematics::KinematicsBase::supportsGroup">
+<area shape="rect" id="node1" title="Check if this solver supports a given JointModelGroup." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a0db655aa0f72015d6d6531fa2cc48965" title="Check if this group is a linear chain." alt="" coords="260,5,441,47"/>
+</map>

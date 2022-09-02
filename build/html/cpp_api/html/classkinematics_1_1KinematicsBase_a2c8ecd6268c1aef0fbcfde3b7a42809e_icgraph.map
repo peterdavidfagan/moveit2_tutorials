@@ -1,0 +1,7 @@
+<map id="kinematics::KinematicsBase::storeValues" name="kinematics::KinematicsBase::storeValues">
+<area shape="rect" id="node1" title=" " alt="" coords="248,133,455,174"/>
+<area shape="rect" id="node2" href="$classpr2__arm__kinematics_1_1PR2ArmKinematicsPlugin.html#a4af26a6d1abd0a16f8223ab56272ca80" title="Initialization function for the kinematics." alt="" coords="5,5,200,61"/>
+<area shape="rect" id="node3" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="18,85,187,141"/>
+<area shape="rect" id="node4" href="$classlma__kinematics__plugin_1_1LMAKinematicsPlugin.html#a863e2c5e7aa26f888f96cad9c3b5f109" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="16,165,189,221"/>
+<area shape="rect" id="node5" href="$classsrv__kinematics__plugin_1_1SrvKinematicsPlugin.html#aad70fc7c31d0f4e022d1508acfa1aa7f" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="19,245,187,301"/>
+</map>

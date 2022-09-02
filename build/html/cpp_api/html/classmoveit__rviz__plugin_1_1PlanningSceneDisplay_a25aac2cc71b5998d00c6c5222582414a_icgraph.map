@@ -1,0 +1,4 @@
+<map id="moveit_rviz_plugin::PlanningSceneDisplay::getMoveGroupNS" name="moveit_rviz_plugin::PlanningSceneDisplay::getMoveGroupNS">
+<area shape="rect" id="node1" title=" " alt="" coords="233,5,408,61"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#aee4a87243cf759854077cff4e8a152ab" title="This is an event called by loadRobotModel() in the MainLoop; do not call directly." alt="" coords="5,5,185,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="constraint_samplers::UnionConstraintSampler::UnionConstraintSampler" name="constraint_samplers::UnionConstraintSampler::UnionConstraintSampler">
+<area shape="rect" id="node1" title="Constructor, which will re&#45;order its internal list of samplers on construction." alt="" coords="5,5,195,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a2f165c9374e28ac4052490819c790f45" title="Get the name of the joint group." alt="" coords="243,13,424,54"/>
+</map>

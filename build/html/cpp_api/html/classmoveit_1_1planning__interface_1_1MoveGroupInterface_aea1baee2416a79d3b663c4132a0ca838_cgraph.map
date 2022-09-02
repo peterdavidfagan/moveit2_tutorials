@@ -1,0 +1,5 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getVariableCount" name="moveit::planning_interface::MoveGroupInterface::getVariableCount">
+<area shape="rect" id="node1" title="Get the number of variables used to describe the state of this group. This is larger or equal to the ..." alt="" coords="5,50,288,91"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a85c033ed09c50bc557955b3b190548fc" title=" " alt="" coords="336,5,583,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="369,86,550,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="kdl_kinematics_plugin::JointMimic::reset" name="kdl_kinematics_plugin::JointMimic::reset">
+<area shape="rect" id="node1" title=" " alt="" coords="229,50,397,91"/>
+<area shape="rect" id="node2" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="9,5,178,61"/>
+<area shape="rect" id="node3" href="$classkdl__kinematics__plugin_1_1JointMimic.html#a5b60b26a9b3eb6c75850db533bbeb0c7" title=" " alt="" coords="5,86,181,127"/>
+</map>

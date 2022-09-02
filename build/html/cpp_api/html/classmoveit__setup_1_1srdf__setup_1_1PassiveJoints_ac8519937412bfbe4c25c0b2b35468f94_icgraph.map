@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::PassiveJoints::getActiveJoints" name="moveit_setup::srdf_setup::PassiveJoints::getActiveJoints">
+<area shape="rect" id="node1" title="Return all active (non&#45;fixed) joint names." alt="" coords="257,5,416,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1PassiveJointsWidget.html#a0cb90052620de1486ca9621b50c8b1b3" title="Received when this widget is chosen from the navigation menu." alt="" coords="5,5,209,61"/>
+</map>

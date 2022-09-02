@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::setVariableAccelerations" name="moveit::core::RobotState::setVariableAccelerations">
+<area shape="rect" id="node1" title="Given an array with acceleration values for all variables, set those values as the accelerations in t..." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ac12d8f11d2315ad931d1d0985485ae44" title="Given an array with acceleration values for all variables, set those values as the accelerations in t..." alt="" coords="244,5,435,47"/>
+</map>

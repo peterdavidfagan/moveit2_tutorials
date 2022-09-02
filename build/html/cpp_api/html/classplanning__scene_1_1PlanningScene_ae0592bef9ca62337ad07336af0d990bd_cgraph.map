@@ -1,0 +1,4 @@
+<map id="planning_scene::PlanningScene::getCollisionEnvUnpadded" name="planning_scene::PlanningScene::getCollisionEnvUnpadded">
+<area shape="rect" id="node1" title="Get a specific collision detector for the unpadded robot. If no found return active unpadded Collisio..." alt="" coords="5,5,241,47"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a88fbb6bbdb3896e40d3b56055d3a9ba3" title=" " alt="" coords="289,5,531,47"/>
+</map>

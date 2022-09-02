@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::ControlXacroConfig::hasChanges" name="moveit_setup::controllers::ControlXacroConfig::hasChanges">
+<area shape="rect" id="node1" title="Returns if the xacro and its properties have changed, resulting in the whole urdf needing regeneratio..." alt="" coords="284,53,527,94"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig_1_1GeneratedControlHeader.html#a0464a41a9591b540af8ff17c2151b167" title="Returns true if this file will have changes when it is written to file." alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig_1_1GeneratedInitialPositions.html#a83f3cd2658c8a112e5a68db4f0230027" title="Returns true if this file will have changes when it is written to file." alt="" coords="5,85,236,141"/>
+</map>

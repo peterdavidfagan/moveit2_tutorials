@@ -1,0 +1,7 @@
+<map id="moveit::core::RobotState::clearAttachedBody" name="moveit::core::RobotState::clearAttachedBody">
+<area shape="rect" id="node1" title="Remove the attached body named id. Return false if the object was not found (and thus not removed)...." alt="" coords="469,57,653,98"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a2efa6e38a215fda851f987bed33e1a7a" title="Add an attached body to this state." alt="" coords="237,57,421,98"/>
+<area shape="rect" id="node4" href="$test__collision__distance__field_8cpp.html#a56e5140b67b0faaad8824694f12fc901" title=" " alt="" coords="63,5,132,32"/>
+<area shape="rect" id="node5" href="$test__collision__common__pr2_8h.html#a164d50285b5759151d1378ebf66a3747" title=" " alt="" coords="38,123,157,149"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a1729cf0a1e5253a3dfc7836a33209a91" title="Add an attached body to a link." alt="" coords="5,57,189,98"/>
+</map>

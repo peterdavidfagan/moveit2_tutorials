@@ -1,0 +1,4 @@
+<map id="planning_interface::PlannerManager::initialize" name="planning_interface::PlannerManager::initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="256,13,456,54"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1CommandPlanner.html#ab5f6c26cbb353c979e7f8d7eba1c2cdb" title="Initializes the planner Upon initialization this planner will look for plugins implementing pilz_indu..." alt="" coords="5,5,208,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="collision_detection::AllowedCollisionMatrix::setEntry" name="collision_detection::AllowedCollisionMatrix::setEntry">
+<area shape="rect" id="node1" title="Set an entry corresponding to all possible pairs between two sets of elements." alt="" coords="5,5,185,61"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a2ad7ed411f25bcc382d447dec0f87530" title="Set an entry corresponding to a pair of elements." alt="" coords="233,5,413,61"/>
+</map>

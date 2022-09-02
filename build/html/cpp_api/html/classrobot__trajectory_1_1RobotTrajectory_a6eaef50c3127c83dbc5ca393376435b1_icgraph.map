@@ -1,0 +1,22 @@
+<map id="robot_trajectory::RobotTrajectory::getGroup" name="robot_trajectory::RobotTrajectory::getGroup">
+<area shape="rect" id="node1" title=" " alt="" coords="941,370,1176,411"/>
+<area shape="rect" id="node2" href="$classtrajectory__processing_1_1RuckigSmoothing.html#ad70304532097ece8d0820c567797ba46" title=" " alt="" coords="620,30,879,71"/>
+<area shape="rect" id="node3" href="$classtrajectory__processing_1_1IterativeSplineParameterization.html#ac65a0bed2a3d103913f7179b18efb6ab" title=" " alt="" coords="631,96,867,152"/>
+<area shape="rect" id="node6" href="$classtrajectory__processing_1_1IterativeParabolicTimeParameterization.html#a9178f8f9ae2540954879925f56ca0138" title=" " alt="" coords="605,363,893,419"/>
+<area shape="rect" id="node9" href="$classtrajectory__processing_1_1TimeOptimalTrajectoryGeneration.html#a7fb161f0df9bd1acb0a08cb339e43102" title=" " alt="" coords="624,216,875,272"/>
+<area shape="rect" id="node13" href="$classchomp_1_1ChompTrajectory.html#a7c699cdfffe049e9b9e103d787b41b39" title="Receives the path obtained from a given MotionPlanDetailedResponse res object&#39;s trajectory (e...." alt="" coords="657,297,841,338"/>
+<area shape="rect" id="node16" href="$namespacetrajectory__processing.html#abc470821d79a10aff1491c1d7d6e64b4" title=" " alt="" coords="668,443,831,485"/>
+<area shape="rect" id="node17" href="$test__time__parameterization_8cpp.html#af5870b8c7d637a7126165e5e5f4c8372" title=" " alt="" coords="648,611,851,637"/>
+<area shape="rect" id="node19" href="$test__time__parameterization_8cpp.html#a4b1491b3237644945d82573be3cd6d77" title=" " alt="" coords="670,560,829,587"/>
+<area shape="rect" id="node20" href="$test__time__parameterization_8cpp.html#a9e9c53951a8d9ae89aa8517fe0a63df8" title=" " alt="" coords="691,509,807,536"/>
+<area shape="rect" id="node4" href="$classdefault__planner__request__adapters_1_1AddIterativeSplineParameterization.html#a630967a9aade69aa8cc49f5ece102785" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="285,56,515,112"/>
+<area shape="rect" id="node5" href="$test__time__parameterization_8cpp.html#a1fb67aa34417d03016c74d44bd7f54e0" title=" " alt="" coords="373,5,427,32"/>
+<area shape="rect" id="node7" href="$classdefault__planner__request__adapters_1_1AddTimeParameterization.html#a66404b1e7b0f950d035929c33a748a7b" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="269,413,531,469"/>
+<area shape="rect" id="node8" href="$test__time__parameterization_8cpp.html#aa51b79e24472e01dd59a8f68878e719e" title=" " alt="" coords="373,509,427,536"/>
+<area shape="rect" id="node10" href="$classdefault__planner__request__adapters_1_1AddTimeOptimalParameterization.html#addb58f9acb48922a5a6fb7c8aa4aacf2" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="243,136,557,192"/>
+<area shape="rect" id="node11" href="$classmoveit_1_1hybrid__planning_1_1SimpleSampler.html#a7c6b3f8cb49983fd8fd6559b6be922c8" title=" " alt="" coords="287,216,513,272"/>
+<area shape="rect" id="node12" href="$test__time__optimal__trajectory__generation_8cpp.html#ad7b222b415e14f9d93f2d3ae4daef939" title=" " alt="" coords="373,296,427,323"/>
+<area shape="rect" id="node14" href="$classchomp_1_1ChompPlanner.html#a15329905603fe1bf38e84a3973dc3e83" title=" " alt="" coords="315,347,485,389"/>
+<area shape="rect" id="node15" href="$classchomp_1_1OptimizerAdapter.html#ac4b3582c46aba259952e593ebce7fcdb" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,347,195,389"/>
+<area shape="rect" id="node18" href="$test__time__parameterization_8cpp.html#ab781032eb35a81d9e63d273589f28f8f" title=" " alt="" coords="373,611,427,637"/>
+</map>

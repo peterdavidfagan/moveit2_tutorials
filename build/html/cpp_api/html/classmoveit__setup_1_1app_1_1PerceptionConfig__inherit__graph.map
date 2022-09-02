@@ -1,0 +1,4 @@
+<map id="moveit_setup::app::PerceptionConfig" name="moveit_setup::app::PerceptionConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="29,80,179,121"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="5,5,203,32"/>
+</map>

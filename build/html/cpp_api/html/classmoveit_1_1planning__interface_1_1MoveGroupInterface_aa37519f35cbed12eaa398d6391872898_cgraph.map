@@ -1,0 +1,6 @@
+<map id="moveit::planning_interface::MoveGroupInterface::attachObject" name="moveit::planning_interface::MoveGroupInterface::attachObject">
+<area shape="rect" id="node1" title="Given the name of an object in the planning scene, make the object attached to a link of the robot...." alt="" coords="5,50,260,91"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a62722804bdc9b33186e4204207953436" title=" " alt="" coords="308,43,555,99"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a082889a56b7dd7f5003cb8673aadfd76" title=" " alt="" coords="603,5,849,61"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModelGroup.html#a0b1752d210db29e6a05f7d0e70c4ce4f" title="Get the names of the links that are part of this joint group." alt="" coords="625,86,827,127"/>
+</map>

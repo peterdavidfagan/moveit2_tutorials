@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::PlanningSceneInterface::PlanningSceneInterfaceImpl::removeCollisionObjects" name="moveit::planning_interface::PlanningSceneInterface::PlanningSceneInterfaceImpl::removeCollisionObjects">
+<area shape="rect" id="node1" title=" " alt="" coords="251,5,463,76"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#a80b92c069d986fb3638e27c01645be9b" title="Remove collision objects from the world via /planning_scene." alt="" coords="5,13,203,69"/>
+</map>

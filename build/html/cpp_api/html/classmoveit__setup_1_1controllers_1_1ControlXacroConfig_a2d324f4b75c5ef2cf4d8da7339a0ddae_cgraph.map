@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::ControlXacroConfig::onInit" name="moveit_setup::controllers::ControlXacroConfig::onInit">
+<area shape="rect" id="node1" title="Overridable initialization method." alt="" coords="5,39,205,80"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup_1_1controllers.html#ad3074b2d1a99f6dad7f4c233d6fe4a1d" title=" " alt="" coords="253,5,468,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1IncludedXacroConfig.html#a90e3b2edfb2b1638fe9468c37d55beca" title="Overridable initialization method." alt="" coords="255,71,466,112"/>
+</map>

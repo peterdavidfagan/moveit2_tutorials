@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setPlannerId" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setPlannerId">
+<area shape="rect" id="node1" title=" " alt="" coords="305,5,552,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#acab185ec950fe45dad9781eca3c71cc2" title="Specify a planner to be used for further planning." alt="" coords="5,13,257,54"/>
+</map>

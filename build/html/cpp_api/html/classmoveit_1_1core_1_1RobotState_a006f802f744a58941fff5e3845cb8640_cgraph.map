@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::setToDefaultValues" name="moveit::core::RobotState::setToDefaultValues">
+<area shape="rect" id="node1" title="Set the joints in group to the position name defined in the SRDF." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a04b9343fdf57f04895fa21c326164d0f" title="It is assumed positions is an array containing the new positions for all variables in this state...." alt="" coords="237,5,421,47"/>
+</map>

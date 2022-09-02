@@ -1,0 +1,8 @@
+<map id="moveit::core::RobotState::setVariableVelocities" name="moveit::core::RobotState::setVariableVelocities">
+<area shape="rect" id="node1" title="Given an array with velocity values for all variables, set those values as the velocities in this sta..." alt="" coords="264,152,448,193"/>
+<area shape="rect" id="node2" href="$namespacemoveit_1_1core.html#a4902be802c9029fc7342a2d099f970c6" title="Convert a joint trajectory point to a MoveIt robot state." alt="" coords="12,5,209,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene__monitor_1_1CurrentStateMonitor.html#a4de1dba0bdf28ab261818b93b9e06dd2" title="Set the state upd to the current state maintained by this class." alt="" coords="20,71,201,127"/>
+<area shape="rect" id="node4" href="$classTrajectoryGeneratorCommonTest.html#a80e3885bdb7b0ce80bc85c3a75e0e28b" title=" " alt="" coords="5,152,216,193"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#ad6c510f6a210b7344675b421d8035527" title=" " alt="" coords="19,217,203,259"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1RobotState.html#aa9f4f42c2e6eef2cccfd03c9dcb2de2b" title="Given an array with velocity values for all variables, set those values as the velocities in this sta..." alt="" coords="19,283,203,324"/>
+</map>

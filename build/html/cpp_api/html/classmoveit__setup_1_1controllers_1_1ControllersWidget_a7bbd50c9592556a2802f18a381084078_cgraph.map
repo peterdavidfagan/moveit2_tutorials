@@ -1,0 +1,13 @@
+<map id="moveit_setup::controllers::ControllersWidget::loadControllerScreen" name="moveit_setup::controllers::ControllersWidget::loadControllerScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="5,296,252,352"/>
+<area shape="rect" id="node2" href="$namespacerclcpp_1_1names.html#a4c3e21517afd9a6909de322da95c5e81" title=" " alt="" coords="334,5,503,32"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#ace0e2e85126d016bbd33cf7c18da4aee" title="Hide delete controller button." alt="" coords="325,56,513,112"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#aedc2d2f355a301071752cc5c20cb9bab" title="Hide new buttons widget." alt="" coords="325,136,513,192"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#ab8e55d027cd429a6277046e74eb3aa51" title="Populate the combo dropdown box with controllers types." alt="" coords="300,216,537,272"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#aaa9825caf1027404fc75c27ef92d4c15" title="Set the previous data." alt="" coords="325,296,513,352"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#ae69074c88b20b311ec3510fd8cefddcc" title="Set widget title." alt="" coords="325,376,513,432"/>
+<area shape="rect" id="node9" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#a51f6c984be1df85c52c98a5860056d02" title="Show delete controller button." alt="" coords="325,456,513,512"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#a33356f12ed6918b5a94e1051a2ddf664" title="Show new buttons widget." alt="" coords="324,536,513,592"/>
+<area shape="rect" id="node11" href="$classmoveit__setup_1_1controllers_1_1ControllerEditWidget.html#a73b3fbcb3d25717334f90c4b5fdc6a58" title="Show save controller button." alt="" coords="325,616,513,672"/>
+<area shape="rect" id="node3" href="$namespacerclcpp_1_1names.html#a80893fadce35db823b13c8ddd4be2104" title=" " alt="" coords="585,5,741,32"/>
+</map>

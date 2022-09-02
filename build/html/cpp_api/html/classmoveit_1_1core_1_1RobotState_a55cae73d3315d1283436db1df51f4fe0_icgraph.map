@@ -1,0 +1,5 @@
+<map id="moveit::core::RobotState::computeAABB" name="moveit::core::RobotState::computeAABB">
+<area shape="rect" id="node1" title="Compute an axis&#45;aligned bounding box that contains the current state. The format for aabb is (minx,..." alt="" coords="237,35,421,76"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ad6919686feee89138316eb279794b71f" title="Compute an axis&#45;aligned bounding box that contains the current state. The format for aabb is (minx,..." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node3" href="$test__aabb_8cpp.html#a3fa5c4d317ef11767124171449c95a90" title=" " alt="" coords="63,71,132,98"/>
+</map>

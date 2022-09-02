@@ -1,0 +1,9 @@
+<map id="moveit_rviz_plugin::RobotStateDisplay::calculateOffsetPosition" name="moveit_rviz_plugin::RobotStateDisplay::calculateOffsetPosition">
+<area shape="rect" id="node1" title="Set the scene node&#39;s position, given the target frame and the planning frame." alt="" coords="872,85,1052,141"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a6642f2d6fdd63380c59c352083497bc2" title=" " alt="" coords="665,5,824,61"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a74781ccd8ac39ed29201d6c9d5a1d5d8" title=" " alt="" coords="669,85,820,141"/>
+<area shape="rect" id="node7" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a270721b107cf72df3fa7fb1829c1f444" title=" " alt="" coords="669,165,820,221"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a2bdff8e6d98935b6e9f836adfe7936ff" title=" " alt="" coords="467,85,617,141"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1RVizPanel.html#a1aee819eda5a717edc00020e6951797a" title=" " alt="" coords="236,93,419,134"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1RVizPanel.html#a761aaac7df4bef344f6ca1b742a9a6d3" title=" " alt="" coords="5,93,188,134"/>
+</map>

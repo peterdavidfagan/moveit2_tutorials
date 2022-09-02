@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::DefaultCollisions::linkPairsFromSRDF" name="moveit_setup::srdf_setup::DefaultCollisions::linkPairsFromSRDF">
+<area shape="rect" id="node1" title="Load Link Pairs from SRDF Format." alt="" coords="5,35,189,91"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup_1_1srdf__setup.html#a78151130b2a296acd308a638f0a2e3ae" title="Generate a list of unique link pairs for all links with geometry. Order pairs alphabetically...." alt="" coords="248,5,436,47"/>
+<area shape="rect" id="node3" href="$namespacemoveit__setup_1_1srdf__setup.html#a7ada1cb81a25688ebe83a26aad0e22ae" title="Converts a string reason for disabling a link pair into a struct data type." alt="" coords="237,71,447,127"/>
+</map>

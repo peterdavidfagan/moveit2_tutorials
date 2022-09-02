@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups::setChain" name="moveit_setup::srdf_setup::PlanningGroups::setChain">
+<area shape="rect" id="node1" title="Set the specified group&#39;s kinematic chain." alt="" coords="5,57,180,113"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#a1ef32faab24ffa33117a70e81a1d2d9e" title="Return a pointer to an item with the given name if it exists, otherwise null." alt="" coords="229,5,402,76"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1PlanningGroups.html#a1b0b096e7e4a1917c3d6a8b2a42d0585" title=" " alt="" coords="228,101,403,157"/>
+</map>

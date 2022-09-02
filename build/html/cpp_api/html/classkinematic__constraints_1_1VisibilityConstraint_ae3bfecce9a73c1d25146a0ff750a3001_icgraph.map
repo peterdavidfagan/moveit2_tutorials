@@ -1,0 +1,5 @@
+<map id="kinematic_constraints::VisibilityConstraint::decideContact" name="kinematic_constraints::VisibilityConstraint::decideContact">
+<area shape="rect" id="node1" title="Function that gets passed into collision checking to allow some collisions." alt="" coords="337,5,504,61"/>
+<area shape="rect" id="node2" href="$classkinematic__constraints_1_1VisibilityConstraint.html#a9fe993145aed928f6b35b8cb5da7774d" title="Decide whether the constraint is satisfied in the indicated state." alt="" coords="123,5,289,61"/>
+<area shape="rect" id="node3" href="$test__constraints_8cpp.html#a737ad5ef218fca06bddc7117ebc789fd" title=" " alt="" coords="5,20,75,47"/>
+</map>

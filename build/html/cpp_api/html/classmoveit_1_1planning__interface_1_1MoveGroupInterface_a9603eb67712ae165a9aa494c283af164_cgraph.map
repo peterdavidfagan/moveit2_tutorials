@@ -1,0 +1,5 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getActiveJoints" name="moveit::planning_interface::MoveGroupInterface::getActiveJoints">
+<area shape="rect" id="node1" title="Get only the active (actuated) joints this instance operates on." alt="" coords="5,35,239,91"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#ad3a2b2661f3303f1d6fb8a8a08008174" title="Get the names of the active joints in this group. These are the names of the joints returned by getJo..." alt="" coords="287,5,533,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a85c033ed09c50bc557955b3b190548fc" title=" " alt="" coords="287,71,533,127"/>
+</map>

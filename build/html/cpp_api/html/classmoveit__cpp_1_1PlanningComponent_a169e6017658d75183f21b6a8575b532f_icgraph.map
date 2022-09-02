@@ -1,0 +1,4 @@
+<map id="moveit_cpp::PlanningComponent::setStartStateToCurrentState" name="moveit_cpp::PlanningComponent::setStartStateToCurrentState">
+<area shape="rect" id="node1" title="Set the start state for planning to be the current state of the robot." alt="" coords="204,5,441,47"/>
+<area shape="rect" id="node2" href="$planning_8cpp.html#aa03043dfb277740413665226e41f86be" title=" " alt="" coords="5,13,156,39"/>
+</map>

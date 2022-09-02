@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::ControlXacroConfig::setControlInterfaces" name="moveit_setup::controllers::ControlXacroConfig::setControlInterfaces">
+<area shape="rect" id="node1" title="Use the specified controller interfaces for all the lacking joints." alt="" coords="300,43,531,99"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig.html#aa80689c08d8312b1df2f99b6135d37b3" title="Load the original command interfaces from the original (unmodified) URDF." alt="" coords="17,5,241,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig.html#a15e9e4f8b1c14f66ef546b863fbe9319" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,86,252,127"/>
+</map>

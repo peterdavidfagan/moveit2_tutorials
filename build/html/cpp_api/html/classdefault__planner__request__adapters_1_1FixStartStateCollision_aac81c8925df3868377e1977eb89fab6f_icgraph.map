@@ -1,0 +1,4 @@
+<map id="default_planner_request_adapters::FixStartStateCollision::getDescription" name="default_planner_request_adapters::FixStartStateCollision::getDescription">
+<area shape="rect" id="node1" title="Get a short string that identifies the planning request adapter." alt="" coords="288,5,523,61"/>
+<area shape="rect" id="node2" href="$classdefault__planner__request__adapters_1_1FixStartStateCollision.html#a6a27767fecdf33ae860200005535482a" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,5,240,61"/>
+</map>

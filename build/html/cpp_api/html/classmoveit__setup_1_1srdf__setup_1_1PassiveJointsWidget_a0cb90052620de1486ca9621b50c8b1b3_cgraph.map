@@ -1,0 +1,9 @@
+<map id="moveit_setup::srdf_setup::PassiveJointsWidget::focusGiven" name="moveit_setup::srdf_setup::PassiveJointsWidget::focusGiven">
+<area shape="rect" id="node1" title="Received when this widget is chosen from the navigation menu." alt="" coords="5,151,209,207"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1DoubleListWidget.html#a3a951d4fca9fb62699c3ed0b223d5f04" title=" " alt="" coords="257,5,445,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1PassiveJoints.html#ac8519937412bfbe4c25c0b2b35468f94" title="Return all active (non&#45;fixed) joint names." alt="" coords="272,71,431,127"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1srdf__setup_1_1PassiveJoints.html#a09bb860eccccbb3a08142825f34c65e5" title="Return all passive joint names (according to srdf)" alt="" coords="272,151,431,207"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1DoubleListWidget.html#ac741bc72305ac5c150bff4f8d3d1c3f5" title="Loads the available data list." alt="" coords="257,232,445,273"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1DoubleListWidget.html#aff8b70d2f4b7c0921d694d3014673840" title="Set the right box." alt="" coords="257,297,445,339"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1DoubleListWidget.html#a635f2f761ff68016b5fa7070d4bfc919" title="Convenience function for reusing set table code." alt="" coords="493,265,681,307"/>
+</map>

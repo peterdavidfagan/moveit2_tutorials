@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setPlannerParams" name="moveit::planning_interface::MoveGroupInterface::setPlannerParams">
+<area shape="rect" id="node1" title="Set the planner parameters for given group and planner_id." alt="" coords="5,5,245,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#af4c3f1c238fc0d9945ca0a8dbdd17436" title=" " alt="" coords="293,5,540,61"/>
+</map>

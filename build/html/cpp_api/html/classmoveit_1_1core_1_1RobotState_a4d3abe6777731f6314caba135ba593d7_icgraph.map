@@ -1,0 +1,6 @@
+<map id="moveit::core::RobotState::computeVariableVelocity" name="moveit::core::RobotState::computeVariableVelocity">
+<area shape="rect" id="node1" title="Given a twist for a particular link (tip), compute the corresponding velocity for every variable and ..." alt="" coords="477,39,669,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#afc43c8b0e761f33418bb414698274ec6" title="Given a twist for a particular link (tip), compute the corresponding velocity for every variable and ..." alt="" coords="237,5,429,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a7299fef43f47964c0180f981122a6058" title="Set the joint values from a Cartesian velocity applied during a time dt." alt="" coords="241,71,425,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a4814e754ff197a74fadf62bb0390767e" title="Set the joint values from a Cartesian velocity applied during a time dt." alt="" coords="5,71,189,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveit_rviz_plugin::JMGItemModel::flags" name="moveit_rviz_plugin::JMGItemModel::flags">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,171,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModel.html#aea3af43bb2808c5e8b15047b8b52c5ed" title="Get the joint this one is mimicking." alt="" coords="219,5,400,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#ab8ece3a19d360dcc9f3e29fd85b3e3fe" title="Check if this joint is passive." alt="" coords="219,71,400,112"/>
+</map>

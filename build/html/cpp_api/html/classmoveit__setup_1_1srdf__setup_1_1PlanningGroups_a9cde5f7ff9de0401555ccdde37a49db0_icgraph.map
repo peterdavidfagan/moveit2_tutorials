@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups::getKinematicPlanners" name="moveit_setup::srdf_setup::PlanningGroups::getKinematicPlanners">
+<area shape="rect" id="node1" title=" " alt="" coords="304,5,479,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1GroupEditWidget.html#a80ba264a17ba1b9b653eede630470521" title="Populate the combo dropdown box with kinematic planners." alt="" coords="5,5,256,61"/>
+</map>

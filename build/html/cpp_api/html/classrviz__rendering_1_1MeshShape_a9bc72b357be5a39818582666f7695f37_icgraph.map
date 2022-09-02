@@ -1,0 +1,4 @@
+<map id="rviz_rendering::MeshShape::endTriangles" name="rviz_rendering::MeshShape::endTriangles">
+<area shape="rect" id="node1" title="Notify that the set of triangles to add is complete. No more triangles can be added,..." alt="" coords="267,5,465,47"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1RenderShapes.html#a356138a2ad09e315c2db737e2b1d83b5" title=" " alt="" coords="5,5,219,47"/>
+</map>

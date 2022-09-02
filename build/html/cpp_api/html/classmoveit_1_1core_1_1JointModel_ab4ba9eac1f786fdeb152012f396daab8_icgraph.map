@@ -1,0 +1,5 @@
+<map id="moveit::core::JointModel::distance" name="moveit::core::JointModel::distance">
+<area shape="rect" id="node1" title="Compute the distance between two joint states of the same model (represented by the variable values)" alt="" coords="319,39,500,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ae08f49d7209cdad180fa8206170f48e6" title="Return the sum of joint distances to &quot;other&quot; state. An L1 norm. Only considers active joints." alt="" coords="46,5,230,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#adaf152251e15131a66e48f5e1de98dbb" title="Provide random values for the joint variables (within default bounds). Enough memory is assumed to be..." alt="" coords="5,71,271,112"/>
+</map>

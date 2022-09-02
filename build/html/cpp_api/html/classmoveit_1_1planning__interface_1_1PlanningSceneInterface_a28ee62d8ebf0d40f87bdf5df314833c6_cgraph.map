@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::PlanningSceneInterface::getAttachedObjects" name="moveit::planning_interface::PlanningSceneInterface::getAttachedObjects">
+<area shape="rect" id="node1" title="Get the attached objects identified by the given object ids list. If no ids are provided,..." alt="" coords="5,13,203,69"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface_1_1PlanningSceneInterfaceImpl.html#a15b8a6c401b4e7ab03b2c20b30905251" title=" " alt="" coords="251,5,463,76"/>
+</map>

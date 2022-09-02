@@ -1,0 +1,14 @@
+<map id="moveit_setup::SRDFConfig::getRobotModel" name="moveit_setup::SRDFConfig::getRobotModel">
+<area shape="rect" id="node1" title=" " alt="" coords="709,104,904,145"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SRDFConfig.html#aa03c888c95c0e6cb9dce736a362b56d4" title="Return the name of the child link of a joint." alt="" coords="467,5,661,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SRDFConfig.html#a7d54552b81ad8e786c651760d8ac46ca" title="Provide a shared planning scene." alt="" coords="467,71,661,112"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1RVizPanel.html#a8323a545316f108e1eceb497cd19cb0d" title=" " alt="" coords="473,136,655,177"/>
+<area shape="rect" id="node12" href="$classmoveit__setup_1_1SRDFConfig_1_1GeneratedJointLimits.html#aa77d68e80c09485731ab58e5be471056" title=" " alt="" coords="467,202,661,258"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1RVizPanel.html#a772c9d309115ea365ffe4e04a41faef5" title=" " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1RVizPanel.html#a021419a4b693afad99adf69896ea41da" title=" " alt="" coords="236,71,419,112"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1RVizPanel.html#a0e685068a2f161f2725a4e2c7a4b2e69" title=" " alt="" coords="236,136,419,177"/>
+<area shape="rect" id="node9" href="$classmoveit__setup_1_1RVizPanel.html#a3e0494c76e12d0d111bc101635d4d8d5" title=" " alt="" coords="236,201,419,243"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1RVizPanel.html#a1aee819eda5a717edc00020e6951797a" title=" " alt="" coords="236,267,419,308"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1RVizPanel.html#ab74c17b49465f7aa7e1c5b17603efb99" title=" " alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node11" href="$classmoveit__setup_1_1RVizPanel.html#a761aaac7df4bef344f6ca1b742a9a6d3" title=" " alt="" coords="5,267,188,308"/>
+</map>

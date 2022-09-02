@@ -1,0 +1,6 @@
+<map id="serializeMsg" name="serializeMsg">
+<area shape="rect" id="node1" title="Convert a ROS message to a Python Bytes." alt="" coords="431,60,535,87"/>
+<area shape="rect" id="node2" href="$namespacemoveit__py_1_1bind__moveit__cpp.html#ae5020302df1789dd8df5900bfae7f935" title=" " alt="" coords="204,5,383,61"/>
+<area shape="rect" id="node4" href="$namespacemoveit__py_1_1bind__moveit__cpp.html#aa88dd9ddc644f708807cc58a04fa9d7f" title=" " alt="" coords="204,85,383,141"/>
+<area shape="rect" id="node3" href="$planning_8cpp.html#aa03043dfb277740413665226e41f86be" title=" " alt="" coords="5,60,156,87"/>
+</map>

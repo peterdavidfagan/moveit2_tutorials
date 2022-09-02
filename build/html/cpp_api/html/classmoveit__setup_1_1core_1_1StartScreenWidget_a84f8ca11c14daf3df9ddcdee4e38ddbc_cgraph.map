@@ -1,0 +1,6 @@
+<map id="moveit_setup::core::StartScreenWidget::focusGiven" name="moveit_setup::core::StartScreenWidget::focusGiven">
+<area shape="rect" id="node1" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="5,63,156,119"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1core_1_1StartScreen.html#a6be3b4a918550673168bc56fb3c0bb77" title=" " alt="" coords="209,5,423,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1core_1_1StartScreen.html#a057c5266bb9646c4feb7a9a634d01bf7" title=" " alt="" coords="217,71,415,112"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1LoadPathWidget.html#a35231d69b66231e82f0e9fb90f5bb295" title="Set the path with QString." alt="" coords="204,136,428,177"/>
+</map>

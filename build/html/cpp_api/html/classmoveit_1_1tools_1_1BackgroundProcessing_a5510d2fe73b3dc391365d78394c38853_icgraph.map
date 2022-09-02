@@ -1,0 +1,4 @@
+<map id="moveit::tools::BackgroundProcessing::clearJobUpdateEvent" name="moveit::tools::BackgroundProcessing::clearJobUpdateEvent">
+<area shape="rect" id="node1" title="Clear the callback to be triggered when events in JobEvent take place." alt="" coords="244,13,480,54"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#af933ae3821770259b8ada2f46f2a9c04" title=" " alt="" coords="5,5,196,61"/>
+</map>

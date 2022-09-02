@@ -1,0 +1,5 @@
+<map id="chomp::ChompTrajectory::ChompTrajectory" name="chomp::ChompTrajectory::ChompTrajectory">
+<area shape="rect" id="node1" title="Creates a new containing only the joints of interest, and adds padding to the start and end if needed..." alt="" coords="5,39,189,80"/>
+<area shape="rect" id="node2" href="$classchomp_1_1ChompTrajectory.html#a972938a9774b1e0654d56ed7dd7da0e9" title="Gets the number of joints in each trajectory point." alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classchomp_1_1ChompTrajectory.html#a98259b5fe962c1f2e010b3bb747324f3" title=" " alt="" coords="237,71,421,112"/>
+</map>

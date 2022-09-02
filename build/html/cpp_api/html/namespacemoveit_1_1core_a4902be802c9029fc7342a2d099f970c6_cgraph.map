@@ -1,0 +1,7 @@
+<map id="moveit::core::jointTrajPointToRobotState" name="moveit::core::jointTrajPointToRobotState">
+<area shape="rect" id="node1" title="Convert a joint trajectory point to a MoveIt robot state." alt="" coords="5,104,203,145"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ac12d8f11d2315ad931d1d0985485ae44" title="Given an array with acceleration values for all variables, set those values as the accelerations in t..." alt="" coords="251,5,441,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#aa4cac190ffed854f609b4552fe247554" title="Given an array with effort values for all variables, set those values as the effort in this state." alt="" coords="254,71,438,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a04b9343fdf57f04895fa21c326164d0f" title="It is assumed positions is an array containing the new positions for all variables in this state...." alt="" coords="254,136,438,177"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a61b8f09e3940519f1abc6f6862305e2f" title="Given an array with velocity values for all variables, set those values as the velocities in this sta..." alt="" coords="254,201,438,243"/>
+</map>

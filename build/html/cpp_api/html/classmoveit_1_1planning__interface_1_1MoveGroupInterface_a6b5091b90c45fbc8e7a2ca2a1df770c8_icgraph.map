@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getRobotModel" name="moveit::planning_interface::MoveGroupInterface::getRobotModel">
+<area shape="rect" id="node1" title="Get the RobotModel object." alt="" coords="309,5,580,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#abe1de96366109bdfe47aa6448b2fa121" title="If a different start state should be considered instead of the current state of the robot,..." alt="" coords="5,5,261,47"/>
+</map>

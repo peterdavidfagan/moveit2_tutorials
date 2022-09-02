@@ -1,0 +1,4 @@
+<map id="moveit_setup::getSharePath" name="moveit_setup::getSharePath">
+<area shape="rect" id="node1" title="Return a path for the given package&#39;s share folder." alt="" coords="5,20,211,47"/>
+<area shape="rect" id="node2" href="$namespacecreate__ikfast__moveit__plugin.html#a0c9b4e891e3b0ed1d9e9da320cee114b" title=" " alt="" coords="259,5,457,61"/>
+</map>

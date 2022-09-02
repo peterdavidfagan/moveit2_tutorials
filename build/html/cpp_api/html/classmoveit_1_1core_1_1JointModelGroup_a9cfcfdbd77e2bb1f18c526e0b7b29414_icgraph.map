@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModelGroup::getSubgroups" name="moveit::core::JointModelGroup::getSubgroups">
+<area shape="rect" id="node1" title="Get the groups that are subsets of this one (in terms of joints set)" alt="" coords="237,5,419,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ab8313d03f9a6f2e17e19db6f6faf5db8" title="setFromIK for multiple poses and tips (end effectors) when no solver exists for the jmg that can solv..." alt="" coords="5,5,189,47"/>
+</map>

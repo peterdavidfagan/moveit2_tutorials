@@ -1,0 +1,10 @@
+<map id="collision_detection::PosedDistanceField::getDistanceGradient" name="collision_detection::PosedDistanceField::getDistanceGradient">
+<area shape="rect" id="node1" title="Gets not only the distance to the nearest cell but the gradient direction. The point defined by the x..." alt="" coords="5,162,169,218"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a5808c7630a3f194f2608fda16cc4546f" title="Gets not only the distance to the nearest cell but the gradient direction. The gradient is computed a..." alt="" coords="217,169,412,211"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#afe3d2c4d985084a897aeb4920a2e6f3f" title="Gets the distance to the closest obstacle at the given location. The particulars of this function are..." alt="" coords="482,5,659,47"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#a51d46c3d2cc8d412d64dd8015cd3e710" title="Gets a distance value for an invalid cell." alt="" coords="460,71,681,112"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#a0014563f9f1c74ccf60d1d20a3af2b78" title="Gets the number of cells along the X axis." alt="" coords="482,136,659,177"/>
+<area shape="rect" id="node6" href="$classdistance__field_1_1DistanceField.html#ae57048dd1fc4f867c88db969f0d41593" title="Gets the number of cells along the Y axis." alt="" coords="482,201,659,243"/>
+<area shape="rect" id="node7" href="$classdistance__field_1_1DistanceField.html#af51959bcd7efdb18f60207075d09b964" title="Gets the number of cells along the Z axis." alt="" coords="482,267,659,308"/>
+<area shape="rect" id="node8" href="$classdistance__field_1_1DistanceField.html#a23af274792c1986b9367541b9b00774f" title="Converts from a world location to a set of integer indices. Should return false if the world location..." alt="" coords="482,332,659,373"/>
+</map>

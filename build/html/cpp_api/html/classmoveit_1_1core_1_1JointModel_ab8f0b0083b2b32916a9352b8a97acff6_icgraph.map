@@ -1,0 +1,5 @@
+<map id="moveit::core::JointModel::enforceVelocityBounds" name="moveit::core::JointModel::enforceVelocityBounds">
+<area shape="rect" id="node1" title="Force the specified velocities to be within bounds. Return true if changes were made." alt="" coords="469,5,651,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ae52693dfeb9235aaaa288cb7ed01b0cb" title=" " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a17b78d94170a4e452f00b56f98b5ed5b" title=" " alt="" coords="5,5,189,47"/>
+</map>

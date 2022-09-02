@@ -1,0 +1,4 @@
+<map id="planning_interface::PlannerManager::getPlanningContext" name="planning_interface::PlannerManager::getPlanningContext">
+<area shape="rect" id="node1" title="Construct a planning context given the current scene and a planning request. If a problem is encounte..." alt="" coords="275,5,496,61"/>
+<area shape="rect" id="node2" href="$classplanning__interface_1_1PlannerManager.html#a157ce2926e4b6a9d22d837f374fa83cc" title="Calls the function above but ignores the error_code." alt="" coords="5,5,227,61"/>
+</map>

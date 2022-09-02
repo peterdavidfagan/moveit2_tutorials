@@ -1,0 +1,13 @@
+<map id="moveit_setup::RVizPanel::RVizPanel" name="moveit_setup::RVizPanel::RVizPanel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,185,188,227"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1RVizPanel.html#a772c9d309115ea365ffe4e04a41faef5" title=" " alt="" coords="236,88,419,129"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1RVizPanel.html#a021419a4b693afad99adf69896ea41da" title=" " alt="" coords="236,185,419,227"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1RVizPanel.html#a3e0494c76e12d0d111bc101635d4d8d5" title=" " alt="" coords="236,251,419,292"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5ce4575b094d15163bd41744b0fa7fa6" title="Get the links that are part of this joint group." alt="" coords="467,5,649,47"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1RVizPanel.html#a8323a545316f108e1eceb497cd19cb0d" title=" " alt="" coords="467,136,649,177"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1RVizPanel.html#a9eade3d8c212c9dd0b316d479edec2cd" title=" " alt="" coords="467,71,649,112"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1SRDFConfig.html#aaa5e1ec7eee10b0ebdbfc7bfed7e88d5" title=" " alt="" coords="697,136,892,177"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1LinkModel.html#a47d471387e6baea286e83f0600ce87cd" title="Get shape associated to the collision geometry for this link." alt="" coords="469,201,647,243"/>
+<area shape="rect" id="node9" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#ad2d15074467bda3d06785cde00880a72" title=" " alt="" coords="483,267,633,323"/>
+<area shape="rect" id="node11" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#a952d546d6ab06d887ba85a778e9bf6b2" title=" " alt="" coords="483,347,633,403"/>
+</map>

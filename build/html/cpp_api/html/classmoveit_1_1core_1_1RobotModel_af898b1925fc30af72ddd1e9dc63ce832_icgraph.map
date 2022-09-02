@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotModel::getCommonRoot" name="moveit::core::RobotModel::getCommonRoot">
+<area shape="rect" id="node1" title="Get the deepest joint in the kinematic tree that is a common parent of both joints passed as argument..." alt="" coords="235,5,425,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a6577c9a301c97b83ef75f11943160c56" title=" " alt="" coords="5,5,187,47"/>
+</map>

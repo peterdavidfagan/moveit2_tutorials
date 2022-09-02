@@ -1,0 +1,6 @@
+<map id="spawnCollisionObjects" name="spawnCollisionObjects">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,175,54"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#aaac2365844ce63b10d969f5e85d844ba" title="Apply collision objects to the planning scene of the move_group node synchronously...." alt="" coords="223,13,420,69"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#a503d531320e1b82e2f6d12589766349f" title="Update the planning_scene of the move_group node with the given ps synchronously. Other PlanningScene..." alt="" coords="468,13,665,69"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface_1_1PlanningSceneInterfaceImpl.html#a93164af9c7a058d959d47bd7f54a05b8" title=" " alt="" coords="713,5,925,76"/>
+</map>

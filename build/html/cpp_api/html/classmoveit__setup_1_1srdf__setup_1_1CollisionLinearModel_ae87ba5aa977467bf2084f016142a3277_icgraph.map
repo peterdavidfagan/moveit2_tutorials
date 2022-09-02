@@ -1,0 +1,10 @@
+<map id="moveit_setup::srdf_setup::CollisionLinearModel::index" name="moveit_setup::srdf_setup::CollisionLinearModel::index">
+<area shape="rect" id="node1" title=" " alt="" coords="557,162,767,218"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1CollisionLinearModel.html#afb0cdc5c88f3a17998d5cb14ae4d24ca" title=" " alt="" coords="263,5,509,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1SortFilterProxyModel.html#ae1552c14a09717b3200575db25d11b18" title=" " alt="" coords="5,57,215,113"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1srdf__setup_1_1CollisionLinearModel.html#ab30e1b3b5684106bc25bf1ccad64914d" title=" " alt="" coords="281,122,491,178"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1srdf__setup_1_1CollisionLinearModel.html#a873d1d680e785bb8a81f9e322a759527" title=" " alt="" coords="281,202,491,258"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1srdf__setup_1_1CollisionLinearModel.html#a4a0c46d8a3020b2b9efa6a3dabd31c70" title=" " alt="" coords="281,282,491,338"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1srdf__setup_1_1CollisionLinearModel.html#a501c0de66dd555bb9808cbc5223268bf" title=" " alt="" coords="281,362,491,418"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1srdf__setup_1_1CollisionLinearModel.html#af4b074192c36ec01b76a69010b92fc13" title=" " alt="" coords="5,362,215,418"/>
+</map>

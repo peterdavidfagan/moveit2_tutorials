@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::getInterfaceDescription" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::getInterfaceDescription">
+<area shape="rect" id="node1" title=" " alt="" coords="304,5,575,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a9e6c771e22a7921612963533c4f35a2a" title="Get the description of the default planning plugin loaded by the action server." alt="" coords="5,5,256,61"/>
+</map>

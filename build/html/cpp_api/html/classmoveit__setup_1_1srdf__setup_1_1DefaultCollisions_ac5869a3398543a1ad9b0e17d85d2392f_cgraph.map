@@ -1,0 +1,6 @@
+<map id="moveit_setup::srdf_setup::DefaultCollisions::generateCollisionTable" name="moveit_setup::srdf_setup::DefaultCollisions::generateCollisionTable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,189,87"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup_1_1srdf__setup.html#a2812f73b447d838cd7dba1b0ee1a0c95" title="Generate an adjacency list of links that are always and never in collision, to speed up collision det..." alt="" coords="237,5,479,47"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1SetupStep.html#aab57faf30c16fa632b89d833ae47cbc7" title="Makes a namespaced logger for this step available to the widget." alt="" coords="265,71,451,112"/>
+<area shape="rect" id="node3" href="$namespacemoveit__setup_1_1srdf__setup.html#a78151130b2a296acd308a638f0a2e3ae" title="Generate a list of unique link pairs for all links with geometry. Order pairs alphabetically...." alt="" coords="527,5,715,47"/>
+</map>

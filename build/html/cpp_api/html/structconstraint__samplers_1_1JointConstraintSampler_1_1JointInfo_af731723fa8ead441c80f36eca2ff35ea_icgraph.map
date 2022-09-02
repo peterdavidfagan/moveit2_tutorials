@@ -1,0 +1,4 @@
+<map id="constraint_samplers::JointConstraintSampler::JointInfo::potentiallyAdjustMinMaxBounds" name="constraint_samplers::JointConstraintSampler::JointInfo::potentiallyAdjustMinMaxBounds">
+<area shape="rect" id="node1" title="Function that adjusts the joints only if they are more restrictive. This means that the min limit is ..." alt="" coords="233,5,436,76"/>
+<area shape="rect" id="node2" href="$classconstraint__samplers_1_1JointConstraintSampler.html#ae8d005674ad13829c59268417125cbdc" title="Configures a joint constraint given a vector of constraints." alt="" coords="5,13,185,69"/>
+</map>

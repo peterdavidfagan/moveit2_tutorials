@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setPoseReferenceFrame" name="moveit::planning_interface::MoveGroupInterface::setPoseReferenceFrame">
+<area shape="rect" id="node1" title="Specify which reference frame to assume for poses specified without a reference frame." alt="" coords="5,13,335,54"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a144ce71132b523a50c887c2e4048d1d5" title=" " alt="" coords="383,5,657,61"/>
+</map>

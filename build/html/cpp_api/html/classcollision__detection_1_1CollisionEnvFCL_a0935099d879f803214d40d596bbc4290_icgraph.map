@@ -1,0 +1,10 @@
+<map id="collision_detection::CollisionEnvFCL::constructFCLObjectRobot" name="collision_detection::CollisionEnvFCL::constructFCLObjectRobot">
+<area shape="rect" id="node1" title="Out of the current robot state and its attached bodies construct an FCLObject which can then be used ..." alt="" coords="1043,73,1245,129"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvFCL.html#a73e161aa093e4c22b780114079c695e1" title="Prepares for the collision check through constructing an FCL collision object out of the current robo..." alt="" coords="796,8,995,64"/>
+<area shape="rect" id="node6" href="$classcollision__detection_1_1CollisionEnvFCL.html#a3fbc87899c026409120c0360ff6885da" title="Bundles the different checkRobotCollision functions into a single function." alt="" coords="527,111,746,167"/>
+<area shape="rect" id="node8" href="$classcollision__detection_1_1CollisionEnvFCL.html#a3c3df0a12121f94378535fb8e8ac5e33" title="Compute the distance between a robot and the world." alt="" coords="797,139,994,195"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnvFCL.html#aa173d1e6f03faa6775438f0a5ba47717" title="Bundles the different checkSelfCollision functions into a single function." alt="" coords="265,5,471,61"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1CollisionEnvFCL.html#a5b29374dd49530e84986558352ff71a3" title="The distance to self&#45;collision given the robot is at state state." alt="" coords="525,30,748,71"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1CollisionEnvFCL.html#a09f4209d8564dd75c4f6207f39f5e528" title="Check for robot self collision. Any collision between any pair of links is checked for,..." alt="" coords="5,5,211,61"/>
+<area shape="rect" id="node7" href="$classcollision__detection_1_1CollisionEnvFCL.html#a41930589c4c6e17ae4e9abbe6a1a37ff" title="Check whether the robot model is in collision with the world. Any collisions between a robot link and..." alt="" coords="259,111,477,167"/>
+</map>

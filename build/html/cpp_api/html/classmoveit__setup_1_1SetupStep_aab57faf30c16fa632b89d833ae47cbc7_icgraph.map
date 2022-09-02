@@ -1,0 +1,7 @@
+<map id="moveit_setup::SetupStep::getLogger" name="moveit_setup::SetupStep::getLogger">
+<area shape="rect" id="node1" title="Makes a namespaced logger for this step available to the widget." alt="" coords="536,93,721,134"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1DefaultCollisions.html#ac5869a3398543a1ad9b0e17d85d2392f" title=" " alt="" coords="271,5,455,61"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1srdf__setup_1_1GroupEditWidget.html#a80ba264a17ba1b9b653eede630470521" title="Populate the combo dropdown box with kinematic planners." alt="" coords="237,85,488,141"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1core_1_1StartScreenWidget.html#a78d23f61b55af0e66760c650719dbad4" title=" " alt="" coords="287,165,438,221"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1DefaultCollisions.html#a364da771c36a1f443cd618caa402fe27" title=" " alt="" coords="5,5,189,61"/>
+</map>

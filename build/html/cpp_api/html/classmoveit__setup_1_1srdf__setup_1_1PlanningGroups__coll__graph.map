@@ -1,0 +1,6 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups" name="moveit_setup::srdf_setup::PlanningGroups">
+<area shape="rect" id="node1" title=" " alt="" coords="11,273,185,315"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html" title=" " alt="" coords="11,169,185,225"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1SRDFStep.html" title="Setup Step that contains the SRDFConfig." alt="" coords="26,80,170,121"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1SetupStep.html" title="Contains all of the non&#45;GUI code necessary for doing one &quot;screen&quot; worth of setup." alt="" coords="5,5,191,32"/>
+</map>

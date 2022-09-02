@@ -1,0 +1,4 @@
+<map id="moveit::core::PrismaticJointModel::getVariableRandomPositionsNearBy" name="moveit::core::PrismaticJointModel::getVariableRandomPositionsNearBy">
+<area shape="rect" id="node1" title="Provide random values for the joint variables (within specified bounds). Enough memory is assumed to ..." alt="" coords="5,5,263,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1PrismaticJointModel.html#a8822fcfaa51bdb67d12870d1ff79473b" title="Compute the distance between two joint states of the same model (represented by the variable values)" alt="" coords="311,13,513,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups::setJoints" name="moveit_setup::srdf_setup::PlanningGroups::setJoints">
+<area shape="rect" id="node1" title="Set the specified group&#39;s joint names." alt="" coords="123,5,297,61"/>
+<area shape="rect" id="node2" href="$test__srdf_8cpp.html#aef2d5ae9e222cbd181f67b4677248d78" title=" " alt="" coords="5,20,75,47"/>
+</map>

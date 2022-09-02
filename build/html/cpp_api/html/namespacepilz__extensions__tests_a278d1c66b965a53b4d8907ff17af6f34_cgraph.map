@@ -1,0 +1,8 @@
+<map id="pilz_extensions_tests::TEST_F" name="pilz_extensions_tests::TEST_F">
+<area shape="rect" id="node1" title=" " alt="" coords="5,53,168,94"/>
+<area shape="rect" id="node2" href="$namespacepilz__industrial__motion__planner_1_1joint__limits__interface.html#ac682308f1616f72e41067b74e6a8957c" title=" " alt="" coords="216,5,433,61"/>
+<area shape="rect" id="node5" href="$namespacepilz__industrial__motion__planner_1_1joint__limits__interface.html#aae7165a7b65ce68169a0363771f68d35" title=" " alt="" coords="232,85,417,141"/>
+<area shape="rect" id="node3" href="$namespacejoint__limits.html#abd2fd3a8223f3ab6d4e43824b43ee0ed" title=" " alt="" coords="486,13,637,54"/>
+<area shape="rect" id="node4" href="$namespacekinematics__plugin__loader.html#a4b7e3ede6a64d1e70f3072ec11708d72" title=" " alt="" coords="689,13,879,54"/>
+<area shape="rect" id="node6" href="$namespacejoint__limits.html#a7b519211152988b4138851b8bd1c6921" title="Populate a JointLimits instance from the ROS parameter server." alt="" coords="481,93,641,134"/>
+</map>

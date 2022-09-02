@@ -1,0 +1,4 @@
+<map id="dynamics_solver::DynamicsSolver::getPayloadTorques" name="dynamics_solver::DynamicsSolver::getPayloadTorques">
+<area shape="rect" id="node1" title="Get torques corresponding to a particular payload value. Payload is the weight that this group can ho..." alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node2" href="$classdynamics__solver_1_1DynamicsSolver.html#ac7d45d86c47862566a384c937309b915" title="Get the torques (the order of all input and output is the same as the order of joints for this group ..." alt="" coords="259,5,464,47"/>
+</map>

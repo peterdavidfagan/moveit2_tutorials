@@ -1,0 +1,4 @@
+<map id="moveit::core::RevoluteJointModel::enforcePositionBounds" name="moveit::core::RevoluteJointModel::enforcePositionBounds">
+<area shape="rect" id="node1" title="Force the specified values to be inside bounds and normalized. Quaternions are normalized,..." alt="" coords="311,13,529,54"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RevoluteJointModel.html#a0558a5122494b7782ed32009e9f9093a" title="Provide random values for the joint variables (within specified bounds). Enough memory is assumed to ..." alt="" coords="5,5,263,61"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="trajopt_interface::TrajOptPlanningContext::solve" name="trajopt_interface::TrajOptPlanningContext::solve">
+<area shape="rect" id="node1" title="Solve the motion planning problem and store the detailed result in res. This function should not clea..." alt="" coords="5,31,180,87"/>
+<area shape="rect" id="node2" href="$classplanning__interface_1_1PlanningContext.html#a65d3d60fa6759e8510ed2348f3c71d77" title="Get the name of the group this planning context is for." alt="" coords="228,5,472,47"/>
+<area shape="rect" id="node3" href="$namespacemoveit_1_1core.html#af616e81ab82b75721fdbfcd77892c92a" title="Convert a robot state msg (with accompanying extra transforms) to a MoveIt robot state." alt="" coords="260,71,440,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#aaec5557d55b862d9dd832b3d4c221836" title="Update all transforms." alt="" coords="520,71,704,112"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#afa1f72a766bdf75d81f4404058322576" title="Update the transforms for the collision bodies. This call is needed before calling collision checking..." alt="" coords="752,71,988,112"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModel.html#aa6dbe9f994aca22adf80add175d10681" title="Get all the link models that descend from this joint, in the kinematic tree." alt="" coords="1036,37,1239,79"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="1045,103,1229,144"/>
+</map>

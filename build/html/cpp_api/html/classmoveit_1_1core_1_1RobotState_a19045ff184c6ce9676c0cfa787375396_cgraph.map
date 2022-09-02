@@ -1,0 +1,5 @@
+<map id="moveit::core::RobotState::satisfiesVelocityBounds" name="moveit::core::RobotState::satisfiesVelocityBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,189,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a7ca19028f7f42ca0bec4d02689ebac7a" title=" " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#a0ee14b22009db973b8a4be4e2c911dca" title="Check if the set of velocities for the variables of this joint are within bounds." alt="" coords="237,71,421,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit::core::AttachedBody::getSubframeTransform" name="moveit::core::AttachedBody::getSubframeTransform">
+<area shape="rect" id="node1" title="Get the fixed transform to a named subframe on this body (relative to the body&#39;s pose)" alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1AttachedBody.html#a72cc04876c61fe56bf948e47612705ad" title="Check whether a subframe of given @frame_name is present in this object." alt="" coords="5,5,208,47"/>
+</map>

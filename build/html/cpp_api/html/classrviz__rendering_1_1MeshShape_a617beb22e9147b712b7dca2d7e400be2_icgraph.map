@@ -1,0 +1,4 @@
+<map id="rviz_rendering::MeshShape::addVertex" name="rviz_rendering::MeshShape::addVertex">
+<area shape="rect" id="node1" title="Add a vertex to the mesh (no normal defined). If using this function only (not using addTriangle()) i..." alt="" coords="267,5,465,47"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1RenderShapes.html#a356138a2ad09e315c2db737e2b1d83b5" title=" " alt="" coords="5,5,219,47"/>
+</map>

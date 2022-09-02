@@ -1,0 +1,6 @@
+<map id="pilz_industrial_motion_planner::TrajectoryGeneratorPTP::TrajectoryGeneratorPTP" name="pilz_industrial_motion_planner::TrajectoryGeneratorPTP::TrajectoryGeneratorPTP">
+<area shape="rect" id="node1" title="Constructor of PTP Trajectory Generator." alt="" coords="5,85,220,141"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1JointLimitsContainer.html#afb4ac8f881951d0f3be65e23c428a2a6" title="Returns joint limit fusion of all(position, velocity, acceleration, deceleration) limits for all join..." alt="" coords="268,5,487,61"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1LimitsContainer.html#aa05824e7f6038376806adf1f3de49c90" title="Obtain the Joint Limits from the container." alt="" coords="283,85,472,141"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner_1_1LimitsContainer.html#ab74828bd7c7205267409d8f9ff51df74" title="Return if this LimitsContainer has defined joint limits." alt="" coords="283,165,472,221"/>
+</map>

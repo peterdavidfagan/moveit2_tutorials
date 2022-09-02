@@ -1,0 +1,4 @@
+<map id="moveit_setup::controllers::getInterfaceNames" name="moveit_setup::controllers::getInterfaceNames">
+<area shape="rect" id="node1" title=" " alt="" coords="277,13,465,54"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig.html#aa80689c08d8312b1df2f99b6135d37b3" title="Load the original command interfaces from the original (unmodified) URDF." alt="" coords="5,5,229,61"/>
+</map>

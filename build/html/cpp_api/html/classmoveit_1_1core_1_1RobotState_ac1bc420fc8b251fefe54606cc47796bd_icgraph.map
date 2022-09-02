@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::getVariableAccelerations" name="moveit::core::RobotState::getVariableAccelerations">
+<area shape="rect" id="node1" title="Get raw access to the accelerations of the variables that make up this state. The values are in the s..." alt="" coords="235,13,427,54"/>
+<area shape="rect" id="node2" href="$classplanning__scene__monitor_1_1CurrentStateMonitor.html#a4de1dba0bdf28ab261818b93b9e06dd2" title="Set the state upd to the current state maintained by this class." alt="" coords="5,5,187,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="kinematic_constraints::PositionConstraint::equal" name="kinematic_constraints::PositionConstraint::equal">
+<area shape="rect" id="node1" title="Check if two constraints are the same. For position constraints this means that:" alt="" coords="5,43,172,99"/>
+<area shape="rect" id="node2" href="$classkinematic__constraints_1_1KinematicConstraint.html#a70ce30ff98c419e2adda243b096c1d6d" title="Get the type of constraint." alt="" coords="229,5,395,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1Transforms.html#a101b4614f91072368a62c879bd59e36a" title="Check if two frames end up being the same once the missing / are added as prefix (if they are missing..." alt="" coords="220,86,404,127"/>
+</map>

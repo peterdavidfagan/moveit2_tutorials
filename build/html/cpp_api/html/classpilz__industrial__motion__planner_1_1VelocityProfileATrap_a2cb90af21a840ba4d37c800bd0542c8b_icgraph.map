@@ -1,0 +1,5 @@
+<map id="pilz_industrial_motion_planner::VelocityProfileATrap::VelocityProfileATrap" name="pilz_industrial_motion_planner::VelocityProfileATrap::VelocityProfileATrap">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="371,5,585,61"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#ab02e26062bacb4d3e10037773b4ceb04" title="returns copy of current VelocityProfile object" alt="" coords="108,5,323,61"/>
+<area shape="rect" id="node3" href="$unittest__velocity__profile__atrap_8cpp.html#ae34aa727c0466ef3e01b8dd7c4626b9a" title="Check that the clone function returns a equal profile." alt="" coords="5,20,60,47"/>
+</map>

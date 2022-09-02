@@ -1,0 +1,5 @@
+<map id="moveit::core::RobotModel::enforcePositionBounds" name="moveit::core::RobotModel::enforcePositionBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,196,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#afdec7be1e4b3f50a2c825b91d0288355" title=" " alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotModel.html#a1b5b2b3c8cb1b79f4d17a569e463e5df" title="Update the variable values for the state of a group with respect to the mimic joints." alt="" coords="244,71,435,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pilz_industrial_motion_planner::TrajectoryGeneratorLIN::TrajectoryGeneratorLIN" name="pilz_industrial_motion_planner::TrajectoryGeneratorLIN::TrajectoryGeneratorLIN">
+<area shape="rect" id="node1" title="Constructor of LIN Trajectory Generator." alt="" coords="5,5,220,61"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1LimitsContainer.html#a13f60ff5574a34835261236f2dde457c" title="Return if this LimitsContainer has defined cartesian limits." alt="" coords="268,5,457,61"/>
+</map>

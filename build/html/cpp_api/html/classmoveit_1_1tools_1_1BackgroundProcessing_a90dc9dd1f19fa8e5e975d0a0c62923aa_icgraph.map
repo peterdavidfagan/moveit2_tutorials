@@ -1,0 +1,6 @@
+<map id="moveit::tools::BackgroundProcessing::setJobUpdateEvent" name="moveit::tools::BackgroundProcessing::setJobUpdateEvent">
+<area shape="rect" id="node1" title="Set the callback to be triggered when events in JobEvent take place." alt="" coords="528,50,752,91"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#a5510d2fe73b3dc391365d78394c38853" title="Clear the callback to be triggered when events in JobEvent take place." alt="" coords="244,13,480,54"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a76880e7dd05edc78bdcac10cbacd6c81" title=" " alt="" coords="272,79,452,135"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#af933ae3821770259b8ada2f46f2a9c04" title=" " alt="" coords="5,5,196,61"/>
+</map>

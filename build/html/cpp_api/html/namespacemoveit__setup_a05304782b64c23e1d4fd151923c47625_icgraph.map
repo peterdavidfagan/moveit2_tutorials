@@ -1,0 +1,6 @@
+<map id="moveit_setup::hasRequiredAttributes" name="moveit_setup::hasRequiredAttributes">
+<area shape="rect" id="node1" title=" " alt="" coords="867,5,1067,47"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup.html#a762d54388d110ce4ea9f52f728675e51" title="Insert a new XML element with a given tag, attributes, and text." alt="" coords="619,13,819,39"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1simulation_1_1Simulation.html#aef9359e858c801bcbc14368b60863521" title="Parses the existing urdf and constructs a string from it with the elements required by gazebo simulat..." alt="" coords="280,5,571,47"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1simulation_1_1SimulationWidget.html#a15e6b42d94bd9cd30b03801f8f1d0cac" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="5,5,232,47"/>
+</map>

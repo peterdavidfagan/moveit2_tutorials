@@ -1,0 +1,7 @@
+<map id="robot_trajectory::RobotTrajectory::insertWayPoint" name="robot_trajectory::RobotTrajectory::insertWayPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="568,78,803,119"/>
+<area shape="rect" id="node2" href="$classtrajectory__processing_1_1IterativeSplineParameterization.html#ac65a0bed2a3d103913f7179b18efb6ab" title=" " alt="" coords="284,37,520,93"/>
+<area shape="rect" id="node5" href="$test__robot__trajectory_8cpp.html#ac2eca9d77186f589d9148d63fbef0006" title=" " alt="" coords="367,117,437,144"/>
+<area shape="rect" id="node3" href="$classdefault__planner__request__adapters_1_1AddIterativeSplineParameterization.html#a630967a9aade69aa8cc49f5ece102785" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node4" href="$test__time__parameterization_8cpp.html#a1fb67aa34417d03016c74d44bd7f54e0" title=" " alt="" coords="93,85,148,112"/>
+</map>

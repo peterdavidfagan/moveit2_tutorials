@@ -1,0 +1,10 @@
+<map id="robot_trajectory::RobotTrajectory::getDuration" name="robot_trajectory::RobotTrajectory::getDuration">
+<area shape="rect" id="node1" title=" " alt="" coords="649,93,884,135"/>
+<area shape="rect" id="node2" href="$classrobot__trajectory_1_1RobotTrajectory.html#a49c02c0642eaf05ab71f1ca1759cb472" title=" " alt="" coords="367,5,601,47"/>
+<area shape="rect" id="node3" href="$core_8cpp.html#a92e436fb725965a2681c8e0eff28a83e" title=" " alt="" coords="138,42,289,69"/>
+<area shape="rect" id="node4" href="$classrobot__trajectory_1_1RobotTrajectory.html#a55e7beedfc60e0a6e523bd7d9278d884" title="Print information about the trajectory." alt="" coords="367,123,601,164"/>
+<area shape="rect" id="node8" href="$test__time__optimal__trajectory__generation_8cpp.html#a16a36e399fa8b0dd611bbc73ebb3f5ff" title=" " alt="" coords="457,189,511,215"/>
+<area shape="rect" id="node5" href="$namespacerobot__trajectory.html#a9eedff63f0a0ef50d6dff84db384fb2b" title="Operator overload for printing trajectory to a stream." alt="" coords="108,126,319,153"/>
+<area shape="rect" id="node6" href="$test__time__parameterization_8cpp.html#a9e9c53951a8d9ae89aa8517fe0a63df8" title=" " alt="" coords="155,177,271,203"/>
+<area shape="rect" id="node7" href="$test__time__parameterization_8cpp.html#aa51b79e24472e01dd59a8f68878e719e" title=" " alt="" coords="5,177,60,203"/>
+</map>

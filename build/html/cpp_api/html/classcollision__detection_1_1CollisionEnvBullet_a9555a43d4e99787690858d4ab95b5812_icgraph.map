@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnvBullet::checkSelfCollisionHelper" name="collision_detection::CollisionEnvBullet::checkSelfCollisionHelper">
+<area shape="rect" id="node1" title="Bundles the different checkSelfCollision functions into a single function." alt="" coords="203,5,395,61"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvBullet.html#a92d5eb356e4ce32a736956cf8b2b3cac" title="Check for robot self collision. Any collision between any pair of links is checked for,..." alt="" coords="5,5,155,61"/>
+</map>

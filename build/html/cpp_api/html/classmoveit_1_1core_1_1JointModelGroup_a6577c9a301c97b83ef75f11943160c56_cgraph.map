@@ -1,0 +1,8 @@
+<map id="moveit::core::JointModelGroup::JointModelGroup" name="moveit::core::JointModelGroup::JointModelGroup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,187,145"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#af898b1925fc30af72ddd1e9dc63ce832" title="Get the deepest joint in the kinematic tree that is a common parent of both joints passed as argument..." alt="" coords="241,5,431,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModel.html#aa6dbe9f994aca22adf80add175d10681" title="Get all the link models that descend from this joint, in the kinematic tree." alt="" coords="235,71,437,112"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModelGroup.html#a7af014f4116c40ea1884cd7ae82f8da6" title="Check if a joint is part of this group." alt="" coords="245,136,427,177"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1RevoluteJointModel.html#a85220b47110a42c7e0784c1e30d00d1d" title="Check if this joint wraps around." alt="" coords="237,201,435,243"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#a32646942dc054f77e3eff984affb7ced" title="Get the index of this joint within the robot model." alt="" coords="485,5,667,47"/>
+</map>

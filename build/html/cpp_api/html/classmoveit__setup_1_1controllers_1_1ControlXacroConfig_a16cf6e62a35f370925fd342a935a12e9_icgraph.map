@@ -1,0 +1,4 @@
+<map id="moveit_setup::controllers::ControlXacroConfig::getJointsXML" name="moveit_setup::controllers::ControlXacroConfig::getJointsXML">
+<area shape="rect" id="node1" title="Return the additional joint xml needed for ros2_control tags." alt="" coords="320,5,568,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig.html#ae43b3cd382a54425376502265fd1c770" title="Collect key/value pairs for use in templates." alt="" coords="5,5,272,47"/>
+</map>

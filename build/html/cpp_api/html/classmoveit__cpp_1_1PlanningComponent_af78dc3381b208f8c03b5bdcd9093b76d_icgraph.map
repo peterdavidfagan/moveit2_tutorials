@@ -1,0 +1,4 @@
+<map id="moveit_cpp::PlanningComponent::getStartState" name="moveit_cpp::PlanningComponent::getStartState">
+<area shape="rect" id="node1" title="Get the considered start state if defined, otherwise get the current state." alt="" coords="204,5,441,47"/>
+<area shape="rect" id="node2" href="$planning_8cpp.html#aa03043dfb277740413665226e41f86be" title=" " alt="" coords="5,13,156,39"/>
+</map>

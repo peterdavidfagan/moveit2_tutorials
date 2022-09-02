@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModelGroup::getSubgroups" name="moveit::core::JointModelGroup::getSubgroups">
+<area shape="rect" id="node1" title="Get the groups that are subsets of this one (in terms of joints set)" alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#ab438e2875489f6fd2149372c591eab21" title="Get a joint group from this model (by name)" alt="" coords="235,5,425,47"/>
+</map>

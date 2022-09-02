@@ -1,0 +1,4 @@
+<map id="distance_field::PropagationDistanceField::addPointsToField" name="distance_field::PropagationDistanceField::addPointsToField">
+<area shape="rect" id="node1" title="Add a set of obstacle points to the distance field, updating distance values accordingly...." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1PropagationDistanceField.html#a4904f0b6dc38faa912a56abe67fa2910" title="Converts from a world location to a set of integer indices. Should return false if the world location..." alt="" coords="280,5,479,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::EndEffectors::onInit" name="moveit_setup::srdf_setup::EndEffectors::onInit">
+<area shape="rect" id="node1" title="Overridable initialization method." alt="" coords="5,5,160,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SRDFStep.html#ae82f8c7edb1da9476ea19f8f46fad99a" title="Overridable initialization method." alt="" coords="208,13,389,54"/>
+</map>

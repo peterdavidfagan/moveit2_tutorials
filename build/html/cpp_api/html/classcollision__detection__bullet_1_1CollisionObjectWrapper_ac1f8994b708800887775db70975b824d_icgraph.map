@@ -1,0 +1,4 @@
+<map id="collision_detection_bullet::CollisionObjectWrapper::CollisionObjectWrapper" name="collision_detection_bullet::CollisionObjectWrapper::CollisionObjectWrapper">
+<area shape="rect" id="node1" title="Standard constructor." alt="" coords="280,5,507,61"/>
+<area shape="rect" id="node2" href="$classcollision__detection__bullet_1_1CollisionObjectWrapper.html#a009e942575043729bb8cfb4516d34214" title="Clones the collision objects but not the collision shape which is const." alt="" coords="5,5,232,61"/>
+</map>

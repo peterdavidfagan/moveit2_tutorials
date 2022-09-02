@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModelGroup::getVariableGroupIndex" name="moveit::core::JointModelGroup::getVariableGroupIndex">
+<area shape="rect" id="node1" title="Get the index of a variable within the group. Return &#45;1 on error." alt="" coords="233,13,452,54"/>
+<area shape="rect" id="node2" href="$classconstraint__samplers_1_1JointConstraintSampler.html#ae8d005674ad13829c59268417125cbdc" title="Configures a joint constraint given a vector of constraints." alt="" coords="5,5,185,61"/>
+</map>

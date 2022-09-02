@@ -1,0 +1,11 @@
+<map id="distance_field::DistanceField::addShapeToField" name="distance_field::DistanceField::addShapeToField">
+<area shape="rect" id="node1" title="Adds the set of points corresponding to the shape at the given pose as obstacle points into the dista..." alt="" coords="5,40,183,81"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a625b0a940086c822c703172a4f01e67c" title="Add a set of obstacle points to the distance field, updating distance values accordingly...." alt="" coords="231,7,408,48"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#a6d4d5386350ec80d3ca511cf940c0cfb" title="Get the points associated with a shape. This is mainly used when the external application needs to ca..." alt="" coords="231,72,408,113"/>
+<area shape="rect" id="node4" href="$namespacedistance__field.html#a065dcdb8fe0b7ed297fb87a62afa2fbd" title="Find all points on a regular grid that are internal to the body, assuming the body is a convex shape...." alt="" coords="456,39,651,80"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#ac76beae97cadc2d47fe5d9846fcb9ab4" title="Get the points associated with an octree." alt="" coords="465,104,642,145"/>
+<area shape="rect" id="node6" href="$classdistance__field_1_1DistanceField.html#a0014563f9f1c74ccf60d1d20a3af2b78" title="Gets the number of cells along the X axis." alt="" coords="699,5,876,47"/>
+<area shape="rect" id="node7" href="$classdistance__field_1_1DistanceField.html#ae57048dd1fc4f867c88db969f0d41593" title="Gets the number of cells along the Y axis." alt="" coords="699,71,876,112"/>
+<area shape="rect" id="node8" href="$classdistance__field_1_1DistanceField.html#af51959bcd7efdb18f60207075d09b964" title="Gets the number of cells along the Z axis." alt="" coords="699,136,876,177"/>
+<area shape="rect" id="node9" href="$classdistance__field_1_1DistanceField.html#ad78c36666019889271444f912edef4c2" title="Converts from an set of integer indices to a world location given the origin and resolution parameter..." alt="" coords="699,201,876,243"/>
+</map>

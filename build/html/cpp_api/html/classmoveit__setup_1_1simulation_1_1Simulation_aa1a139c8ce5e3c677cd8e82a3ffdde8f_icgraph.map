@@ -1,0 +1,4 @@
+<map id="moveit_setup::simulation::Simulation::isValidXML" name="moveit_setup::simulation::Simulation::isValidXML">
+<area shape="rect" id="node1" title="Check if the given xml is valid." alt="" coords="269,5,457,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1simulation_1_1SimulationWidget.html#a2c0863ba339d2b3d8076db9bf3940003" title="function called when widget loses focus, although switching away can be rejected" alt="" coords="5,5,221,47"/>
+</map>

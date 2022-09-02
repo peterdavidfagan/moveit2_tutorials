@@ -1,0 +1,15 @@
+<map id="moveit::core::JointModelGroup::isChain" name="moveit::core::JointModelGroup::isChain">
+<area shape="rect" id="node1" title="Check if this group is a linear chain." alt="" coords="615,319,796,360"/>
+<area shape="rect" id="node2" href="$classdynamics__solver_1_1DynamicsSolver.html#a526e0867a5f44135d4d3ed409358fbc5" title="Initialize the dynamics solver." alt="" coords="325,5,530,47"/>
+<area shape="rect" id="node3" href="$classkinematics__metrics_1_1KinematicsMetrics.html#a87870a4a6e749ff915093d9735c436c6" title="Get the manipulability = sigma_min/sigma_max where sigma_min and sigma_max are the smallest and large..." alt="" coords="352,71,503,127"/>
+<area shape="rect" id="node4" href="$classkinematics__metrics_1_1KinematicsMetrics.html#ad22d055eb2c52844c2028b53253771c4" title="Get the (translation) manipulability ellipsoid for a given group at a given joint configuration." alt="" coords="328,151,527,207"/>
+<area shape="rect" id="node5" href="$classkinematics__metrics_1_1KinematicsMetrics.html#a6a0098484b0ef7d40f4b290b04422178" title="Get the manipulability for a given group at a given joint configuration." alt="" coords="337,231,517,287"/>
+<area shape="rect" id="node6" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="343,311,512,367"/>
+<area shape="rect" id="node7" href="$classlma__kinematics__plugin_1_1LMAKinematicsPlugin.html#a863e2c5e7aa26f888f96cad9c3b5f109" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="341,391,514,447"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#ac3117b8047d8da82d45b820adc4171ac" title=" " alt="" coords="288,471,567,527"/>
+<area shape="rect" id="node9" href="$classkinematics_1_1KinematicsBase.html#ab4ffcf36d563aa4583aa808100725bbe" title="Check if this solver supports a given JointModelGroup." alt="" coords="324,552,531,593"/>
+<area shape="rect" id="node10" href="$classmoveit__rviz__plugin_1_1MotionPlanningFrameJointsWidget.html#a4e56a9dd87fc8553f989022fe3b00f63" title=" " alt="" coords="313,618,542,674"/>
+<area shape="rect" id="node11" href="$classmoveit__rviz__plugin_1_1MotionPlanningFrameJointsWidget.html#a5170e212b602644204101302751846b6" title=" " alt="" coords="13,538,232,594"/>
+<area shape="rect" id="node12" href="$classmoveit__rviz__plugin_1_1MotionPlanningFrameJointsWidget.html#a73e810034761bf625660f471ad20c5d6" title=" " alt="" coords="5,618,240,674"/>
+<area shape="rect" id="node13" href="$classmoveit__rviz__plugin_1_1MotionPlanningFrameJointsWidget.html#af29dfc781cc29ca76809de2cbc5329c7" title=" " alt="" coords="5,698,240,754"/>
+</map>

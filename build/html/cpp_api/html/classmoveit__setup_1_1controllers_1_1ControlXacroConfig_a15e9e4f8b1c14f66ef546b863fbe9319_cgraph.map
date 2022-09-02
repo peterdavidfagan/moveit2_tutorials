@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::ControlXacroConfig::loadPrevious" name="moveit_setup::controllers::ControlXacroConfig::loadPrevious">
+<area shape="rect" id="node1" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,31,252,73"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup.html#a0f072c14ac8dfa0e0f78636fc598d9e8" title=" " alt="" coords="302,5,529,32"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig.html#ab28990cfa74591b4944a76ccedc4ef0d" title="Use the specified controller interfaces for all the lacking joints." alt="" coords="300,56,531,112"/>
+</map>

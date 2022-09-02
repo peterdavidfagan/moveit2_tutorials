@@ -1,0 +1,4 @@
+<map id="moveit_rviz_plugin::PlanningSceneDisplay::addBackgroundJob" name="moveit_rviz_plugin::PlanningSceneDisplay::addBackgroundJob">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,180,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#afc0bd8d3dc2ad1e17946d6ef2b441c80" title="Add a job to the queue of jobs to execute. A name is also specifies for the job." alt="" coords="228,13,421,54"/>
+</map>

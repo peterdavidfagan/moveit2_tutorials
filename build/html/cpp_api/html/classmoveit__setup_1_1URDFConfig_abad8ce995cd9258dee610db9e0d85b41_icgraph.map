@@ -1,0 +1,6 @@
+<map id="moveit_setup::URDFConfig::load" name="moveit_setup::URDFConfig::load">
+<area shape="rect" id="node1" title=" " alt="" coords="496,39,693,80"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1URDFConfig.html#aac67aed07dd23e2f72812009d6cbdc76" title=" " alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1URDFConfig.html#a264c79c66ebc953a1b078d2192d2586b" title="Load URDF File." alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1URDFConfig.html#add58ed2d101f0fde5396a63ca8e39e36" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,5,203,47"/>
+</map>

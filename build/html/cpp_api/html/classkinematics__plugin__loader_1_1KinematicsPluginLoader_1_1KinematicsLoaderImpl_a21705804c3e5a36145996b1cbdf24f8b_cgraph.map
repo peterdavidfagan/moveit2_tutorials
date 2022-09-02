@@ -1,0 +1,5 @@
+<map id="kinematics_plugin_loader::KinematicsPluginLoader::KinematicsLoaderImpl::chooseTipFrames" name="kinematics_plugin_loader::KinematicsPluginLoader::KinematicsLoaderImpl::chooseTipFrames">
+<area shape="rect" id="node1" title="Helper function to decide which, and how many, tip frames a planning group has." alt="" coords="5,24,256,95"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5ce4575b094d15163bd41744b0fa7fa6" title="Get the links that are part of this joint group." alt="" coords="304,5,485,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a2f165c9374e28ac4052490819c790f45" title="Get the name of the joint group." alt="" coords="304,71,485,112"/>
+</map>

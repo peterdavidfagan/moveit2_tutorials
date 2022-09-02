@@ -1,0 +1,5 @@
+<map id="collision_detection::WorldDiff::clearChanges" name="collision_detection::WorldDiff::clearChanges">
+<area shape="rect" id="node1" title="Clear the internally maintained vector of changes." alt="" coords="197,35,384,76"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1WorldDiff.html#ae67228470714b9bf2a8efb1883be9de4" title="Turn off recording and erase all previously recorded changes." alt="" coords="5,5,149,47"/>
+<area shape="rect" id="node3" href="$test__world__diff_8cpp.html#a7d7ad9a7effde65a5c2a5accc8e9d77c" title=" " alt="" coords="50,71,105,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::copyJointGroupPositions" name="moveit::core::RobotState::copyJointGroupPositions">
+<area shape="rect" id="node1" title="For a given group, copy the position values of the variables that make up the group into another loca..." alt="" coords="5,5,193,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="241,5,423,47"/>
+</map>

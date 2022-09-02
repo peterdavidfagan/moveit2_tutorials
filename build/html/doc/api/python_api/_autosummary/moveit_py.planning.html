@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>moveit_py.planning &mdash; MoveIt documentation  documentation</title>
+      <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/copybutton.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/css/override.css" type="text/css" />
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/>
+    <link rel="canonical" href="https://moveit.picknik.ai/rolling/doc/api/python_api/_autosummary/moveit_py.planning.html" />
+  <!--[if lt IE 9]>
+    <script src="../../../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+        <script src="../../../../_static/jquery.js"></script>
+        <script src="../../../../_static/underscore.js"></script>
+        <script src="../../../../_static/doctools.js"></script>
+        <script src="../../../../_static/clipboard.min.js"></script>
+        <script src="../../../../_static/copybutton.js"></script>
+    <script src="../../../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" />
+    <link rel="next" title="moveit_py.servo_client" href="moveit_py.servo_client.html" />
+    <link rel="prev" title="moveit_py.core" href="moveit_py.core.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../../../index.html">
+            <img src="../../../../_static/rolling-small.png" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../tutorials/tutorials.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../examples/examples.html">Examples</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../concepts/concepts.html">Concepts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../how_to_guides/how_to_guides.html">How-To Guides</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../api.html">API Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../cpp_api/api.html">C++ API Documentation</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../api.html">Python API Documentation</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="moveit_py.core.html">moveit_py.core</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">moveit_py.planning</a></li>
+<li class="toctree-l3"><a class="reference internal" href="moveit_py.servo_client.html">moveit_py.servo_client</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../how_to_contribute/how_to_contribute.html">Contributing</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../index.html">MoveIt documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../../api.html">API Documentation</a> &raquo;</li>
+          <li><a href="../api.html">Python API Documentation</a> &raquo;</li>
+      <li>moveit_py.planning</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/ros-planning/moveit2_tutorials/blob/main/doc/api/python_api/_autosummary/moveit_py.planning.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+
+
+  <div class="section" id="module-moveit_py.planning">
+<span id="moveit-py-planning"></span><h1>moveit_py.planning<a class="headerlink" href="#module-moveit_py.planning" title="Permalink to this headline"></a></h1>
+<p>Python bindings for moveit_cpp functionalities.</p>
+<p class="rubric">Classes</p>
+<table class="longtable docutils align-default">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 90%" />
+</colgroup>
+<tbody>
+<tr class="row-odd"><td><p><a class="reference internal" href="#moveit_py.planning.LockedPlanningSceneContextManagerRO" title="moveit_py.planning.LockedPlanningSceneContextManagerRO"><code class="xref py py-obj docutils literal notranslate"><span class="pre">LockedPlanningSceneContextManagerRO</span></code></a></p></td>
+<td><p>A context manager that locks the planning scene for reading.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="#moveit_py.planning.LockedPlanningSceneContextManagerRW" title="moveit_py.planning.LockedPlanningSceneContextManagerRW"><code class="xref py py-obj docutils literal notranslate"><span class="pre">LockedPlanningSceneContextManagerRW</span></code></a></p></td>
+<td><p>A context manager that locks the planning scene for reading and writing.</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="#moveit_py.planning.MoveItPy" title="moveit_py.planning.MoveItPy"><code class="xref py py-obj docutils literal notranslate"><span class="pre">MoveItPy</span></code></a></p></td>
+<td><p>The MoveItPy class is the main interface to the MoveIt Python API.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="#moveit_py.planning.PlanRequestParameters" title="moveit_py.planning.PlanRequestParameters"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PlanRequestParameters</span></code></a></p></td>
+<td><p>Planner parameters provided with a MotionPlanRequest.</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="#moveit_py.planning.PlanSolution" title="moveit_py.planning.PlanSolution"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PlanSolution</span></code></a></p></td>
+<td><p>Representation of a plan solution.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="#moveit_py.planning.PlanningComponent" title="moveit_py.planning.PlanningComponent"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PlanningComponent</span></code></a></p></td>
+<td><p>Represents a joint model group and motion plans corresponding to this joint model group.</p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="#moveit_py.planning.PlanningSceneMonitor" title="moveit_py.planning.PlanningSceneMonitor"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PlanningSceneMonitor</span></code></a></p></td>
+<td><p>Maintains the internal state of the planning scene.</p></td>
+</tr>
+</tbody>
+</table>
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.planning.LockedPlanningSceneContextManagerRO">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.planning.</span></span><span class="sig-name descname"><span class="pre">LockedPlanningSceneContextManagerRO</span></span><a class="headerlink" href="#moveit_py.planning.LockedPlanningSceneContextManagerRO" title="Permalink to this definition"></a></dt>
+<dd><p>A context manager that locks the planning scene for reading.</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.planning.LockedPlanningSceneContextManagerRW">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.planning.</span></span><span class="sig-name descname"><span class="pre">LockedPlanningSceneContextManagerRW</span></span><a class="headerlink" href="#moveit_py.planning.LockedPlanningSceneContextManagerRW" title="Permalink to this definition"></a></dt>
+<dd><p>A context manager that locks the planning scene for reading and writing.</p>
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.planning.MoveItPy">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.planning.</span></span><span class="sig-name descname"><span class="pre">MoveItPy</span></span><a class="headerlink" href="#moveit_py.planning.MoveItPy" title="Permalink to this definition"></a></dt>
+<dd><p>The MoveItPy class is the main interface to the MoveIt Python API. It is a wrapper around the MoveIt C++ API.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.MoveItPy.get_planning_component">
+<span class="sig-name descname"><span class="pre">get_planning_component</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.MoveItPy.get_planning_component" title="Permalink to this definition"></a></dt>
+<dd><p>Creates a planning component instance.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>planning_component_name</strong> (<em>str</em>) – The name of the planning component.</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p>obj: <a class="reference internal" href="#moveit_py.planning.PlanningComponent" title="moveit_py.planning.PlanningComponent"><code class="xref any py py-class docutils literal notranslate"><span class="pre">moveit_py.planning.PlanningComponent</span></code></a>: A planning component instance corresponding to the provided plan component name.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.MoveItPy.get_planning_pipeline_names">
+<span class="sig-name descname"><span class="pre">get_planning_pipeline_names</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.MoveItPy.get_planning_pipeline_names" title="Permalink to this definition"></a></dt>
+<dd><p>Return list of planning pipeline names for the provided joint model group name.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>joint_model_group_name</strong> (<em>str</em>) – The name of the joint model group.</p>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><p><em>list of str</em> – List of planning pipeline names.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.MoveItPy.get_planning_scene_monitor">
+<span class="sig-name descname"><span class="pre">get_planning_scene_monitor</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.MoveItPy.get_planning_scene_monitor" title="Permalink to this definition"></a></dt>
+<dd><p>Returns the planning scene monitor.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.MoveItPy.get_robot_model">
+<span class="sig-name descname"><span class="pre">get_robot_model</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.MoveItPy.get_robot_model" title="Permalink to this definition"></a></dt>
+<dd><p>Returns robot model.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.MoveItPy.shutdown">
+<span class="sig-name descname"><span class="pre">shutdown</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.MoveItPy.shutdown" title="Permalink to this definition"></a></dt>
+<dd><p>Shutdown the moveit_cpp node.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanRequestParameters">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.planning.</span></span><span class="sig-name descname"><span class="pre">PlanRequestParameters</span></span><a class="headerlink" href="#moveit_py.planning.PlanRequestParameters" title="Permalink to this definition"></a></dt>
+<dd><p>Planner parameters provided with a MotionPlanRequest.</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanRequestParameters.max_acceleration_scaling_factor">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">max_acceleration_scaling_factor</span></span><a class="headerlink" href="#moveit_py.planning.PlanRequestParameters.max_acceleration_scaling_factor" title="Permalink to this definition"></a></dt>
+<dd><p>The maximum scaling factor that can be used.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanRequestParameters.max_velocity_scaling_factor">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">max_velocity_scaling_factor</span></span><a class="headerlink" href="#moveit_py.planning.PlanRequestParameters.max_velocity_scaling_factor" title="Permalink to this definition"></a></dt>
+<dd><p>The maximum velocity scaling factor that can be used.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanRequestParameters.planner_id">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">planner_id</span></span><a class="headerlink" href="#moveit_py.planning.PlanRequestParameters.planner_id" title="Permalink to this definition"></a></dt>
+<dd><p>The planner id to use.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanRequestParameters.planning_attempts">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">planning_attempts</span></span><a class="headerlink" href="#moveit_py.planning.PlanRequestParameters.planning_attempts" title="Permalink to this definition"></a></dt>
+<dd><p>The number of planning attempts to make.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>int</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanRequestParameters.planning_pipeline">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">planning_pipeline</span></span><a class="headerlink" href="#moveit_py.planning.PlanRequestParameters.planning_pipeline" title="Permalink to this definition"></a></dt>
+<dd><p>The planning pipeline to use.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanRequestParameters.planning_time">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">planning_time</span></span><a class="headerlink" href="#moveit_py.planning.PlanRequestParameters.planning_time" title="Permalink to this definition"></a></dt>
+<dd><p>The amount of time to spend planning.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>float</p>
+</dd>
+</dl>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanSolution">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.planning.</span></span><span class="sig-name descname"><span class="pre">PlanSolution</span></span><a class="headerlink" href="#moveit_py.planning.PlanSolution" title="Permalink to this definition"></a></dt>
+<dd><p>Representation of a plan solution.</p>
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanSolution.error_code">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">error_code</span></span><a class="headerlink" href="#moveit_py.planning.PlanSolution.error_code" title="Permalink to this definition"></a></dt>
+<dd><p>The reason why the plan failed.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>moveit_py.core.ErrorCode</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanSolution.start_state">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">start_state</span></span><a class="headerlink" href="#moveit_py.planning.PlanSolution.start_state" title="Permalink to this definition"></a></dt>
+<dd><p>obj: <code class="xref any docutils literal notranslate"><span class="pre">moveit_msgs.msg.RobotState</span></code>: The start state of the plan.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanSolution.trajectory">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">trajectory</span></span><a class="headerlink" href="#moveit_py.planning.PlanSolution.trajectory" title="Permalink to this definition"></a></dt>
+<dd><p>obj: <a class="reference internal" href="moveit_py.core.html#moveit_py.core.RobotTrajectory" title="moveit_py.core.RobotTrajectory"><code class="xref any py py-class docutils literal notranslate"><span class="pre">moveit_py.core.RobotTrajectory</span></code></a>: The trajectory of the plan.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.planning.</span></span><span class="sig-name descname"><span class="pre">PlanningComponent</span></span><a class="headerlink" href="#moveit_py.planning.PlanningComponent" title="Permalink to this definition"></a></dt>
+<dd><p>Represents a joint model group and motion plans corresponding to this joint model group.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.execute">
+<span class="sig-name descname"><span class="pre">execute</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.execute" title="Permalink to this definition"></a></dt>
+<dd><p>Execute the latest computed solution trajectory computed by plan().</p>
+<p>By default this function terminates after the execution is complete. The execution can be run in background by setting blocking to false.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>blocking</strong> (<em>bool</em>) – Whether to wait for the execution to complete or not.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.get_start_state">
+<span class="sig-name descname"><span class="pre">get_start_state</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.get_start_state" title="Permalink to this definition"></a></dt>
+<dd><p>Returns the current start state for the planning component.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.named_target_state_values">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">named_target_state_values</span></span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.named_target_state_values" title="Permalink to this definition"></a></dt>
+<dd><p>The joint values for targets specified by name.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>dict</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.named_target_states">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">named_target_states</span></span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.named_target_states" title="Permalink to this definition"></a></dt>
+<dd><p>The names of the named robot states available as targets.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>list of str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.plan">
+<span class="sig-name descname"><span class="pre">plan</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.plan" title="Permalink to this definition"></a></dt>
+<dd><p>Run a plan from start or current state to fulfill the last goal constraints provided by the set_goal method using default parameters.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Returns</dt>
+<dd class="field-odd"><p>obj: <a class="reference internal" href="#moveit_py.planning.PlanSolution" title="moveit_py.planning.PlanSolution"><code class="xref any py py-class docutils literal notranslate"><span class="pre">moveit_py.planning.PlanSolution</span></code></a>: The plan solution.</p>
+</dd>
+</dl>
+<p>Run a plan from start or current state to fulfill the last goal constraints provided by the set_goal method using the provided :obj: <a class="reference internal" href="#moveit_py.planning.PlanRequestParameters" title="moveit_py.planning.PlanRequestParameters"><code class="xref any py py-class docutils literal notranslate"><span class="pre">moveit_py.planning.PlanRequestParameters</span></code></a>.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>parameters (</strong> – obj: <a class="reference internal" href="#moveit_py.planning.PlanRequestParameters" title="moveit_py.planning.PlanRequestParameters"><code class="xref any py py-class docutils literal notranslate"><span class="pre">moveit_py.planning.PlanRequestParameters</span></code></a>): The parameters to use for the plan.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.planning_group_name">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">planning_group_name</span></span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.planning_group_name" title="Permalink to this definition"></a></dt>
+<dd><p>The name of the planning group to plan for.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.set_goal">
+<span class="sig-name descname"><span class="pre">set_goal</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.set_goal" title="Permalink to this definition"></a></dt>
+<dd><p>Set the goal state using predefined state from robot srdf.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>goal_state_name</strong> (<em>str</em>) – The name of the goal state.</p>
+</dd>
+</dl>
+<p>Set the goal state to a given RobotState.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>goal_state</strong> (<em>moveit_py.core.RobotState</em>) – The state to set the goal state to.</p>
+</dd>
+</dl>
+<p>Set the goal pose of the plan by specifying the goal pose of a given link.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>goal_pose_msg (</strong> – obj: <code class="xref any docutils literal notranslate"><span class="pre">geometry_msgs.msg.Pose</span></code>): The goal pose.</p></li>
+<li><p><strong>link_name</strong> (<em>str</em>) – The name of the link to set the goal pose of.</p></li>
+</ul>
+</dd>
+</dl>
+<p>Set the goal pose of the plan by specifying the kinematic constraints.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>goal_constraints (list of</strong> – obj: <code class="xref any docutils literal notranslate"><span class="pre">moveit_msgs.msg.Constraints</span></code>): The goal constraints.</p>
+</dd>
+</dl>
+<p>Set the goal pose of the plan through providing a number array containing x, y, z, w pose variables in that order along with the associated link.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>goal_pose (</strong> – obj: numpy.ndarray): The goal pose.</p></li>
+<li><p><strong>link_name</strong> (<em>str</em>) – The name of the link to set the goal pose of.</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.set_path_constraints">
+<span class="sig-name descname"><span class="pre">set_path_constraints</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.set_path_constraints" title="Permalink to this definition"></a></dt>
+<dd><p>Set the path constraints generated from a moveit msg Constraints.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>path_constraints (</strong> – obj: <code class="xref any docutils literal notranslate"><span class="pre">moveit_msgs.msg.Constraints</span></code>): The path constraints.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.set_start_state">
+<span class="sig-name descname"><span class="pre">set_start_state</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.set_start_state" title="Permalink to this definition"></a></dt>
+<dd><p>Set the start state to a predefined state from the robot srdf.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>start_state_name</strong> (<em>str</em>)</p>
+</dd>
+</dl>
+<p>Set the start state to a given RobotState.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>start_state</strong> (<em>moveit_py.core.RobotState</em>) – The state to set the start state to.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.set_start_state_to_current_state">
+<span class="sig-name descname"><span class="pre">set_start_state_to_current_state</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.set_start_state_to_current_state" title="Permalink to this definition"></a></dt>
+<dd><p>Set the start state of the plan to the current state of the robot.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.set_workspace">
+<span class="sig-name descname"><span class="pre">set_workspace</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.set_workspace" title="Permalink to this definition"></a></dt>
+<dd><p>Specify the workspace bounding box.</p>
+<p>The box is specified in the planning frame (i.e. relative to the robot root link start position). This is useful when the planning group contains the root joint of the robot – i.e. when planning motion for the robot relative to the world.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>min_x</strong> (<em>float</em>) – The minimum x value of the workspace.</p></li>
+<li><p><strong>min_y</strong> (<em>float</em>) – The minimum y value of the workspace.</p></li>
+<li><p><strong>min_z</strong> (<em>float</em>) – The minimum z value of the workspace.</p></li>
+<li><p><strong>max_x</strong> (<em>float</em>) – The maximum x value of the workspace.</p></li>
+<li><p><strong>max_y</strong> (<em>float</em>) – The maximum y value of the workspace.</p></li>
+<li><p><strong>max_z</strong> (<em>float</em>) – The maximum z value of the workspace.</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningComponent.unset_workspace">
+<span class="sig-name descname"><span class="pre">unset_workspace</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningComponent.unset_workspace" title="Permalink to this definition"></a></dt>
+<dd><p>Remove the workspace bounding box from planning.</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningSceneMonitor">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.planning.</span></span><span class="sig-name descname"><span class="pre">PlanningSceneMonitor</span></span><a class="headerlink" href="#moveit_py.planning.PlanningSceneMonitor" title="Permalink to this definition"></a></dt>
+<dd><p>Maintains the internal state of the planning scene.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningSceneMonitor.clear_octomap">
+<span class="sig-name descname"><span class="pre">clear_octomap</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningSceneMonitor.clear_octomap" title="Permalink to this definition"></a></dt>
+<dd><p>Clears the octomap.</p>
+</dd></dl>
+
+<dl class="py property">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningSceneMonitor.name">
+<em class="property"><span class="pre">property</span><span class="w"> </span></em><span class="sig-name descname"><span class="pre">name</span></span><a class="headerlink" href="#moveit_py.planning.PlanningSceneMonitor.name" title="Permalink to this definition"></a></dt>
+<dd><p>The name of this planning scene monitor.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Type</dt>
+<dd class="field-odd"><p>str</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningSceneMonitor.read_only">
+<span class="sig-name descname"><span class="pre">read_only</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningSceneMonitor.read_only" title="Permalink to this definition"></a></dt>
+<dd><p>Returns a read-only context manager for the planning scene.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningSceneMonitor.read_write">
+<span class="sig-name descname"><span class="pre">read_write</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningSceneMonitor.read_write" title="Permalink to this definition"></a></dt>
+<dd><p>Returns a read-write context manager for the planning scene.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningSceneMonitor.start_scene_monitor">
+<span class="sig-name descname"><span class="pre">start_scene_monitor</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningSceneMonitor.start_scene_monitor" title="Permalink to this definition"></a></dt>
+<dd><p>Starts the scene monitor.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.planning.PlanningSceneMonitor.stop_scene_monitor">
+<span class="sig-name descname"><span class="pre">stop_scene_monitor</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.planning.PlanningSceneMonitor.stop_scene_monitor" title="Permalink to this definition"></a></dt>
+<dd><p>Stops the scene monitor.</p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="moveit_py.core.html" class="btn btn-neutral float-left" title="moveit_py.core" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="moveit_py.servo_client.html" class="btn btn-neutral float-right" title="moveit_py.servo_client" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, PickNik Robotics.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+    <!-- Theme Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108532843-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-108532843-1', {
+          'anonymize_ip': false,
+      });
+    </script> 
+
+</body>
+</html>

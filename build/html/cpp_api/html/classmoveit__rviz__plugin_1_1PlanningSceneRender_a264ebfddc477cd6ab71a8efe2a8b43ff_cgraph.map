@@ -1,0 +1,8 @@
+<map id="moveit_rviz_plugin::PlanningSceneRender::renderPlanningScene" name="moveit_rviz_plugin::PlanningSceneRender::renderPlanningScene">
+<area shape="rect" id="node1" title=" " alt="" coords="5,43,176,99"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1PlanningSceneRender.html#a070d29d1710068e1bec9114f183d9382" title=" " alt="" coords="231,5,401,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#aaec5557d55b862d9dd832b3d4c221836" title="Update all transforms." alt="" coords="224,86,408,127"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#afa1f72a766bdf75d81f4404058322576" title="Update the transforms for the collision bodies. This call is needed before calling collision checking..." alt="" coords="456,86,692,127"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModel.html#aa6dbe9f994aca22adf80add175d10681" title="Get all the link models that descend from this joint, in the kinematic tree." alt="" coords="740,53,943,94"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="749,118,933,159"/>
+</map>

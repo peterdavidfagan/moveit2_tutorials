@@ -1,0 +1,11 @@
+<map id="planning_scene::PlanningScene::getAllowedCollisionMatrix" name="planning_scene::PlanningScene::getAllowedCollisionMatrix">
+<area shape="rect" id="node1" title="Get the allowed collision matrix." alt="" coords="517,136,757,177"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#ac5b3f3aba3878b0e90a071db8657db50" title="Check whether a specified state (robot_state) is in collision. The collision transforms of robot_stat..." alt="" coords="261,5,448,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene_1_1PlanningScene.html#a548ecbe8c71328bcebb516eae50a7d20" title="Check whether the current state is in collision, but use a collision_detection::CollisionRobot instan..." alt="" coords="240,71,469,112"/>
+<area shape="rect" id="node5" href="$classplanning__scene_1_1PlanningScene.html#ad0d87cd5782dac2bbcf84a259abea517" title="Get the names of the links that are involved in collisions for the current state." alt="" coords="261,136,448,177"/>
+<area shape="rect" id="node6" href="$classplanning__scene_1_1PlanningScene.html#af4eb8439dd7d0397a780e7cdfcaf8a02" title="Get the names of the links that are involved in collisions for the current state. Update the link tra..." alt="" coords="261,201,448,243"/>
+<area shape="rect" id="node8" href="$classplanning__scene_1_1PlanningScene.html#a1c4051599aa9702d96097634db499621" title="Construct a message (scene) with all the necessary data so that the scene can be later reconstructed ..." alt="" coords="249,267,461,308"/>
+<area shape="rect" id="node4" href="$core_8cpp.html#a92e436fb725965a2681c8e0eff28a83e" title=" " alt="" coords="23,78,174,105"/>
+<area shape="rect" id="node7" href="$classplanning__scene_1_1PlanningScene.html#ac463d3a38790ee505445b2feb206a6ed" title="Get the names of the links that are involved in collisions for the state robot_state given the allowe..." alt="" coords="5,201,192,243"/>
+<area shape="rect" id="node9" href="$test__planning__scene_8cpp.html#a8657479fb681ab94486683c9e03019fa" title=" " alt="" coords="71,274,126,301"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit_setup::URDFConfig" name="moveit_setup::URDFConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="5,5,203,32"/>
+</map>

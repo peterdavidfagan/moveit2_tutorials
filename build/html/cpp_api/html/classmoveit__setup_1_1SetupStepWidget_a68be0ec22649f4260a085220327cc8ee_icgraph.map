@@ -1,0 +1,4 @@
+<map id="moveit_setup::SetupStepWidget::onInit" name="moveit_setup::SetupStepWidget::onInit">
+<area shape="rect" id="node1" title=" " alt="" coords="284,5,515,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupStepWidget.html#a2f2c39dc2091415590eb675b2c684273" title="Called after construction to initialize the step." alt="" coords="5,5,236,47"/>
+</map>

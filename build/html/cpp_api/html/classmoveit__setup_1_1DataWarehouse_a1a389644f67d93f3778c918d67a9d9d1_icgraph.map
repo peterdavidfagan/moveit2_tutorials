@@ -1,0 +1,5 @@
+<map id="moveit_setup::DataWarehouse::get" name="moveit_setup::DataWarehouse::get">
+<area shape="rect" id="node1" title="Get the singleton for a given config name and class." alt="" coords="304,35,555,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1DataWarehouse.html#a6c32d13226d13456c9225faf7cc2d041" title="Get the specific singleton for a given config name and class." alt="" coords="5,5,256,32"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1DataWarehouse.html#a8cca9f81b8fef4b29c44d052ab25bfea" title="Get all of the registered configs that match the given config_class." alt="" coords="19,57,242,98"/>
+</map>

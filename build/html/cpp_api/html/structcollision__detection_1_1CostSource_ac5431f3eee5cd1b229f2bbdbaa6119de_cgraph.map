@@ -1,0 +1,4 @@
+<map id="collision_detection::CostSource::operator&lt;" name="collision_detection::CostSource::operator&lt;">
+<area shape="rect" id="node1" title="Order cost sources so that the most costly source is at the top." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$structcollision__detection_1_1CostSource.html#a042531e0075fab6b3fe3d09eab258764" title="Get the volume of the AABB around the cost source." alt="" coords="231,5,412,47"/>
+</map>

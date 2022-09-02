@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::getGoalOrientationTolerance" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::getGoalOrientationTolerance">
+<area shape="rect" id="node1" title=" " alt="" coords="348,5,651,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#ade1ee79a7daaad3007943f2f31887280" title="Get the tolerance that is used for reaching an orientation goal. This is the tolerance for roll,..." alt="" coords="5,5,300,61"/>
+</map>

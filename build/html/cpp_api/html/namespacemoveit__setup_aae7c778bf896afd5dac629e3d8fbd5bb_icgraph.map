@@ -1,0 +1,6 @@
+<map id="moveit_setup::extractPackageNameFromPath" name="moveit_setup::extractPackageNameFromPath">
+<area shape="rect" id="node1" title=" " alt="" coords="524,39,743,80"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1PackageSettingsConfig.html#ad005ee33923b5e269dbf0e9d6f8aaab1" title="Method for loading the contents of the .setup_assistant file into all the configs." alt="" coords="251,5,476,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1URDFConfig.html#a70d88371b5628e5e657084726fc51991" title=" " alt="" coords="265,71,462,112"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1URDFConfig.html#a264c79c66ebc953a1b078d2192d2586b" title="Load URDF File." alt="" coords="5,71,203,112"/>
+</map>

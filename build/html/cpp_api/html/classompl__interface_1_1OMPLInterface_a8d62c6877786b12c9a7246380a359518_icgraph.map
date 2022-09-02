@@ -1,0 +1,5 @@
+<map id="ompl_interface::OMPLInterface::loadPlannerConfiguration" name="ompl_interface::OMPLInterface::loadPlannerConfiguration">
+<area shape="rect" id="node1" title="Load planner configurations for specified group into planner_config." alt="" coords="547,5,769,47"/>
+<area shape="rect" id="node2" href="$classompl__interface_1_1OMPLInterface.html#ae4c553fcaff5d0f409fd06ef48fc7169" title="Configure the planners." alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node3" href="$classompl__interface_1_1OMPLInterface.html#af08f493845fc7ebea5ee5b3cf6d1892c" title="Initialize OMPL&#45;based planning for a particular robot model. ROS configuration is read from the speci..." alt="" coords="5,5,228,47"/>
+</map>

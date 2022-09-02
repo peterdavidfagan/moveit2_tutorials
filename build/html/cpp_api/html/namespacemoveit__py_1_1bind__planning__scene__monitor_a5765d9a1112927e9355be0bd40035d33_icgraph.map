@@ -1,0 +1,9 @@
+<map id="moveit_py::bind_planning_scene_monitor::read_only" name="moveit_py::bind_planning_scene_monitor::read_only">
+<area shape="rect" id="node1" title=" " alt="" coords="544,158,741,199"/>
+<area shape="rect" id="node2" href="$classplanning__scene__monitor_1_1LockedPlanningSceneRO.html#a40f01d263569474edf9b934382196490" title=" " alt="" coords="275,5,464,61"/>
+<area shape="rect" id="node4" href="$classplanning__scene__monitor_1_1LockedPlanningSceneRO.html#a46d8a0ed451c38a07e6f9c1959a1395b" title=" " alt="" coords="275,85,464,141"/>
+<area shape="rect" id="node5" href="$planning_8cpp.html#aa03043dfb277740413665226e41f86be" title=" " alt="" coords="294,165,445,192"/>
+<area shape="rect" id="node6" href="$classmoveit__servo_1_1ParameterDescriptorBuilder.html#a6f645c70d75fb028d62af3efd957e67c" title="Sets the read only flag." alt="" coords="243,217,496,258"/>
+<area shape="rect" id="node7" href="$structplanning__scene__monitor_1_1LockedPlanningSceneRO_1_1SingleUnlock.html#a78a32e1588f27f3aafbaa126b48f79bf" title=" " alt="" coords="265,283,473,339"/>
+<area shape="rect" id="node3" href="$classplanning__scene__monitor_1_1LockedPlanningSceneRO.html#a725aa9d771b94fd49737b5690b6101f3" title=" " alt="" coords="5,5,195,61"/>
+</map>

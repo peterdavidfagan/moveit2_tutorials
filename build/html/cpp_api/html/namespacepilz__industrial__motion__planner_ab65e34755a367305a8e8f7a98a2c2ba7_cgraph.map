@@ -1,0 +1,5 @@
+<map id="pilz_industrial_motion_planner::isRobotStateStationary" name="pilz_industrial_motion_planner::isRobotStateStationary">
+<area shape="rect" id="node1" title="check if the robot state have zero velocity/acceleration" alt="" coords="5,5,241,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a3c2938fb8c9467dff253db4b5c1992ca" title="For a given group, copy the velocity values of the variables that make up the group into another loca..." alt="" coords="289,5,481,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="529,5,711,47"/>
+</map>

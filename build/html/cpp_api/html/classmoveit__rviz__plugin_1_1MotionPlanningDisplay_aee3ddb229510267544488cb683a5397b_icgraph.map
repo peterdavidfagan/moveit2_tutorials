@@ -1,0 +1,6 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::publishInteractiveMarkers" name="moveit_rviz_plugin::MotionPlanningDisplay::publishInteractiveMarkers">
+<area shape="rect" id="node1" title=" " alt="" coords="508,45,707,101"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a0e6b437888bd0030ca9f0da72c5c6e1d" title=" " alt="" coords="234,5,459,61"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a943649e4f40cfad8860a28c5d8c0e1f3" title=" " alt="" coords="233,85,460,141"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#aee4a87243cf759854077cff4e8a152ab" title="This is an event called by loadRobotModel() in the MainLoop; do not call directly." alt="" coords="5,45,185,101"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="moveit_setup::srdf_setup::GroupMetaConfig::GeneratedGroupMetaConfig" name="moveit_setup::srdf_setup::GroupMetaConfig::GeneratedGroupMetaConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="976,27,1187,83"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1YamlGeneratedFile.html" title=" " alt="" coords="633,13,875,39"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="267,13,477,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1srdf__setup_1_1GroupMetaConfig.html" title=" " alt="" coords="661,64,847,105"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="273,67,471,94"/>
+<area shape="rect" id="node7" href="$structmoveit__setup_1_1srdf__setup_1_1GroupMetaData.html" title=" " alt="" coords="284,119,460,160"/>
+</map>

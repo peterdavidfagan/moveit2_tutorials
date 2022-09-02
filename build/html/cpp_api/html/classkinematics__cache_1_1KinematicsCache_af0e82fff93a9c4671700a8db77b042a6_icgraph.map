@@ -1,0 +1,4 @@
+<map id="kinematics_cache::KinematicsCache::getSolution" name="kinematics_cache::KinematicsCache::getSolution">
+<area shape="rect" id="node1" title="Get a candidate solution for a particular pose. Note that the pose will be projected onto the grid us..." alt="" coords="273,5,493,47"/>
+<area shape="rect" id="node2" href="$classkinematics__cache_1_1KinematicsCache.html#af9b96c7764d66c9ed896acca358aed1b" title="Get all candidate solutions for a particular pose. Note that the pose will be projected onto the grid..." alt="" coords="5,5,225,47"/>
+</map>

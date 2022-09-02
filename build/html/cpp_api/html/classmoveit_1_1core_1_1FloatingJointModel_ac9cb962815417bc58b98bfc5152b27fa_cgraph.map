@@ -1,0 +1,6 @@
+<map id="moveit::core::FloatingJointModel::getVariableRandomPositionsNearBy" name="moveit::core::FloatingJointModel::getVariableRandomPositionsNearBy">
+<area shape="rect" id="node1" title="Provide random values for the joint variables (within specified bounds). Enough memory is assumed to ..." alt="" coords="5,31,263,87"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1FloatingJointModel.html#a78b75b45d46d33dc764e3f5b3e6bf699" title="Compute the distance between two joint states of the same model (represented by the variable values)" alt="" coords="311,39,505,80"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1FloatingJointModel.html#a1e9866963c624b3092906e8fe5415618" title="Get the distance between the rotation components of two states." alt="" coords="554,5,749,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1FloatingJointModel.html#ad746c535833981949b6da7927e991e23" title="Get the distance between the translation components of two states." alt="" coords="553,71,749,112"/>
+</map>

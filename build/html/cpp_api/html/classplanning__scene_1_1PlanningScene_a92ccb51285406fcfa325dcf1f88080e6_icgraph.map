@@ -1,0 +1,9 @@
+<map id="planning_scene::PlanningScene::shapesAndPosesFromCollisionObjectMessage" name="planning_scene::PlanningScene::shapesAndPosesFromCollisionObjectMessage">
+<area shape="rect" id="node1" title="Takes the object message and returns the object pose, shapes and shape poses. If the object pose is e..." alt="" coords="1067,31,1333,87"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a6f16582ddf99b615ef69c658521731ff" title=" " alt="" coords="785,31,1019,87"/>
+<area shape="rect" id="node3" href="$classplanning__scene_1_1PlanningScene.html#a30e14e2ee05a53a1b6536930acb9d188" title="Set the current robot state to be state. If not all joint values are specified, the previously mainta..." alt="" coords="551,39,737,80"/>
+<area shape="rect" id="node4" href="$classplanning__scene_1_1PlanningScene.html#a6b9894a14d5757ea4317d0be4ebb5b6e" title="Apply changes to this planning scene as diffs, even if the message itself is not marked as being a di..." alt="" coords="268,5,503,47"/>
+<area shape="rect" id="node6" href="$classplanning__scene_1_1PlanningScene.html#acb5c51321f5d908072920ee2a2f1db58" title="Set this instance of a planning scene to be the same as the one serialized in the scene message,..." alt="" coords="280,71,491,112"/>
+<area shape="rect" id="node5" href="$classplanning__scene_1_1PlanningScene.html#a17eaa549d0279f01f8b26e4c04c05d6f" title="Call setPlanningSceneMsg() or setPlanningSceneDiffMsg() depending on how the is_diff member of the me..." alt="" coords="5,9,220,51"/>
+<area shape="rect" id="node7" href="$test__planning__scene_8cpp.html#a8657479fb681ab94486683c9e03019fa" title=" " alt="" coords="85,78,140,105"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit_setup::SetupConfig::onInit" name="moveit_setup::SetupConfig::onInit">
+<area shape="rect" id="node1" title="Overridable initialization method." alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupConfig.html#ae518853158c4269d7ccc82d56e86138b" title="Called after construction to initialize the step." alt="" coords="5,5,203,47"/>
+</map>

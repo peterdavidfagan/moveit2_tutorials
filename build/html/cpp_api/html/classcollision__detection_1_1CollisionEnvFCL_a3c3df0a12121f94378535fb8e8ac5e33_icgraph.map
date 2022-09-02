@@ -1,0 +1,5 @@
+<map id="collision_detection::CollisionEnvFCL::distanceRobot" name="collision_detection::CollisionEnvFCL::distanceRobot">
+<area shape="rect" id="node1" title="Compute the distance between a robot and the world." alt="" coords="539,5,736,61"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvFCL.html#a3fbc87899c026409120c0360ff6885da" title="Bundles the different checkRobotCollision functions into a single function." alt="" coords="272,5,491,61"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnvFCL.html#a41930589c4c6e17ae4e9abbe6a1a37ff" title="Check whether the robot model is in collision with the world. Any collisions between a robot link and..." alt="" coords="5,5,224,61"/>
+</map>

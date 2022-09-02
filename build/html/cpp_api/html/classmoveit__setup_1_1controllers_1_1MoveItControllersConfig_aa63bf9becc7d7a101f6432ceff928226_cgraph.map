@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::MoveItControllersConfig::loadPrevious" name="moveit_setup::controllers::MoveItControllersConfig::loadPrevious">
+<area shape="rect" id="node1" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,5,193,61"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup.html#a0f072c14ac8dfa0e0f78636fc598d9e8" title=" " alt="" coords="477,20,704,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1MoveItControllersConfig.html#a2d629641027cec58c4fe386bca9f9325" title=" " alt="" coords="241,37,429,93"/>
+</map>

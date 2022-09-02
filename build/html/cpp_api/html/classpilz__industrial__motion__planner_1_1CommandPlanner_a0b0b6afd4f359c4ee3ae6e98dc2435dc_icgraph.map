@@ -1,0 +1,5 @@
+<map id="pilz_industrial_motion_planner::CommandPlanner::canServiceRequest" name="pilz_industrial_motion_planner::CommandPlanner::canServiceRequest">
+<area shape="rect" id="node1" title="Checks if the request can be handled." alt="" coords="359,5,561,61"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1CommandPlanner.html#a906cc608980d96b6e661aae974b3c738" title="Returns a PlanningContext that can be used to solve(calculate) the trajectory that corresponds to com..." alt="" coords="108,5,311,61"/>
+<area shape="rect" id="node3" href="$unittest__pilz__industrial__motion__planner__direct_8cpp.html#ad9d770f87a042b727a22f77f0d31023c" title="Check that getPlanningContext() fails if the underlying ContextLoader fails to load the context." alt="" coords="5,20,60,47"/>
+</map>

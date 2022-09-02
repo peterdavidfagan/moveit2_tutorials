@@ -1,0 +1,4 @@
+<map id="kinematics::KinematicsBase::getPositionIK" name="kinematics::KinematicsBase::getPositionIK">
+<area shape="rect" id="node1" title="Given the desired poses of all end&#45;effectors, compute joint angles that are able to reach it." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classkinematics_1_1KinematicsBase.html#a8399004e2e8b32af702e2e0a3416cb33" title="Given a desired pose of the end&#45;effector, compute the joint angles to reach it." alt="" coords="260,5,467,47"/>
+</map>

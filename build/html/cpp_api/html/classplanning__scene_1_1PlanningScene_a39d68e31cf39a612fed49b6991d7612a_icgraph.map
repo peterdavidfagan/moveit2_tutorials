@@ -1,0 +1,5 @@
+<map id="planning_scene::PlanningScene::getObjectColorMsgs" name="planning_scene::PlanningScene::getObjectColorMsgs">
+<area shape="rect" id="node1" title="Construct a vector of messages (object_colors) with the colors of the objects from the planning_scene..." alt="" coords="368,5,568,47"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a1c4051599aa9702d96097634db499621" title="Construct a message (scene) with all the necessary data so that the scene can be later reconstructed ..." alt="" coords="108,5,320,47"/>
+<area shape="rect" id="node3" href="$test__planning__scene_8cpp.html#a8657479fb681ab94486683c9e03019fa" title=" " alt="" coords="5,13,60,39"/>
+</map>

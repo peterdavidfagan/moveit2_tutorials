@@ -1,0 +1,5 @@
+<map id="robot_trajectory::RobotTrajectory::setRobotTrajectoryMsg" name="robot_trajectory::RobotTrajectory::setRobotTrajectoryMsg">
+<area shape="rect" id="node1" title="Copy the content of the trajectory message into this class. The trajectory message itself is not requ..." alt="" coords="5,39,240,80"/>
+<area shape="rect" id="node2" href="$classrobot__trajectory_1_1RobotTrajectory.html#a8d818ea730ce7620ca2b15edd70f774e" title="Add a point to the trajectory." alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node3" href="$classrobot__trajectory_1_1RobotTrajectory.html#ae07ca729ccee3748d65abe389de3b8e1" title=" " alt="" coords="288,71,523,112"/>
+</map>

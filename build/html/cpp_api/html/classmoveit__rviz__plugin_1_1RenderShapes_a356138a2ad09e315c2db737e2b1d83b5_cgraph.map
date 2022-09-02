@@ -1,0 +1,6 @@
+<map id="moveit_rviz_plugin::RenderShapes::renderShape" name="moveit_rviz_plugin::RenderShapes::renderShape">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,219,80"/>
+<area shape="rect" id="node2" href="$classrviz__rendering_1_1MeshShape.html#a617beb22e9147b712b7dca2d7e400be2" title="Add a vertex to the mesh (no normal defined). If using this function only (not using addTriangle()) i..." alt="" coords="267,5,465,47"/>
+<area shape="rect" id="node4" href="$classrviz__rendering_1_1MeshShape.html#a9bc72b357be5a39818582666f7695f37" title="Notify that the set of triangles to add is complete. No more triangles can be added,..." alt="" coords="267,71,465,112"/>
+<area shape="rect" id="node3" href="$classrviz__rendering_1_1MeshShape.html#a5b245f521c7afe8e56b4f49a00d990fb" title="Start adding triangles to the mesh." alt="" coords="513,5,712,47"/>
+</map>

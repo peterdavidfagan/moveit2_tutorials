@@ -1,0 +1,5 @@
+<map id="ompl_interface::ModelBasedStateSpace::getJointModelGroupName" name="ompl_interface::ModelBasedStateSpace::getJointModelGroupName">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,276,80"/>
+<area shape="rect" id="node2" href="$classompl__interface_1_1ModelBasedStateSpace.html#a3a5e24ce4c397b052538aba40c3b20e2" title=" " alt="" coords="324,5,556,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a2f165c9374e28ac4052490819c790f45" title="Get the name of the joint group." alt="" coords="349,71,531,112"/>
+</map>

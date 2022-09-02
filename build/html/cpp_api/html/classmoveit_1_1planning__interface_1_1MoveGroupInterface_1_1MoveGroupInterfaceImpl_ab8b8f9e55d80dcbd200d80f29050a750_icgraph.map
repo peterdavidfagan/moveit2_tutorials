@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setPlanningTime" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setPlanningTime">
+<area shape="rect" id="node1" title=" " alt="" coords="333,5,580,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#af4631a849c750b4c1428242475c8988d" title="Specify the maximum amount of time to use when planning." alt="" coords="5,13,285,54"/>
+</map>

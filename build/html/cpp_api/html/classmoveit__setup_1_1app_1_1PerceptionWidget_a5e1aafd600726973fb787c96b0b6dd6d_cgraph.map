@@ -1,0 +1,5 @@
+<map id="moveit_setup::app::PerceptionWidget::focusLost" name="moveit_setup::app::PerceptionWidget::focusLost">
+<area shape="rect" id="node1" title="Received when another widget is chosen from the navigation menu." alt="" coords="5,50,212,91"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1app_1_1Perception.html#a1826d89891f102bd77823c5ee8514bfa" title="Clear the sensor plugin configuration parameter list." alt="" coords="260,5,475,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1app_1_1Perception.html#a626ebf93d8eec7f58029912692b55909" title=" " alt="" coords="287,86,447,127"/>
+</map>

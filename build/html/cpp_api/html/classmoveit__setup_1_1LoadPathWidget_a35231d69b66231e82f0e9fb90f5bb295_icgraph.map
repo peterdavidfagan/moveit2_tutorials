@@ -1,0 +1,5 @@
+<map id="moveit_setup::LoadPathWidget::setPath" name="moveit_setup::LoadPathWidget::setPath">
+<area shape="rect" id="node1" title="Set the path with QString." alt="" coords="247,53,471,94"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1core_1_1ConfigurationFilesWidget.html#af68531cffc501dc71bd1f7923fb68cfe" title="Received when this widget is chosen from the navigation menu." alt="" coords="5,5,199,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1core_1_1StartScreenWidget.html#a84f8ca11c14daf3df9ddcdee4e38ddbc" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="27,85,177,141"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::drawQueryGoalState" name="moveit_rviz_plugin::MotionPlanningDisplay::drawQueryGoalState">
+<area shape="rect" id="node1" title=" " alt="" coords="5,396,185,452"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#ac97e338257ee700ce3a7890ad54ee230" title=" " alt="" coords="247,137,427,193"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#afd569dc08226932f414e227fb29dfa38" title=" " alt="" coords="247,217,427,273"/>
+<area shape="rect" id="node6" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#afc14b220fd9f97a0691d054791e830ff" title=" " alt="" coords="499,283,679,339"/>
+<area shape="rect" id="node9" href="$classmoveit_1_1core_1_1JointModelGroup.html#a14fb89fcb1b1d7297b5ddd3d063c715f" title="Get the active joints in this group (that have controllable DOF). This does not include mimic joints." alt="" coords="233,439,440,481"/>
+<area shape="rect" id="node10" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a1b8a5ed8a52c02be0158d4fca7cce701" title=" " alt="" coords="239,505,434,561"/>
+<area shape="rect" id="node11" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a13fce732c3b9f3f8010e5a5988048afe" title="get read&#45;only access to planning scene" alt="" coords="249,585,424,641"/>
+<area shape="rect" id="node12" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a4fdfada52ec6881583c9dc424984ff9d" title=" " alt="" coords="247,665,427,721"/>
+<area shape="rect" id="node13" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#ad25310e4b202e9840bab0b5810e79bbe" title=" " alt="" coords="247,359,427,415"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a2da8589a88256653bb9598cd382458f8" title=" " alt="" coords="499,5,679,61"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModelGroup.html#a0b1752d210db29e6a05f7d0e70c4ce4f" title="Get the names of the links that are part of this joint group." alt="" coords="488,86,691,127"/>
+<area shape="rect" id="node7" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a9fb7c74cc0554704dedb81ca155bd53a" title=" " alt="" coords="499,152,679,208"/>
+<area shape="rect" id="node8" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#ab2d4befc925c6933f7f508bef69a67f3" title=" " alt="" coords="768,363,943,419"/>
+<area shape="rect" id="node14" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a61f5cafe78dff5c641e9af6ece0d269e" title=" " alt="" coords="502,443,677,499"/>
+<area shape="rect" id="node16" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a24a7d323c74427b5abe639d2d401cb7a" title=" " alt="" coords="768,523,943,579"/>
+<area shape="rect" id="node17" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#ad90a463b66cf0d0b4533b177cc5f65ff" title=" " alt="" coords="502,363,677,419"/>
+<area shape="rect" id="node15" href="$classmoveit_1_1core_1_1JointModelGroup.html#a6bbffa243e6239b50063d067bcd035ea" title="Get the names of the links that are part of this joint group and also have geometry associated with t..." alt="" coords="739,443,972,499"/>
+<area shape="rect" id="node18" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a412ff7d9a49c6e29ad203e6355c570bf" title=" " alt="" coords="768,283,943,339"/>
+</map>

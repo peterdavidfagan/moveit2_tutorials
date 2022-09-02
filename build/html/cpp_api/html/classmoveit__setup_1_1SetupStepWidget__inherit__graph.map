@@ -1,0 +1,20 @@
+<map id="moveit_setup::SetupStepWidget" name="moveit_setup::SetupStepWidget">
+<area shape="rect" id="node1" title="The GUI code for one SetupStep." alt="" coords="132,438,363,465"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1app_1_1LaunchesWidget.html" title=" " alt="" coords="451,5,601,47"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1app_1_1PerceptionWidget.html" title=" " alt="" coords="451,71,601,112"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1controllers_1_1ControllersWidget.html" title=" " alt="" coords="432,136,620,177"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1controllers_1_1UrdfModificationsWidget.html" title=" " alt="" coords="431,201,621,243"/>
+<area shape="rect" id="node9" href="$classmoveit__setup_1_1core_1_1AuthorInformationWidget.html" title=" " alt="" coords="429,267,623,308"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1core_1_1ConfigurationFilesWidget.html" title=" " alt="" coords="429,332,623,373"/>
+<area shape="rect" id="node11" href="$classmoveit__setup_1_1core_1_1StartScreenWidget.html" title="Start screen user interface for MoveIt Configuration Assistant." alt="" coords="451,397,601,439"/>
+<area shape="rect" id="node12" href="$classmoveit__setup_1_1simulation_1_1SimulationWidget.html" title=" " alt="" coords="432,463,620,504"/>
+<area shape="rect" id="node13" href="$classmoveit__setup_1_1srdf__setup_1_1DefaultCollisionsWidget.html" title="User interface for editing the default collision matrix list in an SRDF." alt="" coords="411,528,641,569"/>
+<area shape="rect" id="node14" href="$classmoveit__setup_1_1srdf__setup_1_1EndEffectorsWidget.html" title=" " alt="" coords="426,593,626,635"/>
+<area shape="rect" id="node15" href="$classmoveit__setup_1_1srdf__setup_1_1PassiveJointsWidget.html" title=" " alt="" coords="424,659,628,700"/>
+<area shape="rect" id="node16" href="$classmoveit__setup_1_1srdf__setup_1_1PlanningGroupsWidget.html" title=" " alt="" coords="415,724,637,765"/>
+<area shape="rect" id="node17" href="$classmoveit__setup_1_1srdf__setup_1_1RobotPosesWidget.html" title=" " alt="" coords="429,789,623,831"/>
+<area shape="rect" id="node18" href="$classmoveit__setup_1_1srdf__setup_1_1VirtualJointsWidget.html" title=" " alt="" coords="427,855,625,896"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,438,84,465"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1controllers_1_1MoveItControllersWidget.html" title=" " alt="" coords="689,104,881,145"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1controllers_1_1ROS2ControllersWidget.html" title=" " alt="" coords="691,169,879,211"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setPoseTarget" name="moveit::planning_interface::MoveGroupInterface::setPoseTarget">
+<area shape="rect" id="node1" title="Set the goal pose of the end&#45;effector end_effector_link." alt="" coords="317,93,580,134"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a718268743cb7a60268803c8840d63a75" title="Set the goal orientation of the end&#45;effector end_effector_link to be the quaternion (x,..." alt="" coords="5,5,269,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a417e37154a0f276de9ab70bae2fcad32" title="Set the goal position of the end&#45;effector end_effector_link to be (x, y, z)." alt="" coords="16,85,259,141"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a7f43684b3ccf3788d758c2aafa887353" title="Set the goal orientation of the end&#45;effector end_effector_link to be (roll,pitch,yaw) radians." alt="" coords="9,166,265,207"/>
+</map>

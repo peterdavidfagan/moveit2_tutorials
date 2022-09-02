@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::SuperSRDFStep&lt; T &gt;" name="moveit_setup::srdf_setup::SuperSRDFStep&lt; T &gt;">
+<area shape="rect" id="node1" title="This class provides a number of standard operations based on srdf&#39;s vector members." alt="" coords="5,169,216,211"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SRDFStep.html" title="Setup Step that contains the SRDFConfig." alt="" coords="39,80,183,121"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SetupStep.html" title="Contains all of the non&#45;GUI code necessary for doing one &quot;screen&quot; worth of setup." alt="" coords="18,5,203,32"/>
+</map>

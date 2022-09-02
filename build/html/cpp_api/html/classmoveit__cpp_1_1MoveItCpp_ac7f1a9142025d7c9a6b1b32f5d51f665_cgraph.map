@@ -1,0 +1,4 @@
+<map id="moveit_cpp::MoveItCpp::getCurrentState" name="moveit_cpp::MoveItCpp::getCurrentState">
+<area shape="rect" id="node1" title="Get the current state queried from the current state monitor." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$classmoveit__cpp_1_1MoveItCpp.html#a9c2f757c274fc4276d356dc901ebb8c7" title="Get the current state queried from the current state monitor." alt="" coords="229,5,405,47"/>
+</map>

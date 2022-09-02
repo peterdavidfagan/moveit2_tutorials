@@ -1,0 +1,11 @@
+<map id="kinematics::KinematicsBase::setSearchDiscretization" name="kinematics::KinematicsBase::setSearchDiscretization">
+<area shape="rect" id="node1" title="Set the search discretization value for all the redundant joints." alt="" coords="515,83,721,124"/>
+<area shape="rect" id="node2" href="$classkinematics_1_1KinematicsBase.html#aece5cc8cb89ce4f06b4923b77940a380" title="Set a set of redundant joints for the kinematics solver to use. This can fail, depending on the IK so..." alt="" coords="260,12,467,53"/>
+<area shape="rect" id="node4" href="$classkinematics_1_1KinematicsBase.html#a382259b506544902fbf8ed4a5d8ab1ed" title="Set the parameters for the solver, for use with non&#45;chain IK solvers." alt="" coords="260,83,467,124"/>
+<area shape="rect" id="node5" href="$classkinematics_1_1KinematicsBase.html#a2c8ecd6268c1aef0fbcfde3b7a42809e" title=" " alt="" coords="260,159,467,200"/>
+<area shape="rect" id="node3" href="$classkinematics_1_1KinematicsBase.html#ae8596c4d8eaf32ea9d00c07629c8c00a" title="Set a set of redundant joints for the kinematics solver to use. This function is just a convenience f..." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node6" href="$classpr2__arm__kinematics_1_1PR2ArmKinematicsPlugin.html#a4af26a6d1abd0a16f8223ab56272ca80" title="Initialization function for the kinematics." alt="" coords="11,71,206,127"/>
+<area shape="rect" id="node7" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="24,151,193,207"/>
+<area shape="rect" id="node8" href="$classlma__kinematics__plugin_1_1LMAKinematicsPlugin.html#a863e2c5e7aa26f888f96cad9c3b5f109" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="22,231,195,287"/>
+<area shape="rect" id="node9" href="$classsrv__kinematics__plugin_1_1SrvKinematicsPlugin.html#aad70fc7c31d0f4e022d1508acfa1aa7f" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="25,311,193,367"/>
+</map>

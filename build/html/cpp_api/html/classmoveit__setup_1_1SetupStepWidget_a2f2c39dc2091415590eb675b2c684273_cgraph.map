@@ -1,0 +1,8 @@
+<map id="moveit_setup::SetupStepWidget::initialize" name="moveit_setup::SetupStepWidget::initialize">
+<area shape="rect" id="node1" title="Called after construction to initialize the step." alt="" coords="5,71,236,112"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupStepWidget.html#a179af6004860c86cbd3b1903823b4715" title="Return a reference to the SetupStep object." alt="" coords="284,5,515,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SetupStep.html#acff6eb65982304eaa36c7a45737d2c28" title="Called after construction to initialize the step." alt="" coords="307,71,492,112"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1SetupStepWidget.html#a68be0ec22649f4260a085220327cc8ee" title=" " alt="" coords="284,136,515,177"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1SetupStep.html#a4a01037be77d8a0cade9137f69214f32" title="Returns the name of the setup step." alt="" coords="563,39,748,80"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1SetupStep.html#a8e7110fdc5ad8dbb7571e88a8a3e22f2" title="Overridable initialization method." alt="" coords="563,104,748,145"/>
+</map>

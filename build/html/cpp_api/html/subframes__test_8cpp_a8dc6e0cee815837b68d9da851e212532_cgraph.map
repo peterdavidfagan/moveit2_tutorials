@@ -1,0 +1,9 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,65,60,92"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#a15e3582f57c43c1e1280e0b344994dfb" title="Apply attached collision object to the planning scene of the move_group node synchronously...." alt="" coords="325,5,548,61"/>
+<area shape="rect" id="node5" href="$subframes__test_8cpp.html#a17e45f7c93bc092b597b2f9ad6f0815c" title=" " alt="" coords="127,65,258,92"/>
+<area shape="rect" id="node6" href="$subframes__test_8cpp.html#ac3a5e6041bd7d660b921ea25c07f8af3" title=" " alt="" coords="108,116,277,143"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#a503d531320e1b82e2f6d12589766349f" title="Update the planning_scene of the move_group node with the given ps synchronously. Other PlanningScene..." alt="" coords="596,51,793,107"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface_1_1PlanningSceneInterfaceImpl.html#a93164af9c7a058d959d47bd7f54a05b8" title=" " alt="" coords="841,43,1053,114"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#aaac2365844ce63b10d969f5e85d844ba" title="Apply collision objects to the planning scene of the move_group node synchronously...." alt="" coords="338,91,535,147"/>
+</map>

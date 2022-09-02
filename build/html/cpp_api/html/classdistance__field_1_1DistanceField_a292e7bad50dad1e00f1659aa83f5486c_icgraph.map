@@ -1,0 +1,5 @@
+<map id="distance_field::DistanceField::removePointsFromField" name="distance_field::DistanceField::removePointsFromField">
+<area shape="rect" id="node1" title="Remove a set of obstacle points from the distance field, updating distance values accordingly." alt="" coords="531,5,745,47"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a4ae04b4efe60e20d681cc6f3fbf73fea" title="All points corresponding to the shape are removed from the distance field." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#a8180976b664df11a9431b70154681c4c" title=" " alt="" coords="5,5,220,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="distance_field::DistanceField::getGradientMarkers" name="distance_field::DistanceField::getGradientMarkers">
+<area shape="rect" id="node1" title="Populates the supplied marker array with a series of arrows representing gradients of cells that are ..." alt="" coords="5,260,196,301"/>
+<area shape="rect" id="node2" href="$namespacepr2__arm__kinematics.html#a24f684af4bcce4a6d0c945aa27d04550" title=" " alt="" coords="264,84,419,125"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#a5808c7630a3f194f2608fda16cc4546f" title="Gets not only the distance to the nearest cell but the gradient direction. The gradient is computed a..." alt="" coords="244,201,439,243"/>
+<area shape="rect" id="node6" href="$classdistance__field_1_1DistanceField.html#a0014563f9f1c74ccf60d1d20a3af2b78" title="Gets the number of cells along the X axis." alt="" coords="509,5,686,47"/>
+<area shape="rect" id="node7" href="$classdistance__field_1_1DistanceField.html#ae57048dd1fc4f867c88db969f0d41593" title="Gets the number of cells along the Y axis." alt="" coords="509,267,686,308"/>
+<area shape="rect" id="node8" href="$classdistance__field_1_1DistanceField.html#af51959bcd7efdb18f60207075d09b964" title="Gets the number of cells along the Z axis." alt="" coords="509,332,686,373"/>
+<area shape="rect" id="node10" href="$classdistance__field_1_1DistanceField.html#a60fed7d8b845ef6a1b1942e585ddcacc" title="Gets the resolution of the distance field in meters." alt="" coords="253,369,430,411"/>
+<area shape="rect" id="node11" href="$classdistance__field_1_1DistanceField.html#ad78c36666019889271444f912edef4c2" title="Converts from an set of integer indices to a world location given the origin and resolution parameter..." alt="" coords="253,435,430,476"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#afe3d2c4d985084a897aeb4920a2e6f3f" title="Gets the distance to the closest obstacle at the given location. The particulars of this function are..." alt="" coords="509,71,686,112"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#a51d46c3d2cc8d412d64dd8015cd3e710" title="Gets a distance value for an invalid cell." alt="" coords="487,136,708,177"/>
+<area shape="rect" id="node9" href="$classdistance__field_1_1DistanceField.html#a23af274792c1986b9367541b9b00774f" title="Converts from a world location to a set of integer indices. Should return false if the world location..." alt="" coords="509,201,686,243"/>
+</map>

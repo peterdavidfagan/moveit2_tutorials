@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotModel::getRootLink" name="moveit::core::RobotModel::getRootLink">
+<area shape="rect" id="node1" title="Get the physical root link of the robot." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#a96e7be2ddb0540dac5feb63d54e28301" title="Get the name of the root link of the robot." alt="" coords="5,5,196,47"/>
+</map>

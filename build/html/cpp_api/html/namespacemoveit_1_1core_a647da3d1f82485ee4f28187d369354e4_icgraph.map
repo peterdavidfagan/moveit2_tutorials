@@ -1,0 +1,6 @@
+<map id="moveit::core::computeTurnDriveTurnGeometry" name="moveit::core::computeTurnDriveTurnGeometry">
+<area shape="rect" id="node1" title="Compute the geometry to turn toward the target point, drive straight and then turn to target orientat..." alt="" coords="541,46,737,87"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1PlanarJointModel.html#aec05f143b9d447745eb243b9fb552ab3" title="Compute the distance between two joint states of the same model (represented by the variable values)" alt="" coords="311,13,493,54"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1PlanarJointModel.html#a1ee52e6d0291b91a76b8119e74f0a8ae" title="Computes the state that lies at time t in [0, 1] on the segment that connects from state to to state...." alt="" coords="311,78,493,119"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1PlanarJointModel.html#a2ce5ecc9e27bbe71906206ad4c469d30" title="Provide random values for the joint variables (within specified bounds). Enough memory is assumed to ..." alt="" coords="5,5,263,61"/>
+</map>

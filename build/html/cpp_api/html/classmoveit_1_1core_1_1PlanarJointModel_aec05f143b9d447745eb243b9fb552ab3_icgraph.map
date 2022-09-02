@@ -1,0 +1,4 @@
+<map id="moveit::core::PlanarJointModel::distance" name="moveit::core::PlanarJointModel::distance">
+<area shape="rect" id="node1" title="Compute the distance between two joint states of the same model (represented by the variable values)" alt="" coords="311,13,493,54"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1PlanarJointModel.html#a2ce5ecc9e27bbe71906206ad4c469d30" title="Provide random values for the joint variables (within specified bounds). Enough memory is assumed to ..." alt="" coords="5,5,263,61"/>
+</map>

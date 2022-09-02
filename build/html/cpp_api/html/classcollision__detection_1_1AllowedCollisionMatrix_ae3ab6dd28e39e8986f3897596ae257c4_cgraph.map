@@ -1,0 +1,7 @@
+<map id="collision_detection::AllowedCollisionMatrix::getMessage" name="collision_detection::AllowedCollisionMatrix::getMessage">
+<area shape="rect" id="node1" title="Get the allowed collision matrix as a message." alt="" coords="5,71,185,127"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a02244dafc43f940bbef703d13812dd3c" title="Get all the names known to the collision matrix." alt="" coords="233,5,413,61"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a74486fe3a716208c2c271e81e99e2b1f" title="Get the allowed collision predicate between two elements. Return true if a predicate for entry is inc..." alt="" coords="233,136,413,192"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#ac3b12c32bd2a5cf08465a61110b83f4e" title="Get the type of the allowed collision to be considered by default for an element. Return true if a de..." alt="" coords="461,71,641,127"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a4d1a3130123f8c4c3fc25d973af9a5c6" title="Get the type of the allowed collision between two elements. Return true if the entry is included in t..." alt="" coords="461,151,641,207"/>
+</map>

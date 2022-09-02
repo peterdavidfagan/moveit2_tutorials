@@ -1,0 +1,23 @@
+<map id="cached_ik_kinematics_plugin::NearestNeighborsGNAT::isRemoved" name="cached_ik_kinematics_plugin::NearestNeighborsGNAT::isRemoved">
+<area shape="rect" id="node1" title=" " alt="" coords="1428,311,1659,367"/>
+<area shape="rect" id="node2" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a4ebc0f937a1d95cf2ac1701946a3787e" title="Add an element to the datastructure." alt="" coords="840,178,1101,219"/>
+<area shape="rect" id="node11" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT_1_1Node.html#a6122a76e5f8a8f224f9295d5098ccb5e" title=" " alt="" coords="1149,289,1380,345"/>
+<area shape="rect" id="node14" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT_1_1Node.html#af533bae96e4975f56b698039f886c032" title=" " alt="" coords="1149,376,1380,432"/>
+<area shape="rect" id="node19" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT_1_1Node.html#a2599a3e00b30febf3b71114e7659313e" title=" " alt="" coords="1149,476,1380,532"/>
+<area shape="rect" id="node3" href="$classcached__ik__kinematics__plugin_1_1IKCache.html#aa63e1c4a83dd402990894598d773d599" title=" " alt="" coords="580,5,773,61"/>
+<area shape="rect" id="node5" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a40e469f4ed24eef96596e16d62eeda8e" title=" " alt="" coords="561,203,792,259"/>
+<area shape="rect" id="node10" href="$classcached__ik__kinematics__plugin_1_1IKCache.html#acb353092a58a3844e1cf9802cbdd8f68" title=" " alt="" coords="565,86,788,127"/>
+<area shape="rect" id="node4" href="$classcached__ik__kinematics__plugin_1_1IKCacheMap.html#a7f1f52746231088a6f2a8abb0bc2ae52" title=" " alt="" coords="295,5,461,61"/>
+<area shape="rect" id="node6" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT_1_1Node.html#af12127f6e500ee4a056f5710c3288fd3" title=" " alt="" coords="263,137,493,193"/>
+<area shape="rect" id="node7" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a4128551b583de3fdc7948c1e746e09f3" title="Remove an element from the datastructure." alt="" coords="263,315,493,371"/>
+<area shape="rect" id="node8" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a371ec957a8a58c4696075207887da81b" title=" " alt="" coords="263,217,493,273"/>
+<area shape="rect" id="node9" href="$classcached__ik__kinematics__plugin_1_1IKCache.html#a55bc66002c628cf3b69891c3fcad2b00" title=" " alt="" coords="5,225,195,266"/>
+<area shape="rect" id="node12" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a2532c0ef3ece366f6ec7228b48239004" title="Get all the elements in the datastructure." alt="" coords="842,290,1099,331"/>
+<area shape="rect" id="node13" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a2c754c4e123d721f3e7c3054e4c47060" title=" " alt="" coords="561,283,792,339"/>
+<area shape="rect" id="node15" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#ace40d66250926c8a2dac74956f6eaa60" title=" " alt="" coords="855,401,1086,457"/>
+<area shape="rect" id="node16" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#ae251d568d7203e825bf490f1b4835e3b" title="Get the nearest neighbor of a point." alt="" coords="561,413,792,469"/>
+<area shape="rect" id="node18" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#ad868a902d012049dd98b6a30f558f724" title="Get the k&#45;nearest neighbors of a point." alt="" coords="561,493,792,549"/>
+<area shape="rect" id="node17" href="$classcached__ik__kinematics__plugin_1_1IKCache.html#a2338d0807017d38eca7479bd88e0eb86" title=" " alt="" coords="243,413,513,469"/>
+<area shape="rect" id="node20" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a7719d9aecdcf4c653a59e80c76b9739b" title=" " alt="" coords="855,521,1086,577"/>
+<area shape="rect" id="node21" href="$classcached__ik__kinematics__plugin_1_1NearestNeighborsGNAT.html#a44882365239a83d1a2264f81cbebf26d" title="Get the nearest neighbors of a point, within a specified radius." alt="" coords="561,573,792,629"/>
+</map>

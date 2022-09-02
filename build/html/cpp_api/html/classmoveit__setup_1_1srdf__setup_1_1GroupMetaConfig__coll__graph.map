@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::GroupMetaConfig" name="moveit_setup::srdf_setup::GroupMetaConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="116,109,303,151"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="5,13,203,39"/>
+<area shape="rect" id="node3" href="$structmoveit__setup_1_1srdf__setup_1_1GroupMetaData.html" title=" " alt="" coords="227,5,403,47"/>
+</map>

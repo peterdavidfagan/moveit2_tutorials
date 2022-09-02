@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotModel::getJointModelGroupNames" name="moveit::core::RobotModel::getJointModelGroupNames">
+<area shape="rect" id="node1" title="Get the names of all groups that are defined for this model." alt="" coords="204,5,409,47"/>
+<area shape="rect" id="node2" href="$core_8cpp.html#a92e436fb725965a2681c8e0eff28a83e" title=" " alt="" coords="5,13,156,39"/>
+</map>

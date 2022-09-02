@@ -1,0 +1,5 @@
+<map id="planning_interface::PlanningContext::getGroupName" name="planning_interface::PlanningContext::getGroupName">
+<area shape="rect" id="node1" title="Get the name of the group this planning context is for." alt="" coords="271,50,515,91"/>
+<area shape="rect" id="node2" href="$classtrajopt__interface_1_1TrajOptPlanningContext.html#a7fa0ae146e056fc070440ee82e039d01" title="Solve the motion planning problem and store the detailed result in res. This function should not clea..." alt="" coords="27,5,201,61"/>
+<area shape="rect" id="node3" href="$classompl__interface_1_1StateValidityChecker.html#a57a003da7231ade62d4c664f04293e5b" title=" " alt="" coords="5,86,223,127"/>
+</map>

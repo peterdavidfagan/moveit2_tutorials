@@ -1,0 +1,4 @@
+<map id="rdf_loader::RDFLoader::getRobotDescription" name="rdf_loader::RDFLoader::getRobotDescription">
+<area shape="rect" id="node1" title="Get the resolved parameter name for the robot description." alt="" coords="243,13,409,54"/>
+<area shape="rect" id="node2" href="$classkinematics__plugin__loader_1_1KinematicsPluginLoader.html#a5fbe986aeb678a96a3237b5e531ef75e" title="Get a function pointer that allocates and initializes a kinematics solver. If not previously called,..." alt="" coords="5,5,195,61"/>
+</map>

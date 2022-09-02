@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups::deleteGroup" name="moveit_setup::srdf_setup::PlanningGroups::deleteGroup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,180,105"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1PlanningGroups.html#a5c40ba305681032f99fd975ce46dcdec" title=" " alt="" coords="228,5,403,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#ad49630316e84c92da1fa96f4a2f9f234" title="Delete an item with the given name from the list." alt="" coords="229,86,402,157"/>
+</map>

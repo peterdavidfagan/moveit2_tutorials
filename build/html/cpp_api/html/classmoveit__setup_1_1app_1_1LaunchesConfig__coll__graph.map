@@ -1,0 +1,4 @@
+<map id="moveit_setup::app::LaunchesConfig" name="moveit_setup::app::LaunchesConfig">
+<area shape="rect" id="node1" title="Stores which LaunchBundles are configured to be generated." alt="" coords="29,80,179,121"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="5,5,203,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,60,105"/>
+<area shape="rect" id="node2" href="$classkinematics__cache_1_1KinematicsCache.html#a46016876d5a61ae1c840b592828ef972" title="Generate the cache map spending timeout (seconds) on the generation process)" alt="" coords="108,5,328,47"/>
+<area shape="rect" id="node4" href="$classkinematics__cache_1_1KinematicsCache.html#ab5367fd01ee3cd1625029a196a30ba01" title="Get number of candidate solutions for a particular pose." alt="" coords="108,71,328,112"/>
+<area shape="rect" id="node5" href="$classkinematics__cache__ros_1_1KinematicsCacheROS.html#adaad7fb176ba75d5c6de69a76a6a6173" title="Initialization function." alt="" coords="119,136,317,177"/>
+<area shape="rect" id="node3" href="$classkinematics__cache_1_1KinematicsCache.html#aa33f7e5010324f86aa5a9c6a7b73496e" title="Add a new solution to the cache at the given location." alt="" coords="376,5,596,47"/>
+<area shape="rect" id="node6" href="$classkinematics_1_1KinematicsBase.html#a8097b63569cba39c6b5e4b29e8c6bd82" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="383,103,589,144"/>
+<area shape="rect" id="node7" href="$classkinematics__cache_1_1KinematicsCache.html#a3fb3f00c24cb8d1a8ba1ec1e54d38e4b" title="Initialize the cache class." alt="" coords="376,168,596,209"/>
+</map>

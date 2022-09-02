@@ -1,0 +1,13 @@
+<map id="moveit::core::RobotModel::getJointOfVariable" name="moveit::core::RobotModel::getJointOfVariable">
+<area shape="rect" id="node1" title=" " alt="" coords="915,195,1105,237"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#ab1e4302415baaafdc7d401e21025cb7d" title=" " alt="" coords="667,130,867,171"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotModel.html#a0e6fe94c867b3452abdeecc2d7373ca2" title="Get the bounds for a specific variable. Throw an exception of variable is not found." alt="" coords="671,195,862,237"/>
+<area shape="rect" id="node11" href="$classmoveit_1_1core_1_1JointModelGroup.html#afbc255c0832b70bee552c7537f889dc5" title="Print information about the constructed model." alt="" coords="403,265,584,306"/>
+<area shape="rect" id="node4" href="$classtrajectory__processing_1_1IterativeSplineParameterization.html#ac65a0bed2a3d103913f7179b18efb6ab" title=" " alt="" coords="375,71,611,127"/>
+<area shape="rect" id="node7" href="$classtrajectory__processing_1_1TimeOptimalTrajectoryGeneration.html#a7fb161f0df9bd1acb0a08cb339e43102" title=" " alt="" coords="368,184,619,240"/>
+<area shape="rect" id="node5" href="$classdefault__planner__request__adapters_1_1AddIterativeSplineParameterization.html#a630967a9aade69aa8cc49f5ece102785" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="47,5,278,61"/>
+<area shape="rect" id="node6" href="$test__time__parameterization_8cpp.html#a1fb67aa34417d03016c74d44bd7f54e0" title=" " alt="" coords="135,85,190,112"/>
+<area shape="rect" id="node8" href="$classdefault__planner__request__adapters_1_1AddTimeOptimalParameterization.html#addb58f9acb48922a5a6fb7c8aa4aacf2" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,136,320,192"/>
+<area shape="rect" id="node9" href="$classmoveit_1_1hybrid__planning_1_1SimpleSampler.html#a7c6b3f8cb49983fd8fd6559b6be922c8" title=" " alt="" coords="50,216,275,272"/>
+<area shape="rect" id="node10" href="$test__time__optimal__trajectory__generation_8cpp.html#ad7b222b415e14f9d93f2d3ae4daef939" title=" " alt="" coords="135,296,190,323"/>
+</map>

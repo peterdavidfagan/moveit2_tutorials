@@ -1,0 +1,8 @@
+<map id="robot_trajectory::waypoint_density" name="robot_trajectory::waypoint_density">
+<area shape="rect" id="node1" title="Calculate the waypoint density of a trajectory." alt="" coords="5,39,199,80"/>
+<area shape="rect" id="node2" href="$classrobot__trajectory_1_1RobotTrajectory.html#ababf812aa287c586d9ad0b190e1d2482" title=" " alt="" coords="457,5,692,47"/>
+<area shape="rect" id="node3" href="$namespacerobot__trajectory.html#a0750fe7c58d1a655d83bd177586696ca" title="Calculate the path length of a given trajectory based on the accumulated robot state distances...." alt="" coords="247,68,409,109"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a95a2bc2b77d410e4c07a7c464e33a438" title="Return the sum of joint distances to &quot;other&quot; state. An L1 norm. Only considers active joints." alt="" coords="483,71,667,112"/>
+<area shape="rect" id="node6" href="$classrobot__trajectory_1_1RobotTrajectory.html#af356952b9847bc920b773f2f83cb9943" title=" " alt="" coords="457,136,692,177"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a72e5062115857bc793f0ba6be6aca059" title="Get a raw pointer to the positions of the variables stored in this state. Use carefully...." alt="" coords="740,71,924,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::EndEffectorsWidget" name="moveit_setup::srdf_setup::EndEffectorsWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="21,155,221,196"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupStepWidget.html" title="The GUI code for one SetupStep." alt="" coords="5,80,236,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="81,5,160,32"/>
+</map>

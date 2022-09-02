@@ -1,0 +1,6 @@
+<map id="kdl_kinematics_plugin::KDLKinematicsPlugin::searchPositionIK" name="kdl_kinematics_plugin::KDLKinematicsPlugin::searchPositionIK">
+<area shape="rect" id="node1" title="Given a desired pose of the end&#45;effector, search for the joint angles required to reach it...." alt="" coords="5,31,175,87"/>
+<area shape="rect" id="node2" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#adbf4b942bf7f2fad2b79326db024dfe2" title="Solve position IK given initial joint values." alt="" coords="223,31,392,87"/>
+<area shape="rect" id="node3" href="$classKDL_1_1ChainIkSolverVelMimicSVD.html#a3ef0316168de81a0db784f72ac78635a" title=" " alt="" coords="440,5,647,47"/>
+<area shape="rect" id="node4" href="$classKDL_1_1ChainIkSolverVelMimicSVD.html#ae3c5e3b88082ff1fb96b7116d5bf74f3" title="Return true iff we ignore orientation but only consider position for inverse kinematics." alt="" coords="440,71,647,112"/>
+</map>

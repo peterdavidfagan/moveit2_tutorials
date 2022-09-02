@@ -1,0 +1,6 @@
+<map id="moveit::core::JointModel::enforcePositionBounds" name="moveit::core::JointModel::enforcePositionBounds">
+<area shape="rect" id="node1" title="Force the specified values to be inside bounds and normalized. Quaternions are normalized,..." alt="" coords="471,39,652,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ad7da8630de3e82aa31f4671b980aca74" title=" " alt="" coords="238,5,422,47"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1JMGItemModel.html#ae8dbdea6ac0b78064b76341ee645bd12" title=" " alt="" coords="237,71,423,112"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a17b78d94170a4e452f00b56f98b5ed5b" title=" " alt="" coords="5,5,189,47"/>
+</map>

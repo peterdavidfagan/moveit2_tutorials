@@ -1,0 +1,5 @@
+<map id="planning_scene::PlanningScene::checkSelfCollision" name="planning_scene::PlanningScene::checkSelfCollision">
+<area shape="rect" id="node1" title="Check whether the current state is in self collision." alt="" coords="5,39,193,80"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#ab4de68060bb1d854e4d37f26436b7ebb" title="Get the state at which the robot is assumed to be." alt="" coords="265,5,452,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene_1_1PlanningScene.html#a519f8e3d99bad7027334f83432b9fad9" title="Get the state at which the robot is assumed to be." alt="" coords="241,71,476,112"/>
+</map>

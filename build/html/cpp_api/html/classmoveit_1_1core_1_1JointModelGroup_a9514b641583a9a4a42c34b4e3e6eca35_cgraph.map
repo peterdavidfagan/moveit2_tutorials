@@ -1,0 +1,5 @@
+<map id="moveit::core::JointModelGroup::isValidVelocityMove" name="moveit::core::JointModelGroup::isValidVelocityMove">
+<area shape="rect" id="node1" title="Check that the time to move between two waypoints is sufficient given velocity limits." alt="" coords="5,43,205,84"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a968738524d8001bec09dcafd1f0cf992" title="Get the bounds for all the active joints." alt="" coords="253,5,508,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa24a1b8cb0d7c622538494af22bf8f68" title="Return the mapping between the order of the joints in this group and the order of the joints in the k..." alt="" coords="264,71,497,127"/>
+</map>

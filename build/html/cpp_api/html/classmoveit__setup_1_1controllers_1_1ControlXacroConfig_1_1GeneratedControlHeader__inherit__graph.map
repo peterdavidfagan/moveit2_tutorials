@@ -1,0 +1,6 @@
+<map id="moveit_setup::controllers::ControlXacroConfig::GeneratedControlHeader" name="moveit_setup::controllers::ControlXacroConfig::GeneratedControlHeader">
+<area shape="rect" id="node1" title=" " alt="" coords="29,244,260,300"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1TemplatedGeneratedFile.html" title="Specialization of GeneratedFile for generating a text file from a template." alt="" coords="5,169,284,196"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="39,95,250,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="39,5,251,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="moveit_setup::core::StartScreenWidget" name="moveit_setup::core::StartScreenWidget">
+<area shape="rect" id="node1" title="Start screen user interface for MoveIt Configuration Assistant." alt="" coords="1421,123,1572,165"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupStepWidget.html" title="The GUI code for one SetupStep." alt="" coords="1060,69,1291,96"/>
+<area shape="rect" id="node3" title=" " alt="" coords="295,5,374,32"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1RVizPanel.html" title=" " alt="" coords="657,69,839,96"/>
+<area shape="rect" id="node5" title=" " alt="" coords="221,59,448,101"/>
+<area shape="rect" id="node6" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html" title=" " alt="" coords="259,125,410,166"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,132,172,159"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1LoadPathArgsWidget.html" title="Extend LoadPathWidget with additional line edit for arguments." alt="" coords="1072,123,1279,165"/>
+<area shape="rect" id="node9" href="$classmoveit__setup_1_1LoadPathWidget.html" title=" " alt="" coords="636,137,860,164"/>
+<area shape="rect" id="node10" title=" " alt="" coords="298,191,371,217"/>
+<area shape="rect" id="node11" href="$classmoveit__setup_1_1core_1_1SelectModeWidget.html" title=" " alt="" coords="884,183,1036,225"/>
+</map>

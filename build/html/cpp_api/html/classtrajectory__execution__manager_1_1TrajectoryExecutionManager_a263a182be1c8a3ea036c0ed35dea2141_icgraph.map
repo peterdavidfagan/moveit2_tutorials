@@ -1,0 +1,11 @@
+<map id="trajectory_execution_manager::TrajectoryExecutionManager::clear" name="trajectory_execution_manager::TrajectoryExecutionManager::clear">
+<area shape="rect" id="node1" title="Clear the trajectories to execute." alt="" coords="1276,53,1499,109"/>
+<area shape="rect" id="node2" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#ab60d44a885deb49fd795d6013307572a" title=" " alt="" coords="705,5,927,61"/>
+<area shape="rect" id="node5" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#a1fb8ee6f7c809152afc3989dc7447046" title="Stop whatever executions are active, if any." alt="" coords="1005,85,1228,141"/>
+<area shape="rect" id="node3" href="$classmoveit__commander_1_1interpreter_1_1MoveGroupCommandInterpreter.html#a29650abebe37990b0109eb3ac6933f6b" title=" " alt="" coords="340,5,627,61"/>
+<area shape="rect" id="node4" href="$classmoveit__commander_1_1interpreter_1_1MoveGroupCommandInterpreter.html#a6e405d05c0a636530b31910b9e1d9b6d" title=" " alt="" coords="5,13,292,54"/>
+<area shape="rect" id="node6" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#ad5b806e21fdc1ee497db6f0973aa39c1" title="Execute a named event (e.g., &#39;stop&#39;)" alt="" coords="705,85,927,141"/>
+<area shape="rect" id="node7" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#ac60b8619c74edb48b97ddf42dd1b39fe" title=" " alt="" coords="705,165,927,221"/>
+<area shape="rect" id="node9" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#a0cdba1399385c8af04f9b98ab8cdfe3f" title="Destructor. Cancels all running trajectories (if any)" alt="" coords="675,245,957,301"/>
+<area shape="rect" id="node8" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#ac45de4374066d16629c8188a162dfc4f" title=" " alt="" coords="372,165,595,221"/>
+</map>

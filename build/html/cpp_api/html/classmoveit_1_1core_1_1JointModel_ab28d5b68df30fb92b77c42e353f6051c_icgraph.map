@@ -1,0 +1,9 @@
+<map id="moveit::core::JointModel::computeVariableBoundsMsg" name="moveit::core::JointModel::computeVariableBoundsMsg">
+<area shape="rect" id="node1" title=" " alt="" coords="256,169,471,211"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1FloatingJointModel.html#ae66258fb99e4a163e9e300a6678c2bdd" title=" " alt="" coords="9,5,204,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1PlanarJointModel.html#a5fb6f7ef2c065a1cf0959fd85f538141" title=" " alt="" coords="15,71,198,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1PrismaticJointModel.html#aa70bd2d0c5b2cd1c776ec7fcd0c8fb4e" title=" " alt="" coords="5,136,208,177"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RevoluteJointModel.html#a73a5df50eecfe42ff25384fd564aed72" title=" " alt="" coords="7,201,206,243"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1RevoluteJointModel.html#af72d2977e918e77d47401028c8563a3e" title=" " alt="" coords="7,267,206,308"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1JointModel.html#a4aa3e6fa081382e311a4d81beefbb16c" title="Set the lower and upper bounds for a variable. Throw an exception if the variable was not found." alt="" coords="16,332,197,373"/>
+</map>

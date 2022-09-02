@@ -1,0 +1,5 @@
+<map id="moveit_controller_manager_example::MoveItControllerManagerExample::getControllersList" name="moveit_controller_manager_example::MoveItControllerManagerExample::getControllersList">
+<area shape="rect" id="node1" title="Get the list of known controller names." alt="" coords="313,45,573,101"/>
+<area shape="rect" id="node2" href="$classmoveit__controller__manager__example_1_1MoveItControllerManagerExample.html#aa2622068d8ef6909e9ffbd22275a7546" title="Get the list of active controllers." alt="" coords="5,5,265,61"/>
+<area shape="rect" id="node3" href="$classmoveit__controller__manager__example_1_1MoveItControllerManagerExample.html#a5113764ffe83d2a05b0594b4fc6550ec" title=" " alt="" coords="5,85,265,141"/>
+</map>

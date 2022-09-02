@@ -1,0 +1,7 @@
+<map id="moveit_setup::RVizPanel::highlightGroupEvent" name="moveit_setup::RVizPanel::highlightGroupEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5ce4575b094d15163bd41744b0fa7fa6" title="Get the links that are part of this joint group." alt="" coords="237,5,418,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1RVizPanel.html#a8323a545316f108e1eceb497cd19cb0d" title=" " alt="" coords="236,71,419,112"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1RVizPanel.html#a9eade3d8c212c9dd0b316d479edec2cd" title=" " alt="" coords="236,136,419,177"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1SRDFConfig.html#aaa5e1ec7eee10b0ebdbfc7bfed7e88d5" title=" " alt="" coords="467,71,661,112"/>
+</map>

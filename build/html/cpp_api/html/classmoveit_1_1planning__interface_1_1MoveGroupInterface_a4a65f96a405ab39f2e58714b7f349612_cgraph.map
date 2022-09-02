@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setNumPlanningAttempts" name="moveit::planning_interface::MoveGroupInterface::setNumPlanningAttempts">
+<area shape="rect" id="node1" title="Set the number of times the motion plan is to be computed from scratch before the shortest solution i..." alt="" coords="5,5,284,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a993c2d9f90ccfcef7af49efcc3f8852d" title=" " alt="" coords="332,5,616,61"/>
+</map>

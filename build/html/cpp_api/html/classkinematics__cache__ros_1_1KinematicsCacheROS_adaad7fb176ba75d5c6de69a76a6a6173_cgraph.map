@@ -1,0 +1,5 @@
+<map id="kinematics_cache_ros::KinematicsCacheROS::init" name="kinematics_cache_ros::KinematicsCacheROS::init">
+<area shape="rect" id="node1" title="Initialization function." alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$classkinematics_1_1KinematicsBase.html#a8097b63569cba39c6b5e4b29e8c6bd82" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="259,5,465,47"/>
+<area shape="rect" id="node3" href="$classkinematics__cache_1_1KinematicsCache.html#a3fb3f00c24cb8d1a8ba1ec1e54d38e4b" title="Initialize the cache class." alt="" coords="252,71,472,112"/>
+</map>

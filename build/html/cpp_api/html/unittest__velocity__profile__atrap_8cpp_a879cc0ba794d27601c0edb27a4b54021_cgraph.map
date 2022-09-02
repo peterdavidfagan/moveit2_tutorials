@@ -1,0 +1,6 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Test Description." alt="" coords="5,53,60,80"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a7a814ecd5b06b7301b79711bdcf660ad" title="Duration." alt="" coords="371,5,585,61"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#aa07111d8f0ebe4fb035551b3201ba81c" title="Profile scaled by the total duration." alt="" coords="108,71,323,127"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a38aa2d9c190b97ab94d185a20f3b6630" title="compute the fastest profile Algorithm:" alt="" coords="371,85,585,141"/>
+</map>

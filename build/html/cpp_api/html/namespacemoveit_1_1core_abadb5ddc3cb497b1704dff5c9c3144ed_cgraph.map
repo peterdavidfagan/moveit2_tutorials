@@ -1,0 +1,7 @@
+<map id="moveit::core::robotStateToJointStateMsg" name="moveit::core::robotStateToJointStateMsg">
+<area shape="rect" id="node1" title="Convert a MoveIt robot state to a joint state message." alt="" coords="5,104,185,145"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a5ecd3e71d7283f30be300c83cfd84041" title="Get the robot model this state is constructed for." alt="" coords="233,5,417,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#aae57a83ed9ad7c34982b6a943341026c" title="Get the position of a particular variable. An exception is thrown if the variable is not known." alt="" coords="233,71,417,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a4445bddc825e02d3ab8347b7ea948371" title="Get the velocity of a particular variable. An exception is thrown if the variable is not known." alt="" coords="233,136,417,177"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a3c363244052c265d92180ee2fd3a5eb9" title="By default, if velocities are never set or initialized, the state remembers that there are no velocit..." alt="" coords="233,201,417,243"/>
+</map>

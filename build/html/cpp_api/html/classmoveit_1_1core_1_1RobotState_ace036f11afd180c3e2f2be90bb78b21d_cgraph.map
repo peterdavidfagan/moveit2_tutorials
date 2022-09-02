@@ -1,0 +1,7 @@
+<map id="moveit::core::RobotState::integrateVariableVelocity" name="moveit::core::RobotState::integrateVariableVelocity">
+<area shape="rect" id="node1" title="Given the velocities for the variables in this group (qdot) and an amount of time (dt),..." alt="" coords="5,93,200,135"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a5902793ed7f64dfc073e37c91154c497" title="For a given group, copy the position values of the variables that make up the group into another loca..." alt="" coords="248,5,436,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="484,35,665,76"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a8250deeb3a2565ca34cbd87d18ee33ad" title=" " alt="" coords="250,123,434,164"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a564140d144754d149b292e70c4c59b55" title="Given positions for the variables that make up a group, in the order found in the group (including va..." alt="" coords="250,188,434,229"/>
+</map>

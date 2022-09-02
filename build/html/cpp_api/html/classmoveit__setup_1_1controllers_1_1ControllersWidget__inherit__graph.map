@@ -1,0 +1,7 @@
+<map id="moveit_setup::controllers::ControllersWidget" name="moveit_setup::controllers::ControllersWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="411,39,599,80"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1controllers_1_1MoveItControllersWidget.html" title=" " alt="" coords="647,5,839,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1controllers_1_1ROS2ControllersWidget.html" title=" " alt="" coords="649,71,837,112"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupStepWidget.html" title="The GUI code for one SetupStep." alt="" coords="132,46,363,73"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,46,84,73"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveit::core::RobotState::setVariableValues" name="moveit::core::RobotState::setVariableValues">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,189,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a04b9343fdf57f04895fa21c326164d0f" title="It is assumed positions is an array containing the new positions for all variables in this state...." alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a61b8f09e3940519f1abc6f6862305e2f" title="Given an array with velocity values for all variables, set those values as the velocities in this sta..." alt="" coords="237,71,421,112"/>
+</map>

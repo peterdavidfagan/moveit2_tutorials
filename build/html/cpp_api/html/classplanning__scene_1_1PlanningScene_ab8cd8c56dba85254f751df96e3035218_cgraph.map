@@ -1,0 +1,4 @@
+<map id="planning_scene::PlanningScene::checkCollisionUnpadded" name="planning_scene::PlanningScene::checkCollisionUnpadded">
+<area shape="rect" id="node1" title="Check whether a specified state (robot_state) is in collision, with respect to a given allowed collis..." alt="" coords="5,5,235,47"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a6841b7eae6f77d00e36d30ea255bb053" title="Get the active collision detector for the robot." alt="" coords="283,5,519,47"/>
+</map>

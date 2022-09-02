@@ -1,0 +1,4 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::selectPlanningGroupCallback" name="moveit_rviz_plugin::MotionPlanningDisplay::selectPlanningGroupCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,225,61"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a920ac69f439f677204b580d659fc762a" title="queue the execution of this function for the next time the main update() loop gets called" alt="" coords="273,5,448,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::computeDefaultCollisions" name="moveit_setup::srdf_setup::computeDefaultCollisions">
+<area shape="rect" id="node1" title="Generate an adjacency list of links that are always and never in collision, to speed up collision det..." alt="" coords="469,13,711,54"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1DefaultCollisions.html#ac5869a3398543a1ad9b0e17d85d2392f" title=" " alt="" coords="237,5,421,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1DefaultCollisions.html#a364da771c36a1f443cd618caa402fe27" title=" " alt="" coords="5,5,189,61"/>
+</map>

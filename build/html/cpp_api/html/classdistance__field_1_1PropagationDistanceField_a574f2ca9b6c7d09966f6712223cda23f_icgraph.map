@@ -1,0 +1,4 @@
+<map id="distance_field::PropagationDistanceField::getDistance" name="distance_field::PropagationDistanceField::getDistance">
+<area shape="rect" id="node1" title="Get the distance value associated with the cell indicated by the world coordinate...." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1PropagationDistanceField.html#aa8ea48d784ae4e6f2028e32f252a5a51" title="Get the distance value associated with the cell indicated by the index coordinates...." alt="" coords="5,5,204,47"/>
+</map>

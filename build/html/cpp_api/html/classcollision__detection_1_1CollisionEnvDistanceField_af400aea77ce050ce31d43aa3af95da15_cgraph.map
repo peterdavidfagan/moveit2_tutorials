@@ -1,0 +1,18 @@
+<map id="collision_detection::CollisionEnvDistanceField::getGroupStateRepresentation" name="collision_detection::CollisionEnvDistanceField::getGroupStateRepresentation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,341,228,397"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ab67fb64eb7f7b59e4d6e940bb79f8d8e" title="Get the attached body named name. Return nullptr if not found." alt="" coords="331,54,515,95"/>
+<area shape="rect" id="node3" href="$namespacecollision__detection.html#a78ab7948a2dd1a1b6ab0e063c9fb2a80" title=" " alt="" coords="280,119,565,161"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1RobotState.html#aa0d9f132691a3f24186dcdff72be5d28" title="Get the transformation matrix from the model frame (root of model) to the frame identified by frame_i..." alt="" coords="331,185,515,226"/>
+<area shape="rect" id="node10" href="$classmoveit_1_1core_1_1RobotState.html#a7504fac0746b7254f45e3c27f2a4c6da" title="Get the model of a particular joint group." alt="" coords="331,250,515,291"/>
+<area shape="rect" id="node11" href="$classmoveit_1_1core_1_1RobotState.html#a2b2cdba896e3cda3e307e117eaef39c2" title="Get the model of a particular link." alt="" coords="331,315,515,357"/>
+<area shape="rect" id="node12" href="$classmoveit_1_1core_1_1JointModel.html#aa1d2f99c9025d01a92e47bc356938f77" title="Get the name of the joint." alt="" coords="332,381,513,422"/>
+<area shape="rect" id="node13" href="$classmoveit_1_1core_1_1LinkModel.html#a99ed1c1c371bdb1b007484fd399e435c" title="The name of this link." alt="" coords="333,446,512,487"/>
+<area shape="rect" id="node14" href="$classmoveit_1_1core_1_1LinkModel.html#a75e688fa2530138639292bed0ae3f541" title="Get the joint model whose child this link is. There will always be a parent joint." alt="" coords="333,511,512,553"/>
+<area shape="rect" id="node15" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#a9b7a768490138ff873dffbaba36dbe23" title=" " alt="" coords="276,577,569,633"/>
+<area shape="rect" id="node16" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5b9fad770d23aac0786a729a6c6c0119" title="Get the names of the links that are to be updated when the state of this group changes...." alt="" coords="313,658,532,699"/>
+<area shape="rect" id="node4" href="$namespacecollision__detection.html#a89a04b404337b615d0b85a10267d6faf" title=" " alt="" coords="633,5,856,61"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1AttachedBody.html#a385c7ec39f012ce26eb81b32fa22cae9" title="Get the global transforms (in world frame) for the collision bodies. The returned transforms are guar..." alt="" coords="617,86,872,127"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1AttachedBody.html#a8832405dda038c3e28a7969cb63993d1" title="Get the shapes that make up this attached body." alt="" coords="643,151,846,193"/>
+<area shape="rect" id="node5" href="$namespacecollision__detection.html#a6b297f266337fa6de8cf6716a8016085" title=" " alt="" coords="920,13,1143,54"/>
+<area shape="rect" id="node9" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="653,217,837,258"/>
+</map>

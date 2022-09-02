@@ -1,0 +1,4 @@
+<map id="pr2_arm_kinematics::PR2ArmIKSolver::getSolverInfo" name="pr2_arm_kinematics::PR2ArmIKSolver::getSolverInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$classpr2__arm__kinematics_1_1PR2ArmIK.html#a9c03b1e8c1620db4cecbeab9b86917e9" title="get chain information about the arm. This populates the IK query response, filling in joint level inf..." alt="" coords="284,5,475,47"/>
+</map>

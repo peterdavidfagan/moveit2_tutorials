@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnvBullet::updateTransformsFromState" name="collision_detection::CollisionEnvBullet::updateTransformsFromState">
+<area shape="rect" id="node1" title="Updates the poses of the objects in the manager according to given robot state." alt="" coords="5,5,220,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a22c47153cf437cbbd3914f15d177dd3d" title="Get the link transform w.r.t. the root link (model frame) of the RobotModel. This is typically the ro..." alt="" coords="268,13,473,54"/>
+</map>

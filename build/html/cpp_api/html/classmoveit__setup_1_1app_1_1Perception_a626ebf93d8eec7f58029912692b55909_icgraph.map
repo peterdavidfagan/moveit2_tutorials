@@ -1,0 +1,4 @@
+<map id="moveit_setup::app::Perception::setConfig" name="moveit_setup::app::Perception::setConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="260,5,420,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1app_1_1PerceptionWidget.html#a5e1aafd600726973fb787c96b0b6dd6d" title="Received when another widget is chosen from the navigation menu." alt="" coords="5,5,212,47"/>
+</map>

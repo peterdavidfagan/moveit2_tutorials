@@ -1,0 +1,5 @@
+<map id="kinematics::KinematicsBase::getTipFrame" name="kinematics::KinematicsBase::getTipFrame">
+<area shape="rect" id="node1" title="Return the name of the tip frame of the chain on which the solver is operating. This is usually a lin..." alt="" coords="227,53,433,94"/>
+<area shape="rect" id="node2" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="7,5,177,61"/>
+<area shape="rect" id="node3" href="$classlma__kinematics__plugin_1_1LMAKinematicsPlugin.html#a863e2c5e7aa26f888f96cad9c3b5f109" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="5,85,179,141"/>
+</map>

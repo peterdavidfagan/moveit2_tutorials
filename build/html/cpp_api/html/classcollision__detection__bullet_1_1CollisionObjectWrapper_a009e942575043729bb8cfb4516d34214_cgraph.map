@@ -1,0 +1,7 @@
+<map id="collision_detection_bullet::CollisionObjectWrapper::clone" name="collision_detection_bullet::CollisionObjectWrapper::clone">
+<area shape="rect" id="node1" title="Clones the collision objects but not the collision shape which is const." alt="" coords="5,63,232,119"/>
+<area shape="rect" id="node2" href="$classcollision__detection__bullet_1_1CollisionObjectWrapper.html#ac1f8994b708800887775db70975b824d" title="Standard constructor." alt="" coords="280,63,507,119"/>
+<area shape="rect" id="node3" href="$namespacecollision__detection__bullet.html#a10aabec7aad262a04efa318d6a74d853" title="Converts eigen vector to bullet vector." alt="" coords="575,5,761,47"/>
+<area shape="rect" id="node4" href="$namespacecollision__detection__bullet.html#a0f48322d913403cf6ff11221f8de9036" title="Casts a geometric shape into a btCollisionShape." alt="" coords="561,71,775,112"/>
+<area shape="rect" id="node5" href="$classcollision__detection__bullet_1_1CollisionObjectWrapper.html#aa1a480202849b5a902229b73b8049c2f" title="Manage memory of a raw pointer shape." alt="" coords="555,137,781,193"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="collision_detection::CollisionEnv::getLinkPadding" name="collision_detection::CollisionEnv::getLinkPadding">
+<area shape="rect" id="node1" title="Get the link paddings as a map (from link names to padding value)" alt="" coords="1563,253,1779,294"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvBullet.html#ad1cb16714714db53e59333dd8f6e7a4c" title="Construts a bullet collision object out of a robot link." alt="" coords="1307,85,1501,141"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#abd358f319ed4288d36081777401a3095" title=" " alt="" coords="1295,165,1513,221"/>
+<area shape="rect" id="node8" href="$classcollision__detection_1_1CollisionEnvFCL.html#aec0e2ac5157fcb386597513655e365ec" title=" " alt="" coords="1305,245,1503,301"/>
+<area shape="rect" id="node9" href="$classcollision__detection_1_1CollisionEnvFCL.html#acb2f3068450b7fdb7498b2818d5b3b18" title="Converts all shapes which make up an attached body into a vector of FCLGeometryConstPtr." alt="" coords="1293,325,1515,381"/>
+<area shape="rect" id="node18" href="$classcollision__detection_1_1CollisionEnvFCL.html#a6b79be4232e4824a978dfd14a6d184e7" title="Updates the FCL collision geometry and objects saved in the CollisionRobotFCL members to reflect a ne..." alt="" coords="1307,405,1501,461"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnvBullet.html#a1a54677bace8c4a6b96c3507ced8b3f3" title=" " alt="" coords="1070,5,1218,61"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1CollisionEnvBullet.html#a3ac9509ce428e25996d93e80efb2c979" title="Updates the collision objects saved in the manager to reflect a new padding or scaling of the robot l..." alt="" coords="1046,85,1242,141"/>
+<area shape="rect" id="node6" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#a2f4e06b0836194ca842b9914c3fe2328" title=" " alt="" coords="1045,165,1243,221"/>
+<area shape="rect" id="node7" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#a34498751eb6fe388f991bf8c8e623612" title=" " alt="" coords="796,165,995,221"/>
+<area shape="rect" id="node10" href="$classcollision__detection_1_1CollisionEnvFCL.html#a0935099d879f803214d40d596bbc4290" title="Out of the current robot state and its attached bodies construct an FCLObject which can then be used ..." alt="" coords="1043,325,1245,381"/>
+<area shape="rect" id="node11" href="$classcollision__detection_1_1CollisionEnvFCL.html#a73e161aa093e4c22b780114079c695e1" title="Prepares for the collision check through constructing an FCL collision object out of the current robo..." alt="" coords="796,260,995,316"/>
+<area shape="rect" id="node15" href="$classcollision__detection_1_1CollisionEnvFCL.html#a3fbc87899c026409120c0360ff6885da" title="Bundles the different checkRobotCollision functions into a single function." alt="" coords="527,363,746,419"/>
+<area shape="rect" id="node17" href="$classcollision__detection_1_1CollisionEnvFCL.html#a3c3df0a12121f94378535fb8e8ac5e33" title="Compute the distance between a robot and the world." alt="" coords="797,391,994,447"/>
+<area shape="rect" id="node12" href="$classcollision__detection_1_1CollisionEnvFCL.html#aa173d1e6f03faa6775438f0a5ba47717" title="Bundles the different checkSelfCollision functions into a single function." alt="" coords="265,257,471,313"/>
+<area shape="rect" id="node14" href="$classcollision__detection_1_1CollisionEnvFCL.html#a5b29374dd49530e84986558352ff71a3" title="The distance to self&#45;collision given the robot is at state state." alt="" coords="525,282,748,323"/>
+<area shape="rect" id="node13" href="$classcollision__detection_1_1CollisionEnvFCL.html#a09f4209d8564dd75c4f6207f39f5e528" title="Check for robot self collision. Any collision between any pair of links is checked for,..." alt="" coords="5,257,211,313"/>
+<area shape="rect" id="node16" href="$classcollision__detection_1_1CollisionEnvFCL.html#a41930589c4c6e17ae4e9abbe6a1a37ff" title="Check whether the robot model is in collision with the world. Any collisions between a robot link and..." alt="" coords="259,363,477,419"/>
+</map>

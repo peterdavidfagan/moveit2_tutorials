@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::PlanningSceneInterface::addCollisionObjects" name="moveit::planning_interface::PlanningSceneInterface::addCollisionObjects">
+<area shape="rect" id="node1" title="Add collision objects to the world via /planning_scene. Make sure object.operation is set to object...." alt="" coords="5,13,203,69"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface_1_1PlanningSceneInterfaceImpl.html#ad25077202a2d3cda3e6be1142038741f" title=" " alt="" coords="251,5,463,76"/>
+</map>

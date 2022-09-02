@@ -1,0 +1,5 @@
+<map id="collision_detection::AllowedCollisionMatrix::getMessage" name="collision_detection::AllowedCollisionMatrix::getMessage">
+<area shape="rect" id="node1" title="Get the allowed collision matrix as a message." alt="" coords="368,5,548,61"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a1c4051599aa9702d96097634db499621" title="Construct a message (scene) with all the necessary data so that the scene can be later reconstructed ..." alt="" coords="108,13,320,54"/>
+<area shape="rect" id="node3" href="$test__planning__scene_8cpp.html#a8657479fb681ab94486683c9e03019fa" title=" " alt="" coords="5,20,60,47"/>
+</map>

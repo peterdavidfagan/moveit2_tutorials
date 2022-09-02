@@ -1,0 +1,5 @@
+<map id="kinematic_constraints::VisibilityConstraint::getVisibilityCone" name="kinematic_constraints::VisibilityConstraint::getVisibilityCone">
+<area shape="rect" id="node1" title="Gets a trimesh shape representing the visibility cone." alt="" coords="5,5,172,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#aa0d9f132691a3f24186dcdff72be5d28" title="Get the transformation matrix from the model frame (root of model) to the frame identified by frame_i..." alt="" coords="220,13,404,54"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="452,13,636,54"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="kinematics_plugin_loader::KinematicsPluginLoader::KinematicsLoaderImpl::allocKinematicsSolverWithCache" name="kinematics_plugin_loader::KinematicsPluginLoader::KinematicsLoaderImpl::allocKinematicsSolverWithCache">
+<area shape="rect" id="node1" title=" " alt="" coords="5,143,293,213"/>
+<area shape="rect" id="node2" href="$classkinematics__plugin__loader_1_1KinematicsPluginLoader_1_1KinematicsLoaderImpl.html#aee20108e28bea50867ee349bcd13851f" title=" " alt="" coords="341,143,629,213"/>
+<area shape="rect" id="node3" href="$classkinematics__plugin__loader_1_1KinematicsPluginLoader_1_1KinematicsLoaderImpl.html#a21705804c3e5a36145996b1cbdf24f8b" title="Helper function to decide which, and how many, tip frames a planning group has." alt="" coords="677,40,928,111"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5ce4575b094d15163bd41744b0fa7fa6" title="Get the links that are part of this joint group." alt="" coords="976,20,1157,61"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModelGroup.html#a2f165c9374e28ac4052490819c790f45" title="Get the name of the joint group." alt="" coords="976,89,1157,131"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModelGroup.html#a0a52d99429820b1c51838d9408078452" title="Get the default IK timeout." alt="" coords="701,187,905,228"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1RobotModel.html#a12c6580c9ad13576e7e566cc9a899c7f" title="Get the frame in which the transforms for this model are computed (when using a RobotState)...." alt="" coords="707,252,898,293"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1JointModelGroup.html#a854e1c3f7e18cd79755f3e687ad47ccd" title="Get the kinematic model this group is part of." alt="" coords="712,317,893,359"/>
+</map>

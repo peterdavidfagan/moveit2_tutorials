@@ -1,0 +1,9 @@
+<map id="moveit_rviz_plugin::PlanningSceneDisplay::onRobotModelLoaded" name="moveit_rviz_plugin::PlanningSceneDisplay::onRobotModelLoaded">
+<area shape="rect" id="node1" title="This is an event called by loadRobotModel() in the MainLoop; do not call directly." alt="" coords="684,85,859,141"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a4423ce6f5bc3b7493a02b8f9af9548c7" title=" " alt="" coords="459,45,633,101"/>
+<area shape="rect" id="node7" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#aee4a87243cf759854077cff4e8a152ab" title="This is an event called by loadRobotModel() in the MainLoop; do not call directly." alt="" coords="456,125,636,181"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a724846a69ab4340ececde49fbcba6e2d" title=" " alt="" coords="233,5,408,61"/>
+<area shape="rect" id="node5" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#aab86ea62422c14af5d1a1beed32961a5" title=" " alt="" coords="233,85,408,141"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#afbf88f0eca00bd8c48c825fba194c5bd" title=" " alt="" coords="5,5,185,61"/>
+<area shape="rect" id="node6" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a28f38142a3a9b3f2a0d213280a3c167f" title=" " alt="" coords="5,85,185,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnvBullet::addToManager" name="collision_detection::CollisionEnvBullet::addToManager">
+<area shape="rect" id="node1" title="Adds a world object to the collision managers." alt="" coords="231,5,379,61"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvBullet.html#ae51f38ee7ad704ce3c735365d79799e6" title="Updates a managed collision object with its world representation." alt="" coords="5,5,183,61"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="moveit::core::RobotState::getCollisionBodyTransform" name="moveit::core::RobotState::getCollisionBodyTransform">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,211,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1LinkModel.html#a0e38da970f192da384d266d4e2eabdff" title=" " alt="" coords="259,5,528,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#afa1f72a766bdf75d81f4404058322576" title="Update the transforms for the collision bodies. This call is needed before calling collision checking..." alt="" coords="275,71,511,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModel.html#aa6dbe9f994aca22adf80add175d10681" title="Get all the link models that descend from this joint, in the kinematic tree." alt="" coords="576,37,779,79"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="585,103,769,144"/>
+</map>

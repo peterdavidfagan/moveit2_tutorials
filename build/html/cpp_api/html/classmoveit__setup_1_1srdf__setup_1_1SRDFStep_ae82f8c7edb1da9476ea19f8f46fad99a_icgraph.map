@@ -1,0 +1,7 @@
+<map id="moveit_setup::srdf_setup::SRDFStep::onInit" name="moveit_setup::srdf_setup::SRDFStep::onInit">
+<area shape="rect" id="node1" title="Overridable initialization method." alt="" coords="228,133,409,174"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1EndEffectors.html#a09ada383cbb04d1fb399f483767ede6e" title="Overridable initialization method." alt="" coords="15,5,170,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1PlanningGroups.html#a08340dfd044c48c511e0e510924bc02f" title="Overridable initialization method." alt="" coords="5,85,180,141"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1srdf__setup_1_1RobotPoses.html#a6e53196c0d34687f6ac9ce7a37800d24" title="Overridable initialization method." alt="" coords="14,165,171,221"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1srdf__setup_1_1VirtualJoints.html#a4b952b5b835cdecf1e0d29d8b14fbb6a" title="Overridable initialization method." alt="" coords="17,245,169,301"/>
+</map>

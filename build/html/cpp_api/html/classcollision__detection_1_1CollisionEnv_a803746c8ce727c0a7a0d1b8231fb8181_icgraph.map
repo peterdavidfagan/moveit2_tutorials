@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnv::distanceSelf" name="collision_detection::CollisionEnv::distanceSelf">
+<area shape="rect" id="node1" title="The distance to self&#45;collision given the robot is at state state." alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnv.html#a857f4e229d2c851c2bc75edfaa657ce8" title="The distance to self&#45;collision given the robot is at state state." alt="" coords="5,5,203,47"/>
+</map>

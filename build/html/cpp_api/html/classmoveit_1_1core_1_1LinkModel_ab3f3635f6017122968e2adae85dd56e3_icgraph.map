@@ -1,0 +1,4 @@
+<map id="moveit::core::LinkModel::getParentLinkModel" name="moveit::core::LinkModel::getParentLinkModel">
+<area shape="rect" id="node1" title="Get the link model whose child this link is (through some joint). There may not always be a parent li..." alt="" coords="327,5,505,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#abc8fa87627c002b5790c34130a5a5d00" title="Get the latest link upwards the kinematic tree, which is only connected via fixed joints." alt="" coords="5,5,279,47"/>
+</map>

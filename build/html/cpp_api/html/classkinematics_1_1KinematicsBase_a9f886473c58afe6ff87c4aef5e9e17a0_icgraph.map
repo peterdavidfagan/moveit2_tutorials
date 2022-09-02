@@ -1,0 +1,6 @@
+<map id="kinematics::KinematicsBase::getTipFrames" name="kinematics::KinematicsBase::getTipFrames">
+<area shape="rect" id="node1" title="Return the names of the tip frames of the kinematic tree on which the solver is operating...." alt="" coords="268,93,475,134"/>
+<area shape="rect" id="node2" href="$classlma__kinematics__plugin_1_1LMAKinematicsPlugin.html#afd24cc8593399f7c4de9dc1a4695d283" title="Return all the link names in the order they are represented internally." alt="" coords="26,5,199,61"/>
+<area shape="rect" id="node3" href="$classsrv__kinematics__plugin_1_1SrvKinematicsPlugin.html#a17b05f2de6e34fa42405367fbf19a650" title="Given a set of desired poses for a planning group with multiple end&#45;effectors, search for the joint a..." alt="" coords="29,85,197,141"/>
+<area shape="rect" id="node4" href="$classcached__ik__kinematics__plugin_1_1IKCache.html#a4fa715657b2c6e09b241f029789191fe" title=" " alt="" coords="5,166,220,207"/>
+</map>

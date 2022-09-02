@@ -1,0 +1,4 @@
+<map id="pilz_industrial_motion_planner_testutils::Sequence::add" name="pilz_industrial_motion_planner_testutils::Sequence::add">
+<area shape="rect" id="node1" title="Adds a command to the end of the sequence." alt="" coords="280,13,521,54"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#af6a1737fdb6b58a711e3b3e64f718c89" title="Returns the command with the specified name from the test data." alt="" coords="5,5,232,61"/>
+</map>

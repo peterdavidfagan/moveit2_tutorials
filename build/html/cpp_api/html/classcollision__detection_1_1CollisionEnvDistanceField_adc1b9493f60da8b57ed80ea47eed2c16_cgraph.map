@@ -1,0 +1,6 @@
+<map id="collision_detection::CollisionEnvDistanceField::createCollisionModelMarker" name="collision_detection::CollisionEnvDistanceField::createCollisionModelMarker">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,217,119"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a309800a933676917ea4848b972a4318b" title="Get the link transform w.r.t. the root link (model frame) of the RobotModel. This is typically the ro..." alt="" coords="302,5,487,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a7504fac0746b7254f45e3c27f2a4c6da" title="Get the model of a particular joint group." alt="" coords="303,71,487,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModelGroup.html#a2300330cbb44f6a125f30918e741cc26" title="Get the names of the links returned by getUpdatedLinkModels()" alt="" coords="265,136,524,177"/>
+</map>

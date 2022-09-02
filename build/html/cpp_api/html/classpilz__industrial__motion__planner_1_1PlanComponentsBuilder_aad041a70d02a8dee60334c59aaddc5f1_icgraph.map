@@ -1,0 +1,5 @@
+<map id="pilz_industrial_motion_planner::PlanComponentsBuilder::setModel" name="pilz_industrial_motion_planner::PlanComponentsBuilder::setModel">
+<area shape="rect" id="node1" title="Sets the robot model needed to create new trajectory elements." alt="" coords="287,39,529,95"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1CommandListManager.html#a2ed8d6bac5083871307380751b10bf6d" title=" " alt="" coords="5,5,239,61"/>
+<area shape="rect" id="node3" href="$integrationtest__plan__components__builder_8cpp.html#a6ee031ca39699ef25a8c58dc118cafdf" title="Checks that exception is thrown if no blender is set." alt="" coords="87,85,157,112"/>
+</map>

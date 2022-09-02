@@ -1,0 +1,5 @@
+<map id="pilz_industrial_motion_planner::LimitsContainer::hasFullCartesianLimits" name="pilz_industrial_motion_planner::LimitsContainer::hasFullCartesianLimits">
+<area shape="rect" id="node1" title="Return if this LimitsContainer has defined cartesian limits." alt="" coords="275,45,464,101"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1TrajectoryGeneratorCIRC.html#a237cca58a41bae27f993e74b5ae12d79" title="Constructor of CIRC Trajectory Generator." alt="" coords="5,5,227,61"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1TrajectoryGeneratorLIN.html#af9ae49b14ccd04ea1234d0dffe83e3e1" title="Constructor of LIN Trajectory Generator." alt="" coords="9,85,223,141"/>
+</map>

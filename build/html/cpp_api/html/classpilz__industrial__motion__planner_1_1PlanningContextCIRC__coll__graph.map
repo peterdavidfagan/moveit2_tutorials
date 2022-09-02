@@ -1,0 +1,6 @@
+<map id="pilz_industrial_motion_planner::PlanningContextCIRC" name="pilz_industrial_motion_planner::PlanningContextCIRC">
+<area shape="rect" id="node1" title="PlanningContext for obtaining CIRC trajectories." alt="" coords="6,291,230,332"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1PlanningContextBase.html" title=" " alt="" coords="5,185,231,241"/>
+<area shape="rect" id="node3" href="$classplanning__interface_1_1PlanningContext.html" title="Representation of a particular planning context – the planning scene and the request are known,..." alt="" coords="47,95,189,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="44,5,192,32"/>
+</map>

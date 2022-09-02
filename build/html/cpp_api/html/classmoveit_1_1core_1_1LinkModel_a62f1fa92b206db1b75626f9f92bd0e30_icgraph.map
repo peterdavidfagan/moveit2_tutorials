@@ -1,0 +1,4 @@
+<map id="moveit::core::LinkModel::getVisualMeshScale" name="moveit::core::LinkModel::getVisualMeshScale">
+<area shape="rect" id="node1" title="Get the scale of the mesh resource for this link." alt="" coords="237,5,416,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ad7b55432ace2ce78e93a4833ba0574df" title="Get a MarkerArray that fully describes the robot markers for a given robot." alt="" coords="5,5,189,47"/>
+</map>

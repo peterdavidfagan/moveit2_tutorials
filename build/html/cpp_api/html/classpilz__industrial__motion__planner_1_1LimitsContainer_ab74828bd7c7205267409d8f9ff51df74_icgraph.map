@@ -1,0 +1,4 @@
+<map id="pilz_industrial_motion_planner::LimitsContainer::hasJointLimits" name="pilz_industrial_motion_planner::LimitsContainer::hasJointLimits">
+<area shape="rect" id="node1" title="Return if this LimitsContainer has defined joint limits." alt="" coords="268,5,457,61"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1TrajectoryGeneratorPTP.html#a79bf6e3299db67906ae7857788f28131" title="Constructor of PTP Trajectory Generator." alt="" coords="5,5,220,61"/>
+</map>

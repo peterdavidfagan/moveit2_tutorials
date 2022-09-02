@@ -1,0 +1,5 @@
+<map id="trajectory_processing::IterativeSplineParameterization::computeTimeStamps" name="trajectory_processing::IterativeSplineParameterization::computeTimeStamps">
+<area shape="rect" id="node1" title=" " alt="" coords="284,39,520,95"/>
+<area shape="rect" id="node2" href="$classdefault__planner__request__adapters_1_1AddIterativeSplineParameterization.html#a630967a9aade69aa8cc49f5ece102785" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,5,236,61"/>
+<area shape="rect" id="node3" href="$test__time__parameterization_8cpp.html#a1fb67aa34417d03016c74d44bd7f54e0" title=" " alt="" coords="93,85,148,112"/>
+</map>

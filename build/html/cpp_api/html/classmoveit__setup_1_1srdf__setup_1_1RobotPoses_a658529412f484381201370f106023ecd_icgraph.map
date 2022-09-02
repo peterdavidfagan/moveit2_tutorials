@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::RobotPoses::getSimpleJointModels" name="moveit_setup::srdf_setup::RobotPoses::getSimpleJointModels">
+<area shape="rect" id="node1" title="Returns a vector of joint models for the given group name." alt="" coords="211,5,375,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1RobotPoses.html#a17425f01d33d607f4080e371a8d50a3a" title=" " alt="" coords="5,5,163,61"/>
+</map>

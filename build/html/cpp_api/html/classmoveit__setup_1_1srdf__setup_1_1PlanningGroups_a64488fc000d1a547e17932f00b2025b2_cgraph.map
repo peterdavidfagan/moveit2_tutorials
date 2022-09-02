@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups::getJointType" name="moveit_setup::srdf_setup::PlanningGroups::getJointType">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,180,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModel.html#af1db07d2843b0c6435415dd53b3aa433" title="Get the type of joint as a string." alt="" coords="228,13,409,54"/>
+</map>

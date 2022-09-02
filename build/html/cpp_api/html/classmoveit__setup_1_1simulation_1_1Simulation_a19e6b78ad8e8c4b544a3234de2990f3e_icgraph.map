@@ -1,0 +1,4 @@
+<map id="moveit_setup::simulation::Simulation::getURDFPath" name="moveit_setup::simulation::Simulation::getURDFPath">
+<area shape="rect" id="node1" title=" " alt="" coords="280,5,475,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1simulation_1_1SimulationWidget.html#a15e6b42d94bd9cd30b03801f8f1d0cac" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="5,5,232,47"/>
+</map>

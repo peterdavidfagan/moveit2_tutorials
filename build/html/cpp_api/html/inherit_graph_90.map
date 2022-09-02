@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,175,65"/>
+<area shape="rect" id="node2" href="$classDummyConstraint.html" title="Dummy constraint for testing, always satisfied. We need this to create and OMPL ConstrainedStateSpace..." alt="" coords="265,13,407,40"/>
+<area shape="rect" id="node3" href="$classompl__interface_1_1BaseConstraint.html" title="Abstract base class for different types of constraints, implementations of ompl::base::Constraint." alt="" coords="223,64,449,91"/>
+<area shape="rect" id="node4" href="$classompl__interface_1_1BoxConstraint.html" title="Box shaped position constraints." alt="" coords="497,5,717,32"/>
+<area shape="rect" id="node5" href="$classompl__interface_1_1EqualityPositionConstraint.html" title="Equality constraints on a link&#39;s position." alt="" coords="517,57,698,98"/>
+<area shape="rect" id="node6" href="$classompl__interface_1_1OrientationConstraint.html" title="Orientation constraints parameterized using exponential coordinates." alt="" coords="507,122,708,163"/>
+</map>

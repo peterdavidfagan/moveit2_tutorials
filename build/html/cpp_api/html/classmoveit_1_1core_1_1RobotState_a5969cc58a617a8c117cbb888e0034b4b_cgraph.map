@@ -1,0 +1,6 @@
+<map id="moveit::core::RobotState::attachBody" name="moveit::core::RobotState::attachBody">
+<area shape="rect" id="node1" title="Add an attached body to this state. Ownership of the memory for the attached body is assumed by the s..." alt="" coords="5,39,189,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a2efa6e38a215fda851f987bed33e1a7a" title="Add an attached body to this state." alt="" coords="237,39,421,80"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a5c3129e7624ffe8c47dfaffee5c85560" title="Remove the attached body named id. Return false if the object was not found (and thus not removed)...." alt="" coords="470,5,654,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a309800a933676917ea4848b972a4318b" title="Get the link transform w.r.t. the root link (model frame) of the RobotModel. This is typically the ro..." alt="" coords="469,71,655,112"/>
+</map>

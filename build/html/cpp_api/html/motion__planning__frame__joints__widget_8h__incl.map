@@ -1,0 +1,52 @@
+<map id="moveit_ros/visualization/motion_planning_rviz_plugin/include/moveit/motion_planning_rviz_plugin/motion_planning_frame_joints_widget.h" name="moveit_ros/visualization/motion_planning_rviz_plugin/include/moveit/motion_planning_rviz_plugin/motion_planning_frame_joints_widget.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2700,5,2959,91"/>
+<area shape="rect" id="node2" href="$class__forward_8h.html" title=" " alt="" coords="2612,496,2769,537"/>
+<area shape="rect" id="node4" title=" " alt="" coords="28,675,105,701"/>
+<area shape="rect" id="node5" href="$moveit__core_2robot__state_2include_2moveit_2robot__state_2robot__state_8h.html" title=" " alt="" coords="1803,139,1949,180"/>
+<area shape="rect" id="node13" title=" " alt="" coords="186,503,249,530"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2826,146,2915,173"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2939,146,3095,173"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3119,146,3198,173"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3223,146,3385,173"/>
+<area shape="rect" id="node3" href="$declare__ptr_8h.html" title=" " alt="" coords="1331,585,1503,627"/>
+<area shape="rect" id="node6" href="$robot__model_8h.html" title=" " alt="" coords="933,228,1088,269"/>
+<area shape="rect" id="node36" href="$attached__body_8h.html" title=" " alt="" coords="2241,317,2388,359"/>
+<area shape="rect" id="node37" href="$transforms_8h.html" title=" " alt="" coords="2039,414,2270,441"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1113,228,1285,269"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1309,228,1480,269"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1504,228,1656,269"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1681,235,1903,262"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1927,235,1996,262"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2020,235,2167,262"/>
+<area shape="rect" id="node7" href="$exceptions_8h.html" title=" " alt="" coords="1163,325,1394,351"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1535,414,1668,441"/>
+<area shape="rect" id="node10" href="$joint__model__group_8h.html" title=" " alt="" coords="1418,317,1577,359"/>
+<area shape="rect" id="node15" title=" " alt="" coords="73,503,153,530"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1859,503,1986,530"/>
+<area shape="rect" id="node26" title=" " alt="" coords="687,503,828,530"/>
+<area shape="rect" id="node31" href="$fixed__joint__model_8h.html" title=" " alt="" coords="933,317,1088,359"/>
+<area shape="rect" id="node32" href="$floating__joint__model_8h.html" title=" " alt="" coords="144,317,315,359"/>
+<area shape="rect" id="node33" href="$planar__joint__model_8h.html" title=" " alt="" coords="339,317,501,359"/>
+<area shape="rect" id="node34" href="$revolute__joint__model_8h.html" title=" " alt="" coords="525,317,701,359"/>
+<area shape="rect" id="node35" href="$prismatic__joint__model_8h.html" title=" " alt="" coords="726,317,909,359"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1114,414,1201,441"/>
+<area shape="rect" id="node11" href="$joint__model_8h.html" title=" " alt="" coords="536,407,691,448"/>
+<area shape="rect" id="node12" title=" " alt="" coords="852,503,911,530"/>
+<area shape="rect" id="node19" href="$link__model_8h.html" title=" " alt="" coords="1860,407,2015,448"/>
+<area shape="rect" id="node23" href="$kinematics__base_8h.html" title=" " alt="" coords="1277,407,1459,448"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1749,503,1835,530"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1743,414,1785,441"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2011,503,2061,530"/>
+<area shape="rect" id="node16" title=" " alt="" coords="487,496,662,537"/>
+<area shape="rect" id="node17" title=" " alt="" coords="273,496,463,537"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2321,503,2381,530"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2085,496,2297,537"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2405,496,2587,537"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1502,503,1725,530"/>
+<area shape="rect" id="node25" title=" " alt="" coords="935,496,1118,537"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1143,503,1268,530"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1293,496,1478,537"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2294,407,2466,448"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2490,407,2649,448"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2793,496,3020,537"/>
+</map>

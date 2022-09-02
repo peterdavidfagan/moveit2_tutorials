@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::startStateMonitor" name="moveit::planning_interface::MoveGroupInterface::startStateMonitor">
+<area shape="rect" id="node1" title="When reasoning about the current state of a robot, a CurrentStateMonitor instance is automatically co..." alt="" coords="5,5,240,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a0986d721f1760fbb67ff3eff0f78720f" title=" " alt="" coords="288,5,535,61"/>
+</map>

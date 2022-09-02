@@ -1,0 +1,10 @@
+<map id="moveit::core::JointModelGroup::getContinuousJointModels" name="moveit::core::JointModelGroup::getContinuousJointModels">
+<area shape="rect" id="node1" title="Get the array of continuous joints used in this group (may include mimic joints)." alt="" coords="935,111,1173,153"/>
+<area shape="rect" id="node2" href="$classrobot__trajectory_1_1RobotTrajectory.html#a7804317b96eb6c13639839b1276ac04c" title=" " alt="" coords="652,111,887,153"/>
+<area shape="rect" id="node3" href="$classtrajectory__processing_1_1IterativeSplineParameterization.html#ac65a0bed2a3d103913f7179b18efb6ab" title=" " alt="" coords="342,64,578,120"/>
+<area shape="rect" id="node6" href="$classtrajectory__processing_1_1IterativeParabolicTimeParameterization.html#a9178f8f9ae2540954879925f56ca0138" title=" " alt="" coords="316,144,604,200"/>
+<area shape="rect" id="node4" href="$classdefault__planner__request__adapters_1_1AddIterativeSplineParameterization.html#a630967a9aade69aa8cc49f5ece102785" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="21,5,252,61"/>
+<area shape="rect" id="node5" href="$test__time__parameterization_8cpp.html#a1fb67aa34417d03016c74d44bd7f54e0" title=" " alt="" coords="109,85,164,112"/>
+<area shape="rect" id="node7" href="$classdefault__planner__request__adapters_1_1AddTimeParameterization.html#a66404b1e7b0f950d035929c33a748a7b" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,140,268,196"/>
+<area shape="rect" id="node8" href="$test__time__parameterization_8cpp.html#aa51b79e24472e01dd59a8f68878e719e" title=" " alt="" coords="109,220,164,247"/>
+</map>

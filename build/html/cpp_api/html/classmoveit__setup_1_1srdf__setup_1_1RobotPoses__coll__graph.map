@@ -1,0 +1,7 @@
+<map id="moveit_setup::srdf_setup::RobotPoses" name="moveit_setup::srdf_setup::RobotPoses">
+<area shape="rect" id="node1" title=" " alt="" coords="641,71,791,112"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SRDFStep.html" title="Setup Step that contains the SRDFConfig." alt="" coords="258,5,402,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SetupStep.html" title="Contains all of the non&#45;GUI code necessary for doing one &quot;screen&quot; worth of setup." alt="" coords="5,13,191,39"/>
+<area shape="rect" id="node4" href="$structcollision__detection_1_1CollisionRequest.html" title="Representation of a collision checking request." alt="" coords="258,71,402,112"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1AllowedCollisionMatrix.html" title="Definition of a structure for the allowed collision matrix. All elements in the collision world are r..." alt="" coords="240,136,420,177"/>
+</map>

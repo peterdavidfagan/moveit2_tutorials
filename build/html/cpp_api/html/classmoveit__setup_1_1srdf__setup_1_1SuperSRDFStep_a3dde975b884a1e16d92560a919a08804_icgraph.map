@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::SuperSRDFStep::create" name="moveit_setup::srdf_setup::SuperSRDFStep::create">
+<area shape="rect" id="node1" title="Create an item with the given name and return the pointer." alt="" coords="256,27,429,83"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#abc1a9b5eeeff44e50b40a821e2f4e725" title="Get a pointer to an item with the given name, creating if necessary. If old_name is provided (and is ..." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node3" href="$test__srdf_8cpp.html#aef2d5ae9e222cbd181f67b4677248d78" title=" " alt="" coords="72,71,141,98"/>
+</map>

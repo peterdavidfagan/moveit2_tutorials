@@ -1,0 +1,4 @@
+<map id="moveit_simple_controller_manager::ActionBasedControllerHandle::controllerDoneCallback" name="moveit_simple_controller_manager::ActionBasedControllerHandle::controllerDoneCallback">
+<area shape="rect" id="node1" title="Callback function to call when the result is received from the controller action server." alt="" coords="293,5,533,61"/>
+<area shape="rect" id="node2" href="$classmoveit__simple__controller__manager_1_1ActionBasedControllerHandle.html#a059ad990c4cf805204f07d5cdd5cb3f0" title="Blocks waiting for the action result to be received." alt="" coords="5,5,245,61"/>
+</map>

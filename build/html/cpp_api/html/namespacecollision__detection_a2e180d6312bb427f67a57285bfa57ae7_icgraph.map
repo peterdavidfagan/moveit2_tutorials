@@ -1,0 +1,10 @@
+<map id="collision_detection::getCollisionSphereCollision" name="collision_detection::getCollisionSphereCollision">
+<area shape="rect" id="node1" title=" " alt="" coords="745,133,953,174"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#a978a45e42b0194b01ba49b7f4f2f6664" title=" " alt="" coords="499,165,697,221"/>
+<area shape="rect" id="node6" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#a3e5ec1a01a82297a0bef55f18dd477d3" title=" " alt="" coords="499,85,697,141"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#a0e00b6568d3190cc9c0ef01e7cf87e74" title=" " alt="" coords="252,85,451,141"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#adbf0d0348b86c2ad9a6075d8da03ed8d" title=" " alt="" coords="252,245,451,301"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#aaa983cca54d16df1054d30abdc365fcc" title=" " alt="" coords="252,165,451,221"/>
+<area shape="rect" id="node7" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#a6aa331e371df277cbfe6cf0f56043c2e" title=" " alt="" coords="252,5,451,61"/>
+<area shape="rect" id="node8" href="$classcollision__detection_1_1CollisionEnvDistanceField.html#add2cbd856521f2041bf3b72a190a35fb" title="Check for robot self collision. Any collision between any pair of links is checked for,..." alt="" coords="5,5,204,61"/>
+</map>

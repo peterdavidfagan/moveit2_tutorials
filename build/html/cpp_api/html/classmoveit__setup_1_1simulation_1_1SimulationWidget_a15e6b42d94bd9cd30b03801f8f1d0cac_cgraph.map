@@ -1,0 +1,11 @@
+<map id="moveit_setup::simulation::SimulationWidget::focusGiven" name="moveit_setup::simulation::SimulationWidget::focusGiven">
+<area shape="rect" id="node1" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="5,151,232,193"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1simulation_1_1Simulation.html#aef9359e858c801bcbc14368b60863521" title="Parses the existing urdf and constructs a string from it with the elements required by gazebo simulat..." alt="" coords="280,86,571,127"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1simulation_1_1Simulation.html#a19e6b78ad8e8c4b544a3234de2990f3e" title=" " alt="" coords="328,151,523,193"/>
+<area shape="rect" id="node8" href="$namespacekinematic__constraints.html#a0e9306ef50e0de99901c60a0b4a40ab5" title="Check if any constraints were specified." alt="" coords="342,217,509,258"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1simulation_1_1Simulation.html#af85059d473396d258137f9518e80108d" title="Helper function to get the controller that is controlling the joint." alt="" coords="619,5,840,61"/>
+<area shape="rect" id="node4" href="$namespacemoveit__setup_1_1simulation.html#a7721d126260e85906e1a70a1c5f9ff62" title=" " alt="" coords="635,86,823,127"/>
+<area shape="rect" id="node5" href="$namespacemoveit__setup.html#a762d54388d110ce4ea9f52f728675e51" title="Insert a new XML element with a given tag, attributes, and text." alt="" coords="629,152,829,179"/>
+<area shape="rect" id="node6" href="$namespacemoveit__setup.html#a05304782b64c23e1d4fd151923c47625" title=" " alt="" coords="888,145,1088,186"/>
+<area shape="rect" id="node9" href="$namespacemoveit_1_1core.html#a192b65b3ebc8eb7b6ccd155808c68aa1" title="Check if a message includes any information about a planning scene, or whether it is empty." alt="" coords="647,224,812,251"/>
+</map>

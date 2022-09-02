@@ -1,0 +1,5 @@
+<map id="planning_scene::PlanningScene::getObjectColor" name="planning_scene::PlanningScene::getObjectColor">
+<area shape="rect" id="node1" title=" " alt="" coords="280,39,467,80"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a8b45bb8fb3fecb10013000eeb728429d" title="If there is a parent specified for this scene, then the diffs with respect to that parent are applied..." alt="" coords="25,5,212,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene_1_1PlanningScene.html#ad0cc39905bf06b2ea73b8a226f881242" title="Save the geometry of the planning scene to a stream, as plain text." alt="" coords="5,71,232,112"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="distance_field::DistanceField::getOcTreePoints" name="distance_field::DistanceField::getOcTreePoints">
+<area shape="rect" id="node1" title="Get the points associated with an octree." alt="" coords="788,39,965,80"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a5a5de29eff3bd1764e15abda23946cc1" title="Adds an octree to the distance field. Cells that are occupied in the octree that lie within the voxel..." alt="" coords="563,5,740,47"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#a6d4d5386350ec80d3ca511cf940c0cfb" title="Get the points associated with a shape. This is mainly used when the external application needs to ca..." alt="" coords="563,71,740,112"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1PropagationDistanceField.html#a10a41843375b4332754d6847ad350fa3" title="Constructor based on an OcTree and bounding box information. A distance field will be constructed wit..." alt="" coords="231,5,515,47"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#a7d40ca72ce5a575ddbc4f7602612a05a" title="Adds the set of points corresponding to the shape at the given pose as obstacle points into the dista..." alt="" coords="284,71,461,112"/>
+<area shape="rect" id="node6" href="$classdistance__field_1_1DistanceField.html#a691113c17e41b934916dc5d7c6b71272" title=" " alt="" coords="5,71,183,112"/>
+</map>

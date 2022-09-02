@@ -1,0 +1,7 @@
+<map id="trajectory_execution_manager::TrajectoryExecutionManager::ensureActiveControllersForJoints" name="trajectory_execution_manager::TrajectoryExecutionManager::ensureActiveControllersForJoints">
+<area shape="rect" id="node1" title="Make sure the active controllers are such that trajectories that actuate joints in the specified set ..." alt="" coords="5,112,304,168"/>
+<area shape="rect" id="node2" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#af1e37b58cb12f213f17fae6b4cc57253" title="Make sure a particular set of controllers are active." alt="" coords="352,5,595,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#aea3af43bb2808c5e8b15047b8b52c5ed" title="Get the joint this one is mimicking." alt="" coords="383,86,564,127"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModel.html#add20b6d4e10df54752f2c9ba61d8ee0a" title="Get the type of joint." alt="" coords="383,151,564,193"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModel.html#ab8ece3a19d360dcc9f3e29fd85b3e3fe" title="Check if this joint is passive." alt="" coords="383,217,564,258"/>
+</map>

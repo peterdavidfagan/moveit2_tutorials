@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setEndEffectorLink" name="moveit::planning_interface::MoveGroupInterface::setEndEffectorLink">
+<area shape="rect" id="node1" title="Specify the parent link of the end&#45;effector. This end_effector_link will be used in calls to pose tar..." alt="" coords="319,5,611,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#acd09831014016b69fef201a066560184" title="Specify the name of the end&#45;effector to use. This is equivalent to setting the EndEffectorLink to the..." alt="" coords="5,5,271,47"/>
+</map>

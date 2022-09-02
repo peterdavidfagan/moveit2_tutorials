@@ -1,0 +1,5 @@
+<map id="collision_detection::AllowedCollisionMatrix::getAllowedCollision" name="collision_detection::AllowedCollisionMatrix::getAllowedCollision">
+<area shape="rect" id="node1" title="Get the type of the allowed collision between two elements. Return true if the entry is included in t..." alt="" coords="5,45,185,101"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#ac3b12c32bd2a5cf08465a61110b83f4e" title="Get the type of the allowed collision to be considered by default for an element. Return true if a de..." alt="" coords="233,5,413,61"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a4d1a3130123f8c4c3fc25d973af9a5c6" title="Get the type of the allowed collision between two elements. Return true if the entry is included in t..." alt="" coords="233,85,413,141"/>
+</map>

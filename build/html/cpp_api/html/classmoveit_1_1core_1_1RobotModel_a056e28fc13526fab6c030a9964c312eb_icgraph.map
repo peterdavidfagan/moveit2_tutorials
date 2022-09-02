@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotModel::getVariableCount" name="moveit::core::RobotModel::getVariableCount">
+<area shape="rect" id="node1" title="Get the number of variables that describe this model." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotModel.html#ac170d0fa1a5b40a22b9e9b226c7cb840" title="Print information about the constructed model." alt="" coords="5,5,196,47"/>
+</map>

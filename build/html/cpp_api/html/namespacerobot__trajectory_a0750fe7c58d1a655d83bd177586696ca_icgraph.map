@@ -1,0 +1,8 @@
+<map id="robot_trajectory::path_length" name="robot_trajectory::path_length">
+<area shape="rect" id="node1" title="Calculate the path length of a given trajectory based on the accumulated robot state distances...." alt="" coords="477,78,640,119"/>
+<area shape="rect" id="node2" href="$classmoveit__ros__benchmarks_1_1BenchmarkExecutor.html#a9577c9f07660ef803aabb917aefc82b8" title=" " alt="" coords="241,5,424,61"/>
+<area shape="rect" id="node4" href="$test__robot__trajectory_8cpp.html#ae93bf72402ab01b5ced1fe8f5dc893a5" title=" " alt="" coords="298,85,367,112"/>
+<area shape="rect" id="node5" href="$namespacerobot__trajectory.html#a8f564d1e01216ff451b54282b0f6b61c" title="Calculate the waypoint density of a trajectory." alt="" coords="236,137,429,178"/>
+<area shape="rect" id="node3" href="$classmoveit__ros__benchmarks_1_1BenchmarkExecutor.html#abf647e82c140649be2188f757c42db6d" title="Execute the given motion plan request on the set of planners for the set number of runs." alt="" coords="5,5,188,61"/>
+<area shape="rect" id="node6" href="$test__robot__trajectory_8cpp.html#a102898fa0cc22e7d56d37b3aa9c3cc7a" title=" " alt="" coords="62,144,131,171"/>
+</map>

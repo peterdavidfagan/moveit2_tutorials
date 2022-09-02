@@ -1,0 +1,4 @@
+<map id="moveit_rviz_plugin::PlanningSceneDisplay::clearJobs" name="moveit_rviz_plugin::PlanningSceneDisplay::clearJobs">
+<area shape="rect" id="node1" title="remove all queued jobs" alt="" coords="5,5,180,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#a50c16096b3407addf1aabd6f1d358d3b" title="Clear the queue of jobs." alt="" coords="228,13,421,54"/>
+</map>

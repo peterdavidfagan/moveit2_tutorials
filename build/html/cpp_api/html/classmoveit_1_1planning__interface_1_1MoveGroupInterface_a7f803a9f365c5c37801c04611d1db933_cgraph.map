@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setGoalOrientationTolerance" name="moveit::planning_interface::MoveGroupInterface::setGoalOrientationTolerance">
+<area shape="rect" id="node1" title="Set the orientation tolerance that is used for reaching the goal when moving to a pose." alt="" coords="5,5,300,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a45db8bdbe71ec5c96a96030adb71e7aa" title=" " alt="" coords="348,5,651,61"/>
+</map>

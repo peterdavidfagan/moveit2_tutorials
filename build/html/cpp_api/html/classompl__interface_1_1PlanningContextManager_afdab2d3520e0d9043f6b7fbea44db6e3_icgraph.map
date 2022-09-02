@@ -1,0 +1,4 @@
+<map id="ompl_interface::PlanningContextManager::getPlannerConfigurations" name="ompl_interface::PlanningContextManager::getPlannerConfigurations">
+<area shape="rect" id="node1" title="Return the previously set planner configurations." alt="" coords="276,5,579,47"/>
+<area shape="rect" id="node2" href="$classompl__interface_1_1OMPLInterface.html#ac4d62636bdc2970da0c3ce6cfebae82e" title="Get the configurations for the planners that are already loaded." alt="" coords="5,5,228,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rdf_loader::RDFLoader::loadXmlFileToString" name="rdf_loader::RDFLoader::loadXmlFileToString">
+<area shape="rect" id="node1" title="helper that branches between loadFileToString() and loadXacroFileToString() based on result of isXacr..." alt="" coords="5,71,172,112"/>
+<area shape="rect" id="node2" href="$classrdf__loader_1_1RDFLoader.html#a0a6182274db2dd51eba414986377b2ea" title="determine if given path points to a xacro file" alt="" coords="222,5,389,47"/>
+<area shape="rect" id="node3" href="$classrdf__loader_1_1RDFLoader.html#afa6af118075aca327eb9b5cb9601709c" title="load file from given path into buffer" alt="" coords="222,71,389,112"/>
+<area shape="rect" id="node4" href="$classrdf__loader_1_1RDFLoader.html#aff2eacf6201feb571c6ab1aa979ca705" title="run xacro with the given args on the file, return result in buffer" alt="" coords="220,136,391,177"/>
+</map>

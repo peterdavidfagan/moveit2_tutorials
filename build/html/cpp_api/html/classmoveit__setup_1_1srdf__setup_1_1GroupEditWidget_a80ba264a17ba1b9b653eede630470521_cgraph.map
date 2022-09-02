@@ -1,0 +1,6 @@
+<map id="moveit_setup::srdf_setup::GroupEditWidget::loadKinematicPlannersComboBox" name="moveit_setup::srdf_setup::GroupEditWidget::loadKinematicPlannersComboBox">
+<area shape="rect" id="node1" title="Populate the combo dropdown box with kinematic planners." alt="" coords="5,79,256,135"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1PlanningGroups.html#a9cde5f7ff9de0401555ccdde37a49db0" title=" " alt="" coords="309,5,484,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SetupStep.html#aab57faf30c16fa632b89d833ae47cbc7" title="Makes a namespaced logger for this step available to the widget." alt="" coords="304,86,489,127"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1srdf__setup_1_1PlanningGroups.html#ad004848e5fe7a2b9c0353fc383fd31ed" title=" " alt="" coords="309,152,484,208"/>
+</map>

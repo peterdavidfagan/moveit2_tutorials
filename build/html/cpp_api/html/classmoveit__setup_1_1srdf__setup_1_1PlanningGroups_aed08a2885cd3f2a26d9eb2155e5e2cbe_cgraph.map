@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::PlanningGroups::setJoints" name="moveit_setup::srdf_setup::PlanningGroups::setJoints">
+<area shape="rect" id="node1" title="Set the specified group&#39;s joint names." alt="" coords="5,13,180,69"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#a1ef32faab24ffa33117a70e81a1d2d9e" title="Return a pointer to an item with the given name if it exists, otherwise null." alt="" coords="228,5,401,76"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="planning_scene::PlanningScene::allocateCollisionDetector" name="planning_scene::PlanningScene::allocateCollisionDetector">
+<area shape="rect" id="node1" title="Allocate a new collision detector and replace the previous one if there was any." alt="" coords="240,5,473,47"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a86bafea7f524e4974764b001778268dc" title="Clear the diffs accumulated for this planning scene, with respect to: the parent PlanningScene (if it..." alt="" coords="5,5,192,47"/>
+</map>

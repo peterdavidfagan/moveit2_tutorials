@@ -1,0 +1,5 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::computeMetricsInternal" name="moveit_rviz_plugin::MotionPlanningDisplay::computeMetricsInternal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,191,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a5902793ed7f64dfc073e37c91154c497" title="For a given group, copy the position values of the variables that make up the group into another loca..." alt="" coords="239,13,427,54"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="475,13,656,54"/>
+</map>

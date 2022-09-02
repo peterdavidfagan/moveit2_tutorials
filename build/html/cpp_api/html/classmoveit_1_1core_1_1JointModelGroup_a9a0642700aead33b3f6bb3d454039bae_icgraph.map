@@ -1,0 +1,5 @@
+<map id="moveit::core::JointModelGroup::isSingleDOFJoints" name="moveit::core::JointModelGroup::isSingleDOFJoints">
+<area shape="rect" id="node1" title="Return true if the group consists only of joints that are single DOF." alt="" coords="227,53,411,94"/>
+<area shape="rect" id="node2" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="7,5,177,61"/>
+<area shape="rect" id="node3" href="$classlma__kinematics__plugin_1_1LMAKinematicsPlugin.html#a863e2c5e7aa26f888f96cad9c3b5f109" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="5,85,179,141"/>
+</map>

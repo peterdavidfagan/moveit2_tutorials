@@ -1,0 +1,6 @@
+<map id="pilz_industrial_motion_planner::TrajectoryGenerator::cartesianTrapVelocityProfile" name="pilz_industrial_motion_planner::TrajectoryGenerator::cartesianTrapVelocityProfile">
+<area shape="rect" id="node1" title="build cartesian velocity profile for the path" alt="" coords="5,85,220,141"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1LimitsContainer.html#acb2ed704bda819986f21f7e836b5cce7" title="Return the cartesian limits." alt="" coords="295,5,484,61"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1CartesianLimit.html#adf1477f7582ef5d4ace6d2462a2a3825" title="Return the maximal translational acceleration [m/s^2], 0 if nothing was set." alt="" coords="268,85,511,141"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner_1_1CartesianLimit.html#ae271329c2a90afec8db744e9b3f53548" title="Return the maximal translational velocity [m/s], 0 if nothing was set." alt="" coords="282,165,497,221"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="moveit_setup::controllers::ControllersWidget::loadJointsScreen" name="moveit_setup::controllers::ControllersWidget::loadJointsScreen">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,224,105"/>
+<area shape="rect" id="node2" href="$namespacerclcpp_1_1names.html#a4c3e21517afd9a6909de322da95c5e81" title=" " alt="" coords="281,5,451,32"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1DoubleListWidget.html#ac741bc72305ac5c150bff4f8d3d1c3f5" title="Loads the available data list." alt="" coords="272,57,460,98"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1DoubleListWidget.html#aff8b70d2f4b7c0921d694d3014673840" title="Set the right box." alt="" coords="272,122,460,163"/>
+<area shape="rect" id="node3" href="$namespacerclcpp_1_1names.html#a80893fadce35db823b13c8ddd4be2104" title=" " alt="" coords="524,5,680,32"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1DoubleListWidget.html#a635f2f761ff68016b5fa7070d4bfc919" title="Convenience function for reusing set table code." alt="" coords="508,89,696,130"/>
+</map>

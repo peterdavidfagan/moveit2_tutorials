@@ -1,0 +1,9 @@
+<map id="moveit_setup::controllers::MoveItControllersConfig::GeneratedControllersConfig" name="moveit_setup::controllers::MoveItControllersConfig::GeneratedControllersConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="869,27,1080,83"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1YamlGeneratedFile.html" title=" " alt="" coords="527,13,768,39"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="267,13,477,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1controllers_1_1MoveItControllersConfig.html" title=" " alt="" coords="553,64,741,105"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1controllers_1_1ControllersConfig.html" title="All the controller configurations." alt="" coords="278,64,466,105"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="13,71,210,98"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="pilz_industrial_motion_planner_testutils::XmlTestdataLoader::getJoints" name="pilz_industrial_motion_planner_testutils::XmlTestdataLoader::getJoints">
+<area shape="rect" id="node1" title=" " alt="" coords="829,279,1056,335"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#adbff5a2d0cf05cf521eead8606b3f555" title=" " alt="" coords="555,5,781,61"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#aef1b89883e011b2bec3c6057ac34a699" title=" " alt="" coords="555,85,781,141"/>
+<area shape="rect" id="node5" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#af83664af9a5dcfdcbddf209d841a0ba0" title="Returns the command with the specified name from the test data." alt="" coords="555,165,781,221"/>
+<area shape="rect" id="node6" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#abc5b89db9a099ff0e930703f34792b16" title="Returns the command with the specified name from the test data." alt="" coords="555,245,781,301"/>
+<area shape="rect" id="node7" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#a106378e3db26edc39fcb73ba6d96271a" title=" " alt="" coords="280,252,507,308"/>
+<area shape="rect" id="node8" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#a55559bc46c1562aecfd55c2ce5fbce91" title=" " alt="" coords="555,412,781,468"/>
+<area shape="rect" id="node13" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#a66f8b3d4ea36c32cc479fafbf9beda46" title=" " alt="" coords="280,652,507,708"/>
+<area shape="rect" id="node14" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#aff3b7f08c333bb257baa4361b474ee95" title="Returns the command with the specified name from the test data." alt="" coords="555,673,781,729"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#a7db5780af765183dd0fcacee3a9da3f4" title=" " alt="" coords="5,412,232,468"/>
+<area shape="rect" id="node9" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#a00526953d0e2de6d9f07bc6c4ee1cf10" title="Returns the command with the specified name from the test data." alt="" coords="280,332,507,388"/>
+<area shape="rect" id="node10" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#a1df946910b868c9d5cc9aa93162f9e2c" title=" " alt="" coords="280,412,507,468"/>
+<area shape="rect" id="node11" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#ab742c76565b81440790090919d7fce63" title=" " alt="" coords="280,492,507,548"/>
+<area shape="rect" id="node12" href="$classpilz__industrial__motion__planner__testutils_1_1XmlTestdataLoader.html#a1ac99345e5453a6ef49ed00e991f12da" title=" " alt="" coords="280,572,507,628"/>
+</map>

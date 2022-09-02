@@ -1,0 +1,4 @@
+<map id="kinematics_cache::KinematicsCache::generateCacheMap" name="kinematics_cache::KinematicsCache::generateCacheMap">
+<area shape="rect" id="node1" title="Generate the cache map spending timeout (seconds) on the generation process)" alt="" coords="5,5,225,47"/>
+<area shape="rect" id="node2" href="$classkinematics__cache_1_1KinematicsCache.html#aa33f7e5010324f86aa5a9c6a7b73496e" title="Add a new solution to the cache at the given location." alt="" coords="273,5,493,47"/>
+</map>

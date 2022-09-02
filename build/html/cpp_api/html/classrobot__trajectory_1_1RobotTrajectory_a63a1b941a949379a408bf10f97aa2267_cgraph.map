@@ -1,0 +1,5 @@
+<map id="robot_trajectory::RobotTrajectory::getStateAtDurationFromStart" name="robot_trajectory::RobotTrajectory::getStateAtDurationFromStart">
+<area shape="rect" id="node1" title="Gets a robot state corresponding to a supplied duration from start for the trajectory,..." alt="" coords="5,39,240,80"/>
+<area shape="rect" id="node2" href="$classrobot__trajectory_1_1RobotTrajectory.html#acba72355e16bd0aa963c8a99ce8f941c" title="Finds the waypoint indices before and after a duration from start." alt="" coords="288,5,587,47"/>
+<area shape="rect" id="node3" href="$classrobot__trajectory_1_1RobotTrajectory.html#ababf812aa287c586d9ad0b190e1d2482" title=" " alt="" coords="320,71,555,112"/>
+</map>

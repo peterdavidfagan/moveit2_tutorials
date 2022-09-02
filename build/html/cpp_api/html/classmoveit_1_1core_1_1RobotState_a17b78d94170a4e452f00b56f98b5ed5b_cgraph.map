@@ -1,0 +1,8 @@
+<map id="moveit::core::RobotState::enforceBounds" name="moveit::core::RobotState::enforceBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="5,72,189,113"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ad7da8630de3e82aa31f4671b980aca74" title=" " alt="" coords="237,39,421,80"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#ae52693dfeb9235aaaa288cb7ed01b0cb" title=" " alt="" coords="237,104,421,145"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#ac997d44f51ca03d13f0d54cf699e0662" title="Force the specified values to be inside bounds and normalized. Quaternions are normalized,..." alt="" coords="469,5,651,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModel.html#a749ce652067b82e5ec5b3ffe3baca733" title="Get the index of this joint&#39;s first variable within the full robot state." alt="" coords="469,71,651,112"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModel.html#ab8f0b0083b2b32916a9352b8a97acff6" title="Force the specified velocities to be within bounds. Return true if changes were made." alt="" coords="469,136,651,177"/>
+</map>

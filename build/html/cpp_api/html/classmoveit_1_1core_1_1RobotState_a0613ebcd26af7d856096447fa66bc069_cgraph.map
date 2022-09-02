@@ -1,0 +1,7 @@
+<map id="moveit::core::RobotState::setToRandomPositionsNearBy" name="moveit::core::RobotState::setToRandomPositionsNearBy">
+<area shape="rect" id="node1" title="Set all joints in group to random values near the value in seed. distances MUST have the same size as..." alt="" coords="5,35,231,76"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#ae63329caf8ee84e856ae3cee0db069f3" title="Return the instance of a random number generator." alt="" coords="552,5,775,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a80efcd6dc42960d6a2054dfe7bbce448" title="Set all joints in group to random values near the value in seed. distance is the maximum amount each ..." alt="" coords="279,64,504,105"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a95a2bc2b77d410e4c07a7c464e33a438" title="Return the sum of joint distances to &quot;other&quot; state. An L1 norm. Only considers active joints." alt="" coords="571,71,755,112"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a72e5062115857bc793f0ba6be6aca059" title="Get a raw pointer to the positions of the variables stored in this state. Use carefully...." alt="" coords="823,71,1007,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::setJointGroupAccelerations" name="moveit::core::RobotState::setJointGroupAccelerations">
+<area shape="rect" id="node1" title="Given accelerations for the variables that make up a group, in the order found in the group (includin..." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a47eb1edf2046387de44c3a9dee3433e6" title="Given accelerations for the variables that make up a group, in the order found in the group (includin..." alt="" coords="260,5,467,47"/>
+</map>

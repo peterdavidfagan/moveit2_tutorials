@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getPlanningTime" name="moveit::planning_interface::MoveGroupInterface::getPlanningTime">
+<area shape="rect" id="node1" title="Get the number of seconds set by setPlanningTime()" alt="" coords="5,13,287,54"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a2dc0447eedd465865a90b7216200dff3" title=" " alt="" coords="335,5,581,61"/>
+</map>

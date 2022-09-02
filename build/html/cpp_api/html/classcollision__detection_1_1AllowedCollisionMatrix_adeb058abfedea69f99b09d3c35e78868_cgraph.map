@@ -1,0 +1,6 @@
+<map id="collision_detection::AllowedCollisionMatrix::AllowedCollisionMatrix" name="collision_detection::AllowedCollisionMatrix::AllowedCollisionMatrix">
+<area shape="rect" id="node1" title="Construct the structure from a message representation." alt="" coords="5,85,185,141"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#ac3b12c32bd2a5cf08465a61110b83f4e" title="Get the type of the allowed collision to be considered by default for an element. Return true if a de..." alt="" coords="233,5,413,61"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a9c90706b29cdc1c1c5ad57258890908a" title="Set the default value for entries that include name but are not set explicitly with setEntry()." alt="" coords="233,85,413,141"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a2ad7ed411f25bcc382d447dec0f87530" title="Set an entry corresponding to a pair of elements." alt="" coords="233,165,413,221"/>
+</map>

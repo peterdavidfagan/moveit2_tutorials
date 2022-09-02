@@ -1,0 +1,12 @@
+<map id="rdf_loader::RDFLoader::isXacroFile" name="rdf_loader::RDFLoader::isXacroFile">
+<area shape="rect" id="node1" title="determine if given path points to a xacro file" alt="" coords="987,69,1153,111"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1URDFConfig.html#a05cdd58da530fd9b21a0d439bbac8195" title=" " alt="" coords="741,11,939,52"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1URDFConfig.html#abad8ce995cd9258dee610db9e0d85b41" title=" " alt="" coords="496,67,693,108"/>
+<area shape="rect" id="node7" href="$classrdf__loader_1_1RDFLoader.html#a04be4b2539b9b8800de2a38eccdec31b" title="helper that branches between loadFileToString() and loadXacroFileToString() based on result of isXacr..." alt="" coords="757,129,923,171"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1URDFConfig.html#aac67aed07dd23e2f72812009d6cbdc76" title=" " alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1URDFConfig.html#a264c79c66ebc953a1b078d2192d2586b" title="Load URDF File." alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1URDFConfig.html#add58ed2d101f0fde5396a63ca8e39e36" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node8" href="$classrdf__loader_1_1RDFLoader.html#a7979ab54be4862a118a07626cda81ec6" title="helper that generates a file path based on package name and relative file path to package" alt="" coords="511,132,678,173"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1SRDFConfig.html#a78b35061d310acaf58b0794faedc8fdd" title=" " alt="" coords="497,197,692,239"/>
+<area shape="rect" id="node9" href="$test__rdf__integration_8cpp.html#a76ce829dc645c711bcf2ef9fbdf215cb" title=" " alt="" coords="322,139,377,166"/>
+</map>

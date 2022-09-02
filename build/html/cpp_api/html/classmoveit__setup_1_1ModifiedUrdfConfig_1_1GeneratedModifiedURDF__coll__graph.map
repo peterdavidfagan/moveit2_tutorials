@@ -1,0 +1,8 @@
+<map id="moveit_setup::ModifiedUrdfConfig::GeneratedModifiedURDF" name="moveit_setup::ModifiedUrdfConfig::GeneratedModifiedURDF">
+<area shape="rect" id="node1" title=" " alt="" coords="161,276,393,317"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1TemplatedGeneratedFile.html" title="Specialization of GeneratedFile for generating a text file from a template." alt="" coords="5,179,284,206"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="39,96,250,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="39,5,251,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1ModifiedUrdfConfig.html" title="A configuration that stores info about modifications to the URDF." alt="" coords="309,172,511,213"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="311,96,509,123"/>
+</map>

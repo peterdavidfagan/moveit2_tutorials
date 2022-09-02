@@ -1,0 +1,4 @@
+<map id="lma_kinematics_plugin::LMAKinematicsPlugin::searchPositionIK" name="lma_kinematics_plugin::LMAKinematicsPlugin::searchPositionIK">
+<area shape="rect" id="node1" title="Given a desired pose of the end&#45;effector, search for the joint angles required to reach it...." alt="" coords="5,5,179,61"/>
+<area shape="rect" id="node2" href="$classlma__kinematics__plugin_1_1LMAKinematicsPlugin.html#ad6e273028c83b30ecd4e8b4cebdd7338" title="Given a desired pose of the end&#45;effector, search for the joint angles required to reach it...." alt="" coords="227,5,400,61"/>
+</map>

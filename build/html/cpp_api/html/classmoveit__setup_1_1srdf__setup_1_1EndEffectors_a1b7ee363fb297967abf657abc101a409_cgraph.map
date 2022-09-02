@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::EndEffectors::isReady" name="moveit_setup::srdf_setup::EndEffectors::isReady">
+<area shape="rect" id="node1" title="Return true if the data necessary to proceed with this step has been configured." alt="" coords="5,5,160,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SRDFStep.html#ac5977b2e77b04c751d84c19612b2a3fe" title=" " alt="" coords="208,13,421,54"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="moveit::core::RobotState::setVariableAccelerations" name="moveit::core::RobotState::setVariableAccelerations">
+<area shape="rect" id="node1" title="Given an array with acceleration values for all variables, set those values as the accelerations in t..." alt="" coords="251,79,441,120"/>
+<area shape="rect" id="node2" href="$namespacemoveit_1_1core.html#a4902be802c9029fc7342a2d099f970c6" title="Convert a joint trajectory point to a MoveIt robot state." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene__monitor_1_1CurrentStateMonitor.html#a4de1dba0bdf28ab261818b93b9e06dd2" title="Set the state upd to the current state maintained by this class." alt="" coords="13,71,195,127"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a1ae5cd915dade0d9de3204e587c42f33" title="Given an array with acceleration values for all variables, set those values as the accelerations in t..." alt="" coords="9,152,199,193"/>
+</map>

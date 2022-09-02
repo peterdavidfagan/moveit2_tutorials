@@ -1,0 +1,7 @@
+<map id="distance_field::DistanceField::getPlaneMarkers" name="distance_field::DistanceField::getPlaneMarkers">
+<area shape="rect" id="node1" title="Populates a marker with a slice of the distance field in a particular plane. All cells in the plane w..." alt="" coords="5,104,183,145"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#afe3d2c4d985084a897aeb4920a2e6f3f" title="Gets the distance to the closest obstacle at the given location. The particulars of this function are..." alt="" coords="231,5,408,47"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#ad78c36666019889271444f912edef4c2" title="Converts from an set of integer indices to a world location given the origin and resolution parameter..." alt="" coords="231,71,408,112"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#a657363a1be60726539dd40d13ff17383" title="Determines whether or not the cell associated with the supplied indices is valid for this distance fi..." alt="" coords="231,136,408,177"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#a23af274792c1986b9367541b9b00774f" title="Converts from a world location to a set of integer indices. Should return false if the world location..." alt="" coords="231,201,408,243"/>
+</map>

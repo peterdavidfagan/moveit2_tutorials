@@ -1,0 +1,6 @@
+<map id="planning_scene::PlanningScene::shapesAndPosesFromCollisionObjectMessage" name="planning_scene::PlanningScene::shapesAndPosesFromCollisionObjectMessage">
+<area shape="rect" id="node1" title="Takes the object message and returns the object pose, shapes and shape poses. If the object pose is e..." alt="" coords="5,16,272,72"/>
+<area shape="rect" id="node2" href="$namespacerclcpp_1_1names.html#a4c3e21517afd9a6909de322da95c5e81" title=" " alt="" coords="320,5,489,32"/>
+<area shape="rect" id="node4" href="$namespacemoveit_1_1core.html#a192b65b3ebc8eb7b6ccd155808c68aa1" title="Check if a message includes any information about a planning scene, or whether it is empty." alt="" coords="322,56,487,83"/>
+<area shape="rect" id="node3" href="$namespacerclcpp_1_1names.html#a80893fadce35db823b13c8ddd4be2104" title=" " alt="" coords="537,5,693,32"/>
+</map>

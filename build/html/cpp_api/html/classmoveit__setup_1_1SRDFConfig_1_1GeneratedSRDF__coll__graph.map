@@ -1,0 +1,7 @@
+<map id="moveit_setup::SRDFConfig::GeneratedSRDF" name="moveit_setup::SRDFConfig::GeneratedSRDF">
+<area shape="rect" id="node1" title=" " alt="" coords="127,185,322,227"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="7,96,218,123"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1SRDFConfig.html" title=" " alt="" coords="243,96,438,123"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="242,13,439,39"/>
+</map>

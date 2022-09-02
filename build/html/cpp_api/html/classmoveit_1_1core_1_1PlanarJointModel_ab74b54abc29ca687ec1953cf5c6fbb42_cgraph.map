@@ -1,0 +1,4 @@
+<map id="moveit::core::PlanarJointModel::enforcePositionBounds" name="moveit::core::PlanarJointModel::enforcePositionBounds">
+<area shape="rect" id="node1" title="Force the specified values to be inside bounds and normalized. Quaternions are normalized,..." alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1PlanarJointModel.html#a18211390620ea1e155bd0e7c4470ecb4" title=" " alt="" coords="272,5,463,47"/>
+</map>

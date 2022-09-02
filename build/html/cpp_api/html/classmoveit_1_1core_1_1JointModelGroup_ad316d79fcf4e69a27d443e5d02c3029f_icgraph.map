@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModelGroup::getActiveVariableCount" name="moveit::core::JointModelGroup::getActiveVariableCount">
+<area shape="rect" id="node1" title="Get the number of variables that describe the active joints in this joint group. This excludes variab..." alt="" coords="272,5,495,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a00c36018e23deb526337ca9c80f0da48" title="Given positions for the variables of active joints that make up a group, in the order found in the gr..." alt="" coords="5,5,224,47"/>
+</map>

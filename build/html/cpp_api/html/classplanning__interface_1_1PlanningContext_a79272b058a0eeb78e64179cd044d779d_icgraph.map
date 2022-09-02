@@ -1,0 +1,4 @@
+<map id="planning_interface::PlanningContext::terminate" name="planning_interface::PlanningContext::terminate">
+<area shape="rect" id="node1" title="If solve() is running, terminate the computation. Return false if termination not possible...." alt="" coords="261,5,471,47"/>
+<area shape="rect" id="node2" href="$classplanning__interface_1_1PlannerManager.html#a3547803cbb70795e7b16b1e1ef53fa90" title="Request termination, if a solve() function is currently computing plans." alt="" coords="5,5,213,47"/>
+</map>

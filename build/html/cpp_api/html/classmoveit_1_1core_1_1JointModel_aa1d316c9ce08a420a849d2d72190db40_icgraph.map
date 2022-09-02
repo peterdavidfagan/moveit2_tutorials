@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModel::getMimicOffset" name="moveit::core::JointModel::getMimicOffset">
+<area shape="rect" id="node1" title="If mimicking a joint, this is the offset added to that joint&#39;s value." alt="" coords="223,13,404,54"/>
+<area shape="rect" id="node2" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="5,5,175,61"/>
+</map>

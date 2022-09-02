@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::PlanningSceneInterface::getKnownObjectNamesInROI" name="moveit::planning_interface::PlanningSceneInterface::getKnownObjectNamesInROI">
+<area shape="rect" id="node1" title="Get the names of known objects in the world that are located within a bounding region (specified in t..." alt="" coords="5,13,224,69"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface_1_1PlanningSceneInterfaceImpl.html#a71c280664df6369da3b0188e1e939675" title=" " alt="" coords="272,5,491,76"/>
+</map>

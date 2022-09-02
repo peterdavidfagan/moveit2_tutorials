@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::clearPoseTargets" name="moveit::planning_interface::MoveGroupInterface::clearPoseTargets">
+<area shape="rect" id="node1" title="Forget any poses specified for all end&#45;effectors." alt="" coords="5,5,240,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a00a8bf573965da22f43c98dfabf45ed3" title=" " alt="" coords="288,5,535,61"/>
+</map>

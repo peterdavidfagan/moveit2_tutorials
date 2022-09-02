@@ -1,0 +1,11 @@
+<map id="moveit_ros_benchmarks::BenchmarkExecutor::collectMetrics" name="moveit_ros_benchmarks::BenchmarkExecutor::collectMetrics">
+<area shape="rect" id="node1" title=" " alt="" coords="5,122,188,178"/>
+<area shape="rect" id="node2" href="$namespacerobot__trajectory.html#a0750fe7c58d1a655d83bd177586696ca" title="Calculate the path length of a given trajectory based on the accumulated robot state distances...." alt="" coords="261,129,423,171"/>
+<area shape="rect" id="node7" href="$namespacerobot__trajectory.html#aaea992e4ba6967a7ec88956541d43618" title="Calculate the smoothness of a given trajectory." alt="" coords="236,78,448,105"/>
+<area shape="rect" id="node8" href="$namespacemoveit_1_1core.html#a7408555e942ec8025cdb5a178fb23dfd" title="Convert a double to std::string using the classic C locale." alt="" coords="261,198,423,225"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a95a2bc2b77d410e4c07a7c464e33a438" title="Return the sum of joint distances to &quot;other&quot; state. An L1 norm. Only considers active joints." alt="" coords="521,5,705,47"/>
+<area shape="rect" id="node5" href="$classrobot__trajectory_1_1RobotTrajectory.html#af356952b9847bc920b773f2f83cb9943" title=" " alt="" coords="496,71,731,112"/>
+<area shape="rect" id="node6" href="$classrobot__trajectory_1_1RobotTrajectory.html#ababf812aa287c586d9ad0b190e1d2482" title=" " alt="" coords="496,136,731,177"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a72e5062115857bc793f0ba6be6aca059" title="Get a raw pointer to the positions of the variables stored in this state. Use carefully...." alt="" coords="779,5,963,47"/>
+<area shape="rect" id="node9" href="$namespacemoveit_1_1core.html#aed4044d616ae24c1737c6815c11af764" title=" " alt="" coords="517,202,709,229"/>
+</map>

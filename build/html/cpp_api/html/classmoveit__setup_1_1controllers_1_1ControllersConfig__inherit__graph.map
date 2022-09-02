@@ -1,0 +1,6 @@
+<map id="moveit_setup::controllers::ControllersConfig" name="moveit_setup::controllers::ControllersConfig">
+<area shape="rect" id="node1" title="All the controller configurations." alt="" coords="251,39,439,80"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1MoveItControllersConfig.html" title=" " alt="" coords="487,5,675,47"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1controllers_1_1ROS2ControllersConfig.html" title=" " alt="" coords="487,71,675,112"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="5,46,203,73"/>
+</map>

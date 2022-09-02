@@ -1,0 +1,7 @@
+<map id="moveit_setup::app::LaunchBundle::GenericLaunchTemplate" name="moveit_setup::app::LaunchBundle::GenericLaunchTemplate">
+<area shape="rect" id="node1" title=" " alt="" coords="215,276,432,332"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1TemplatedGeneratedFile.html" title="Specialization of GeneratedFile for generating a text file from a template." alt="" coords="5,179,284,206"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="39,96,250,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="39,5,251,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1app_1_1LaunchBundle.html" title="One launch file and any other bonus files that get bundled with it, i.e. the RViz launch file and its..." alt="" coords="308,172,459,213"/>
+</map>

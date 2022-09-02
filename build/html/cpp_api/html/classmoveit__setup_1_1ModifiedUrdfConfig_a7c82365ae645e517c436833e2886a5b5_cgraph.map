@@ -1,0 +1,5 @@
+<map id="moveit_setup::ModifiedUrdfConfig::saveToYaml" name="moveit_setup::ModifiedUrdfConfig::saveToYaml">
+<area shape="rect" id="node1" title="Optionally save &quot;meta&quot; information for saving in the .setup_assistant yaml file." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1ModifiedUrdfConfig.html#a86fb2ce1ebb98f6e0f06bb11f188367d" title=" " alt="" coords="256,5,487,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1ModifiedUrdfConfig.html#abe2544d865d69c592993f98668c75a08" title=" " alt="" coords="535,5,747,47"/>
+</map>

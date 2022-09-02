@@ -1,0 +1,9 @@
+<map id="collision_detection_bullet::BroadphaseContactResultCallback::needsCollision" name="collision_detection_bullet::BroadphaseContactResultCallback::needsCollision">
+<area shape="rect" id="node1" title="This callback is used for each overlapping pair in a pair cache of the broadphase interface to check ..." alt="" coords="5,119,228,175"/>
+<area shape="rect" id="node2" href="$namespacecollision__detection__bullet.html#a7378689977f4fe9e4a111a6ed5bd41bb" title="Allowed = true." alt="" coords="317,53,461,94"/>
+<area shape="rect" id="node6" href="$classcollision__detection__bullet_1_1CollisionObjectWrapper.html#aa5047067d38597f0c737f5904c546d03" title="Get the collision object name." alt="" coords="276,119,503,175"/>
+<area shape="rect" id="node7" href="$namespacecollision__detection__bullet.html#ab5065da1c54627d23afc2f59831258fd" title="Checks if the collision pair is kinematic vs kinematic objects." alt="" coords="299,199,480,241"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a74486fe3a716208c2c271e81e99e2b1f" title="Get the allowed collision predicate between two elements. Return true if a predicate for entry is inc..." alt="" coords="551,45,731,101"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#ac3b12c32bd2a5cf08465a61110b83f4e" title="Get the type of the allowed collision to be considered by default for an element. Return true if a de..." alt="" coords="779,5,959,61"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a4d1a3130123f8c4c3fc25d973af9a5c6" title="Get the type of the allowed collision between two elements. Return true if the entry is included in t..." alt="" coords="779,85,959,141"/>
+</map>

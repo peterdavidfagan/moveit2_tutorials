@@ -1,0 +1,4 @@
+<map id="moveit_setup::PackageSettingsConfig::saveToYaml" name="moveit_setup::PackageSettingsConfig::saveToYaml">
+<area shape="rect" id="node1" title="Optionally save &quot;meta&quot; information for saving in the .setup_assistant yaml file." alt="" coords="5,5,231,47"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup.html#a0eacf181e9db718a49a2d178f9f621ca" title="Convert a GeneratedTime to an integral epoch (using system_clock)" alt="" coords="279,13,449,39"/>
+</map>

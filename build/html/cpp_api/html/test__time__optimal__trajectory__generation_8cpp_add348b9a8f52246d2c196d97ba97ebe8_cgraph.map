@@ -1,0 +1,20 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title=" " alt="" coords="5,238,60,265"/>
+<area shape="rect" id="node2" href="$classrobot__trajectory_1_1RobotTrajectory.html#a8d818ea730ce7620ca2b15edd70f774e" title="Add a point to the trajectory." alt="" coords="116,19,351,60"/>
+<area shape="rect" id="node3" href="$classtrajectory__processing_1_1TimeOptimalTrajectoryGeneration.html#a7fb161f0df9bd1acb0a08cb339e43102" title=" " alt="" coords="108,85,359,141"/>
+<area shape="rect" id="node10" href="$classmoveit_1_1core_1_1RobotState.html#a5902793ed7f64dfc073e37c91154c497" title="For a given group, copy the position values of the variables that make up the group into another loca..." alt="" coords="139,165,327,207"/>
+<area shape="rect" id="node12" href="$classrobot__trajectory_1_1RobotTrajectory.html#afb03cf629e9928eacae97f6821ebdeb2" title=" " alt="" coords="116,231,351,272"/>
+<area shape="rect" id="node13" href="$namespacemoveit_1_1core.html#a646367a1863f557a16cb8769a2980604" title="Loads a robot from moveit_resources." alt="" coords="140,296,327,337"/>
+<area shape="rect" id="node17" href="$classmoveit_1_1core_1_1RobotState.html#a564140d144754d149b292e70c4c59b55" title="Given positions for the variables that make up a group, in the order found in the group (including va..." alt="" coords="141,361,325,403"/>
+<area shape="rect" id="node18" href="$classmoveit_1_1core_1_1RobotState.html#aba31c6f758e3dabd32c1acbd069e189e" title="Set all joints to their default positions. The default position is 0, or if that is not within bounds..." alt="" coords="141,427,325,468"/>
+<area shape="rect" id="node4" href="$classrobot__trajectory_1_1RobotTrajectory.html#afdd5cc4e84e484af2dc6ea337f62719e" title=" " alt="" coords="407,5,641,47"/>
+<area shape="rect" id="node5" href="$classrobot__trajectory_1_1RobotTrajectory.html#a6eaef50c3127c83dbc5ca393376435b1" title=" " alt="" coords="407,71,641,112"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1RobotModel.html#a0e6fe94c867b3452abdeecc2d7373ca2" title="Get the bounds for a specific variable. Throw an exception of variable is not found." alt="" coords="429,136,619,177"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1RobotModel.html#ad1420044a13284ba2602dc0e9784d20c" title=" " alt="" coords="713,136,904,177"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1JointModel.html#ad55551ed55d54b9d67e6e7d7865330d1" title="Get the bounds for a variable. Throw an exception if the variable was not found." alt="" coords="718,201,899,243"/>
+<area shape="rect" id="node9" href="$classmoveit_1_1core_1_1JointModel.html#a21ccd564228bd1460b8b59a6232b2e36" title="Get the index of the variable within this joint." alt="" coords="985,201,1166,243"/>
+<area shape="rect" id="node11" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="433,201,615,243"/>
+<area shape="rect" id="node14" href="$namespacemoveit_1_1core.html#a9d39f2316f4754a5fe4bd8abe00e7660" title="Loads a URDF Model Interface from moveit_resources." alt="" coords="689,274,928,301"/>
+<area shape="rect" id="node16" href="$namespacemoveit_1_1core.html#a847525b7f896c71b15746e7941194d6b" title="Loads an SRDF Model from moveit_resources." alt="" coords="417,325,631,351"/>
+<area shape="rect" id="node15" href="$namespacecreate__ikfast__moveit__plugin.html#a0c9b4e891e3b0ed1d9e9da320cee114b" title=" " alt="" coords="976,285,1175,341"/>
+</map>

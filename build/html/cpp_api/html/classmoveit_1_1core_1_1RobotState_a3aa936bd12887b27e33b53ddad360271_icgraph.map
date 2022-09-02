@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::getMinDistanceToPositionBounds" name="moveit::core::RobotState::getMinDistanceToPositionBounds">
+<area shape="rect" id="node1" title="Get the minimm distance from this state to the bounds. The minimum distance and the joint for which t..." alt="" coords="300,5,547,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a11a81194e415b42acd9b450d04078446" title="Get the minimm distance from a group in this state to the bounds. The minimum distance and the joint ..." alt="" coords="5,5,252,47"/>
+</map>

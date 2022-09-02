@@ -1,0 +1,9 @@
+<map id="moveit::core::JointModelGroup::setSolverAllocators" name="moveit::core::JointModelGroup::setSolverAllocators">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,200,179"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa11b464a43bb475addb128a9f1b8bbb1" title=" " alt="" coords="248,104,480,145"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1JointModelGroup.html#a7a1da3da39218d07e79f7d26ed5d4d16" title=" " alt="" coords="271,169,457,211"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a71f71bbb186917dd5fcf41bf88b2e5fb" title="Get a joint by its name. Throw an exception if the joint is not part of this group." alt="" coords="528,5,709,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModelGroup.html#a2f165c9374e28ac4052490819c790f45" title="Get the name of the joint group." alt="" coords="528,71,709,112"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModel.html#a8e6b8bcc807187617b1b2e5242a4af69" title="Get the number of variables that describe this joint." alt="" coords="528,136,709,177"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModelGroup.html#a7af014f4116c40ea1884cd7ae82f8da6" title="Check if a joint is part of this group." alt="" coords="528,201,709,243"/>
+</map>

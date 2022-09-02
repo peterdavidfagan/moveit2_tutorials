@@ -1,0 +1,7 @@
+<map id="moveit_rviz_plugin::PlanningSceneDisplay::setLinkColor" name="moveit_rviz_plugin::PlanningSceneDisplay::setLinkColor">
+<area shape="rect" id="node1" title=" " alt="" coords="684,45,859,101"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a61f5cafe78dff5c641e9af6ece0d269e" title=" " alt="" coords="461,12,636,68"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#ad25310e4b202e9840bab0b5810e79bbe" title=" " alt="" coords="233,45,413,101"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a630da9ab65d9dfdb3ccfe6f11f0f9152" title=" " alt="" coords="5,5,185,61"/>
+<area shape="rect" id="node5" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a4fcac0758f438a276687ff8ced70d946" title=" " alt="" coords="5,85,185,141"/>
+</map>

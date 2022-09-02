@@ -1,0 +1,5 @@
+<map id="collision_detection::CostSource::getVolume" name="collision_detection::CostSource::getVolume">
+<area shape="rect" id="node1" title="Get the volume of the AABB around the cost source." alt="" coords="264,39,445,80"/>
+<area shape="rect" id="node2" href="$classompl__interface_1_1StateValidityChecker.html#aa8be48c39d7a73e73491e9b57346a156" title=" " alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$structcollision__detection_1_1CostSource.html#ac5431f3eee5cd1b229f2bbdbaa6119de" title="Order cost sources so that the most costly source is at the top." alt="" coords="22,71,199,112"/>
+</map>

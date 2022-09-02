@@ -1,0 +1,4 @@
+<map id="moveit::semantic_world::SemanticWorld::generatePlacePoses" name="moveit::semantic_world::SemanticWorld::generatePlacePoses">
+<area shape="rect" id="node1" title="Generate possible place poses on the table for a given object. This chooses appropriate values for mi..." alt="" coords="320,5,587,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1semantic__world_1_1SemanticWorld.html#ad1973fb447518602ec86043051545a83" title="Generate possible place poses on the table for a given object. This chooses appropriate values for mi..." alt="" coords="5,5,272,47"/>
+</map>

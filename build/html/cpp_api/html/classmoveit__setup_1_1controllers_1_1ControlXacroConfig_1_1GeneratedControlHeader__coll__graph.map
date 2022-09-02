@@ -1,0 +1,10 @@
+<map id="moveit_setup::controllers::ControlXacroConfig::GeneratedControlHeader" name="moveit_setup::controllers::ControlXacroConfig::GeneratedControlHeader">
+<area shape="rect" id="node1" title=" " alt="" coords="995,27,1225,83"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1TemplatedGeneratedFile.html" title="Specialization of GeneratedFile for generating a text file from a template." alt="" coords="615,13,893,39"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="267,13,477,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig.html" title=" " alt="" coords="660,64,848,105"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1IncludedXacroConfig.html" title="A virtual class that represents a xacro header that should be included in the modified urdf configura..." alt="" coords="267,64,477,105"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="13,71,210,98"/>
+<area shape="rect" id="node8" href="$structmoveit__setup_1_1controllers_1_1ControlInterfaces.html" title=" " alt="" coords="278,129,466,171"/>
+</map>

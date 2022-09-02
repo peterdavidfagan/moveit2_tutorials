@@ -1,0 +1,8 @@
+<map id="moveit_setup::srdf_setup::SuperSRDFStep::getInfoField" name="moveit_setup::srdf_setup::SuperSRDFStep::getInfoField">
+<area shape="rect" id="node1" title="Returns the info field associated with this part of the SRDF." alt="" coords="477,85,651,141"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#a3dde975b884a1e16d92560a919a08804" title="Create an item with the given name and return the pointer." alt="" coords="256,5,429,61"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#ad49630316e84c92da1fa96f4a2f9f234" title="Delete an item with the given name from the list." alt="" coords="256,85,429,141"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#aef7aa319e9dbe1e704a065dce62e5a96" title="Renames an item and returns a pointer to the item." alt="" coords="256,165,429,221"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#abc1a9b5eeeff44e50b40a821e2f4e725" title="Get a pointer to an item with the given name, creating if necessary. If old_name is provided (and is ..." alt="" coords="5,122,208,163"/>
+<area shape="rect" id="node4" href="$test__srdf_8cpp.html#aef2d5ae9e222cbd181f67b4677248d78" title=" " alt="" coords="72,20,141,47"/>
+</map>

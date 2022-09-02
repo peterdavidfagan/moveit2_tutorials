@@ -1,0 +1,4 @@
+<map id="collision_detection::CollisionEnvDistanceField::addLinkBodyDecompositions" name="collision_detection::CollisionEnvDistanceField::addLinkBodyDecompositions">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,224,61"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnv.html#ad75025c17e4bb0532507e384c6298512" title="Get the link paddings as a map (from link names to padding value)" alt="" coords="272,13,488,54"/>
+</map>

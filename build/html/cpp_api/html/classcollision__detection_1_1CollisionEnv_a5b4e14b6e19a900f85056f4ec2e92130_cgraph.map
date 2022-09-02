@@ -1,0 +1,6 @@
+<map id="collision_detection::CollisionEnv::distanceRobot" name="collision_detection::CollisionEnv::distanceRobot">
+<area shape="rect" id="node1" title="Compute the shortest distance between a robot and the world." alt="" coords="5,71,216,112"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnv.html#a9f3dee36e2d35848132a4166ad08d0d1" title="Compute the distance between a robot and the world." alt="" coords="274,5,485,47"/>
+<area shape="rect" id="node3" href="$structcollision__detection_1_1DistanceRequest.html#a3b9a173e3ac3bc7c653f4cdac75f3101" title="Compute active_components_only_ based on req_." alt="" coords="264,71,495,112"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1CollisionEnv.html#adc7afd7a2e3ff0fed04bc26717816e26" title="The kinematic model corresponding to this collision model." alt="" coords="271,136,487,177"/>
+</map>

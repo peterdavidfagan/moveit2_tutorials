@@ -1,0 +1,7 @@
+<map id="moveit::core::RobotState::computeAABB" name="moveit::core::RobotState::computeAABB">
+<area shape="rect" id="node1" title="Compute an axis&#45;aligned bounding box that contains the current state. The format for aabb is (minx,..." alt="" coords="5,71,189,112"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a55cae73d3315d1283436db1df51f4fe0" title="Compute an axis&#45;aligned bounding box that contains the current state. The format for aabb is (minx,..." alt="" coords="237,37,421,79"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="237,103,421,144"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1AABB.html#a5b6cb47c75fa4619863fe0cc6c4d5e41" title="Extend with a box transformed by the given transform." alt="" coords="469,5,680,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a309800a933676917ea4848b972a4318b" title="Get the link transform w.r.t. the root link (model frame) of the RobotModel. This is typically the ro..." alt="" coords="482,71,667,112"/>
+</map>

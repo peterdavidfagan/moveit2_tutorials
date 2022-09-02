@@ -1,0 +1,4 @@
+<map id="moveit_setup::controllers::UrdfModifications::needsModification" name="moveit_setup::controllers::UrdfModifications::needsModification">
+<area shape="rect" id="node1" title="Return true if there aren&#39;t ros2_control tags for all the joints." alt="" coords="244,13,516,54"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1UrdfModificationsWidget.html#a49b501f52d017ec4a02b550c0933231b" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="5,5,196,61"/>
+</map>

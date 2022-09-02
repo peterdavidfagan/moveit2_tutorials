@@ -1,0 +1,5 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setMaxVelocityScalingFactor" name="moveit::planning_interface::MoveGroupInterface::setMaxVelocityScalingFactor">
+<area shape="rect" id="node1" title="Set a scaling factor for optionally reducing the maximum joint velocity. Allowed values are in (0,..." alt="" coords="5,5,276,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a967d1eaffcb102d27191e64e74762628" title=" " alt="" coords="324,5,627,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a4377be76c003cb52c7e2ff8ec1538878" title=" " alt="" coords="675,5,925,61"/>
+</map>

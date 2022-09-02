@@ -1,0 +1,8 @@
+<map id="moveit_setup::app::PerceptionConfig::GeneratedSensorConfig" name="moveit_setup::app::PerceptionConfig::GeneratedSensorConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="131,276,339,332"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1YamlGeneratedFile.html" title=" " alt="" coords="5,179,247,206"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="18,96,229,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="17,5,229,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1app_1_1PerceptionConfig.html" title=" " alt="" coords="275,172,425,213"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="253,96,450,123"/>
+</map>

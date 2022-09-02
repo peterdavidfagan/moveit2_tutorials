@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::SuperSRDFStep::rename" name="moveit_setup::srdf_setup::SuperSRDFStep::rename">
+<area shape="rect" id="node1" title="Renames an item and returns a pointer to the item." alt="" coords="256,5,429,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#abc1a9b5eeeff44e50b40a821e2f4e725" title="Get a pointer to an item with the given name, creating if necessary. If old_name is provided (and is ..." alt="" coords="5,13,208,54"/>
+</map>

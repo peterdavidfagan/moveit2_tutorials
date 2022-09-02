@@ -1,0 +1,8 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node1" title="Check that the clone function returns a equal profile." alt="" coords="5,93,60,120"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#ab02e26062bacb4d3e10037773b4ceb04" title="returns copy of current VelocityProfile object" alt="" coords="108,111,323,167"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#ab8735c0f5fddb7dddbf64a226fa09fe5" title="Profile with given acceleration/constant/deceleration durations. Each duration must obey the maximal ..." alt="" coords="371,45,585,101"/>
+<area shape="rect" id="node6" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a2cb90af21a840ba4d37c800bd0542c8b" title="Constructor." alt="" coords="371,125,585,181"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a7a814ecd5b06b7301b79711bdcf660ad" title="Duration." alt="" coords="633,5,848,61"/>
+<area shape="rect" id="node5" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a38aa2d9c190b97ab94d185a20f3b6630" title="compute the fastest profile Algorithm:" alt="" coords="633,85,848,141"/>
+</map>

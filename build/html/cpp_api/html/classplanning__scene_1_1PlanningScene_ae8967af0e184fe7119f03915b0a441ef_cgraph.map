@@ -1,0 +1,6 @@
+<map id="planning_scene::PlanningScene::distanceToCollisionUnpadded" name="planning_scene::PlanningScene::distanceToCollisionUnpadded">
+<area shape="rect" id="node1" title="The distance between the robot model at state robot_state to the nearest collision (ignoring self&#45;col..." alt="" coords="5,39,265,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#afa1f72a766bdf75d81f4404058322576" title="Update the transforms for the collision bodies. This call is needed before calling collision checking..." alt="" coords="313,39,549,80"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#aa6dbe9f994aca22adf80add175d10681" title="Get all the link models that descend from this joint, in the kinematic tree." alt="" coords="597,5,800,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="607,71,791,112"/>
+</map>

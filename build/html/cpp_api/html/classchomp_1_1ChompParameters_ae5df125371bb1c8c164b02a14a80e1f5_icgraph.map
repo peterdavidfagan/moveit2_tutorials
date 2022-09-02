@@ -1,0 +1,6 @@
+<map id="chomp::ChompParameters::setTrajectoryInitializationMethod" name="chomp::ChompParameters::setTrajectoryInitializationMethod">
+<area shape="rect" id="node1" title=" " alt="" coords="595,31,789,87"/>
+<area shape="rect" id="node2" href="$classchomp_1_1OptimizerAdapter.html#adb4bdb65470b5d5cefb55a5a1f30b868" title="Initialize parameters using the passed Node and parameter namespace. If no initialization is needed,..." alt="" coords="329,5,518,47"/>
+<area shape="rect" id="node3" href="$classchomp__interface_1_1CHOMPInterface.html#aee42856afcc2c572b3224b262a357f36" title="Configure everything using the param server." alt="" coords="300,71,547,112"/>
+<area shape="rect" id="node4" href="$classchomp__interface_1_1CHOMPInterface.html#a97c8d0b07db72b39bd616eff48170b61" title=" " alt="" coords="5,71,252,112"/>
+</map>

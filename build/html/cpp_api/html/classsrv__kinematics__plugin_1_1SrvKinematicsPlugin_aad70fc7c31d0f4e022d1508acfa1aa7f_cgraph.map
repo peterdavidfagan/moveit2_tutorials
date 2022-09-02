@@ -1,0 +1,13 @@
+<map id="srv_kinematics_plugin::SrvKinematicsPlugin::initialize" name="srv_kinematics_plugin::SrvKinematicsPlugin::initialize">
+<area shape="rect" id="node1" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="5,259,173,315"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a14fb89fcb1b1d7297b5ddd3d063c715f" title="Get the active joints in this group (that have controllable DOF). This does not include mimic joints." alt="" coords="221,5,428,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a53abffa94698487408ed29892a5cea20" title="Get the names of the joints in this group. These are the names of the joints returned by getJointMode..." alt="" coords="222,71,427,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5c96362127bca0b1263983def71cf86a" title="Get all the joints in this group (including fixed and mimic joints)." alt="" coords="234,136,415,177"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModelGroup.html#ab136f94a385f74db2880055aee5d4afa" title="Get the mimic joints that are part of this group." alt="" coords="221,201,428,243"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="234,267,415,308"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1JointModelGroup.html#aaaeee5ac20a07f6d5c1fe43a892f005a" title="Get the names of the variables that make up the joints included in this group. The number of returned..." alt="" coords="230,332,419,373"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1JointModelGroup.html#a8c1668a6ef27e60f1bff7d0c19282c00" title="Check if a link is part of this group." alt="" coords="234,397,415,439"/>
+<area shape="rect" id="node9" href="$classkinematics_1_1KinematicsBase.html#a80e4cf7d0b3a922494a19b53d46daf38" title="Enables kinematics plugins access to parameters that are defined for the private namespace and inside..." alt="" coords="221,463,428,504"/>
+<area shape="rect" id="node10" href="$classkinematics_1_1KinematicsBase.html#a2c8ecd6268c1aef0fbcfde3b7a42809e" title=" " alt="" coords="221,528,428,569"/>
+<area shape="rect" id="node11" href="$classkinematics_1_1KinematicsBase.html#a1ab7f68c8d7d694f9dd35bd14a150c0a" title="Set the search discretization value for all the redundant joints." alt="" coords="476,528,683,569"/>
+</map>

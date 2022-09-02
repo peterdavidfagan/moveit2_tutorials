@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::dropAccelerations" name="moveit::core::RobotState::dropAccelerations">
+<area shape="rect" id="node1" title="Remove accelerations from this state (this differs from setting them to zero)" alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a7edbdff28a1333edc0429b98744ab4ca" title="Reduce RobotState to kinematic information (remove velocity, acceleration and effort,..." alt="" coords="5,5,189,47"/>
+</map>

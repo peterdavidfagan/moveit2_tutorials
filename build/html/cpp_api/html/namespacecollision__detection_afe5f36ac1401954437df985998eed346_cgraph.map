@@ -1,0 +1,11 @@
+<map id="collision_detection::distanceCallback" name="collision_detection::distanceCallback">
+<area shape="rect" id="node1" title="Callback function used by the FCLManager used for each pair of collision objects to calculate collisi..." alt="" coords="5,189,149,231"/>
+<area shape="rect" id="node2" href="$namespacepr2__arm__kinematics.html#a24f684af4bcce4a6d0c945aa27d04550" title=" " alt="" coords="221,5,376,47"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a74486fe3a716208c2c271e81e99e2b1f" title="Get the allowed collision predicate between two elements. Return true if a predicate for entry is inc..." alt="" coords="209,71,389,127"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1AttachedBody.html#a88861172146386df7197f08eee50b1a7" title="Get the model of the link this body is attached to." alt="" coords="197,152,400,193"/>
+<area shape="rect" id="node7" href="$structcollision__detection_1_1CollisionGeometryData.html#a697b8cf0334a95ff367db32dda1e7b00" title="Returns the name which is saved in the member pointed to in ptr." alt="" coords="207,218,390,274"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1AttachedBody.html#a1added4f50dd7c18b8559e160885cbf1" title="Get the links that the attached body is allowed to touch." alt="" coords="197,299,400,340"/>
+<area shape="rect" id="node9" href="$structcollision__detection_1_1CollisionGeometryData.html#a5232c9936cb4ed296dfaa3b4d58aea45" title="Check if two CollisionGeometryData objects point to the same source object." alt="" coords="207,365,390,421"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#ac3b12c32bd2a5cf08465a61110b83f4e" title="Get the type of the allowed collision to be considered by default for an element. Return true if a de..." alt="" coords="448,31,628,87"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a4d1a3130123f8c4c3fc25d973af9a5c6" title="Get the type of the allowed collision between two elements. Return true if the entry is included in t..." alt="" coords="448,111,628,167"/>
+</map>

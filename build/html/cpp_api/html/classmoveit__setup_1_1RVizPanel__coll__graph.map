@@ -1,0 +1,7 @@
+<map id="moveit_setup::RVizPanel" name="moveit_setup::RVizPanel">
+<area shape="rect" id="node1" title=" " alt="" coords="131,185,313,212"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,89,84,115"/>
+<area shape="rect" id="node3" title=" " alt="" coords="109,81,335,123"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html" title=" " alt="" coords="360,81,511,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="352,5,519,32"/>
+</map>

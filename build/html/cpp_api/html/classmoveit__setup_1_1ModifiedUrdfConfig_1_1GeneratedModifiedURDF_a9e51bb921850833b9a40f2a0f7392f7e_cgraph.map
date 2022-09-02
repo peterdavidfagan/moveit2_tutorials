@@ -1,0 +1,5 @@
+<map id="moveit_setup::ModifiedUrdfConfig::GeneratedModifiedURDF::hasChanges" name="moveit_setup::ModifiedUrdfConfig::GeneratedModifiedURDF::hasChanges">
+<area shape="rect" id="node1" title="Returns true if this file will have changes when it is written to file." alt="" coords="5,5,237,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1ModifiedUrdfConfig.html#aca4eec3e64e9d8be6264cb09eb272c4f" title="Returns true if this or any of the included xacros have changes, requiring the URDF to be regenerated..." alt="" coords="285,13,488,54"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1ModifiedUrdfConfig.html#abe2544d865d69c592993f98668c75a08" title=" " alt="" coords="536,13,748,54"/>
+</map>

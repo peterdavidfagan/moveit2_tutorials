@@ -1,0 +1,6 @@
+<map id="moveit_setup::DoubleListWidget::setSelected" name="moveit_setup::DoubleListWidget::setSelected">
+<area shape="rect" id="node1" title="Set the right box." alt="" coords="283,93,471,134"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1PassiveJointsWidget.html#a0cb90052620de1486ca9621b50c8b1b3" title="Received when this widget is chosen from the navigation menu." alt="" coords="18,5,222,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1ControllersWidget.html#ad592df2830dd9b6d5d54b4035a7938fc" title=" " alt="" coords="5,85,235,141"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1controllers_1_1ControllersWidget.html#a4c949cd072d77dd8bfbe84f7c33e6de1" title=" " alt="" coords="11,165,229,221"/>
+</map>

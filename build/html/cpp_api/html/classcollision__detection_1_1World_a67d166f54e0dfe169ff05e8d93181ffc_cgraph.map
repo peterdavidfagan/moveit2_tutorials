@@ -1,0 +1,4 @@
+<map id="collision_detection::World::moveObject" name="collision_detection::World::moveObject">
+<area shape="rect" id="node1" title="Move the object pose (thus moving all shapes and subframes in the object) according to the given tran..." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1World.html#a7c9b1d33dc58d6c7e79ef3281c6ecf6f" title="Set the pose of an object. The pose is specified in the world frame." alt="" coords="208,5,376,47"/>
+</map>

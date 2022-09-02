@@ -1,0 +1,10 @@
+<map id="kinematic_constraints::KinematicConstraint::getType" name="kinematic_constraints::KinematicConstraint::getType">
+<area shape="rect" id="node1" title="Get the type of constraint." alt="" coords="341,111,508,167"/>
+<area shape="rect" id="node2" href="$classkinematic__constraints_1_1JointConstraint.html#a2de99202d4ea694a169219744a11ff2e" title="Check if two joint constraints are the same." alt="" coords="123,5,293,47"/>
+<area shape="rect" id="node4" href="$classkinematic__constraints_1_1OrientationConstraint.html#a25993b5d141ca35b14fefccc45f3f6fa" title="Check if two orientation constraints are the same." alt="" coords="123,71,293,127"/>
+<area shape="rect" id="node6" href="$classkinematic__constraints_1_1PositionConstraint.html#a9424f8329ceddd245edeb3afe8f13545" title="Check if two constraints are the same. For position constraints this means that:" alt="" coords="125,151,291,207"/>
+<area shape="rect" id="node8" href="$classkinematic__constraints_1_1VisibilityConstraint.html#a3bc4822d35ba3804da9c4eb6a87eebdf" title="Check if two constraints are the same." alt="" coords="125,231,291,287"/>
+<area shape="rect" id="node3" href="$test__constraints_8cpp.html#a283d383dfd000b3ff6be63165d7f314e" title=" " alt="" coords="5,13,75,39"/>
+<area shape="rect" id="node5" href="$test__constraints_8cpp.html#a0b1f5a3d6803a1b4f1057a54d3356231" title=" " alt="" coords="5,86,75,113"/>
+<area shape="rect" id="node7" href="$test__constraints_8cpp.html#a4a6a554093b237de041635f28692d4eb" title=" " alt="" coords="5,166,75,193"/>
+</map>

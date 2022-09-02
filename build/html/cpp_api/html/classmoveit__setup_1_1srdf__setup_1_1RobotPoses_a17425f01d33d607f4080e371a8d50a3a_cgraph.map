@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::RobotPoses::setToCurrentValues" name="moveit_setup::srdf_setup::RobotPoses::setToCurrentValues">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,163,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1RobotPoses.html#a658529412f484381201370f106023ecd" title="Returns a vector of joint models for the given group name." alt="" coords="211,5,375,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5c96362127bca0b1263983def71cf86a" title="Get all the joints in this group (including fixed and mimic joints)." alt="" coords="423,13,604,54"/>
+</map>

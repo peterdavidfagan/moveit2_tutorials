@@ -1,0 +1,11 @@
+<map id="moveit_setup::assistant::SetupAssistantWidget::SetupAssistantWidget" name="moveit_setup::assistant::SetupAssistantWidget::SetupAssistantWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,236,184,292"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup.html#a399f04e10443cb224ab25be0e87f387e" title="Return a path for the given package&#39;s share folder." alt="" coords="233,72,439,99"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1assistant_1_1SetupAssistantWidget.html#a2aa8b8dc125b3e0966deef3784bea121" title=" " alt="" coords="247,173,425,229"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1assistant_1_1NavigationWidget.html#af23f49ecd99c5e284c736a850508a902" title=" " alt="" coords="767,214,993,255"/>
+<area shape="rect" id="node9" href="$classmoveit__setup_1_1assistant_1_1NavigationWidget.html#a0f86379eeac769d4dc9d39bb12fa0cde" title=" " alt="" coords="232,334,440,375"/>
+<area shape="rect" id="node3" href="$namespacecreate__ikfast__moveit__plugin.html#a0c9b4e891e3b0ed1d9e9da320cee114b" title=" " alt="" coords="504,5,703,61"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1assistant_1_1NavigationWidget.html#a7050950b63e614115e16ed2309939cb2" title=" " alt="" coords="494,86,713,127"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1assistant_1_1NavigationWidget.html#a25deaf20531067599bfbc3f48ea104ea" title=" " alt="" coords="488,151,719,193"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1RVizPanel.html#a3a6c0fc34ca09a858a81d5e72b76a165" title=" " alt="" coords="512,217,695,258"/>
+</map>

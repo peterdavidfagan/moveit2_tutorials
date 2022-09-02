@@ -1,0 +1,5 @@
+<map id="planning_scene::PlanningScene::removeAllCollisionObjects" name="planning_scene::PlanningScene::removeAllCollisionObjects">
+<area shape="rect" id="node1" title="Clear all collision objects in planning scene." alt="" coords="5,39,247,80"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#af25fb475284fa13842c6d0d0adeada78" title=" " alt="" coords="295,5,489,47"/>
+<area shape="rect" id="node3" href="$classplanning__scene_1_1PlanningScene.html#affd2a56defff437978f45848138b0a48" title=" " alt="" coords="297,71,487,112"/>
+</map>

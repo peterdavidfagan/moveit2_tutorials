@@ -1,0 +1,6 @@
+<map id="collision_detection_bullet::getAverageSupport" name="collision_detection_bullet::getAverageSupport">
+<area shape="rect" id="node1" title="Computes the local supporting vertex of a convex shape." alt="" coords="875,13,1073,54"/>
+<area shape="rect" id="node2" href="$namespacecollision__detection__bullet.html#a8a3a224052093570ea26142873d7ed99" title=" " alt="" coords="619,13,827,54"/>
+<area shape="rect" id="node3" href="$structcollision__detection__bullet_1_1BroadphaseContactResultCallback.html#a0a716959f3c45d76fb4134a0c74f980b" title="This callback is used after btManifoldResult processed a collision result." alt="" coords="339,5,571,61"/>
+<area shape="rect" id="node4" href="$structcollision__detection__bullet_1_1TesseractBroadphaseBridgedManifoldResult.html#ab446c136eda493b76237857e41d8112b" title=" " alt="" coords="5,5,291,61"/>
+</map>

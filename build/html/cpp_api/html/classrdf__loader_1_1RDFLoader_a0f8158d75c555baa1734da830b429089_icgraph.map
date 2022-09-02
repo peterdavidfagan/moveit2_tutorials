@@ -1,0 +1,5 @@
+<map id="rdf_loader::RDFLoader::getSRDF" name="rdf_loader::RDFLoader::getSRDF">
+<area shape="rect" id="node1" title="Get the parsed SRDF model." alt="" coords="243,46,409,87"/>
+<area shape="rect" id="node2" href="$classkinematics__plugin__loader_1_1KinematicsPluginLoader.html#a5fbe986aeb678a96a3237b5e531ef75e" title="Get a function pointer that allocates and initializes a kinematics solver. If not previously called,..." alt="" coords="5,5,195,61"/>
+<area shape="rect" id="node3" href="$test__rdf__integration_8cpp.html#a3f8ce0e00865f9890e40a4a80533cd4c" title=" " alt="" coords="73,85,127,112"/>
+</map>

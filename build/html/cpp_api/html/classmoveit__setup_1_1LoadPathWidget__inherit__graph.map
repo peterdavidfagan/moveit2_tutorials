@@ -1,0 +1,5 @@
+<map id="moveit_setup::LoadPathWidget" name="moveit_setup::LoadPathWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,229,107"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1LoadPathArgsWidget.html" title="Extend LoadPathWidget with additional line edit for arguments." alt="" coords="14,155,221,196"/>
+<area shape="rect" id="node2" title=" " alt="" coords="81,5,154,32"/>
+</map>

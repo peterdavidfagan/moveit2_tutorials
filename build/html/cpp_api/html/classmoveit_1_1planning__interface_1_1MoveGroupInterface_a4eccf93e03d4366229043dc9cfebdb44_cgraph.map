@@ -1,0 +1,6 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getCurrentJointValues" name="moveit::planning_interface::MoveGroupInterface::getCurrentJointValues">
+<area shape="rect" id="node1" title="Get the current joint values for the joints planned for by this instance (see getJoints())" alt="" coords="5,43,245,99"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a559c3c9af128d75d878d09fce60be941" title=" " alt="" coords="293,5,540,61"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#aa21afe5c6101521545694fe85156b156" title="Get the name of the group this instance operates on." alt="" coords="301,86,532,127"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a2a047c327cedaf904eb8f13f5a43d9f9" title=" " alt="" coords="588,79,835,135"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="moveit_setup_assistant/moveit_setup_controllers/include/moveit_setup_controllers/included_xacro_config.hpp" name="moveit_setup_assistant/moveit_setup_controllers/include/moveit_setup_controllers/included_xacro_config.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="769,5,1011,76"/>
+<area shape="rect" id="node2" href="$modified__urdf__config_8hpp.html" title=" " alt="" coords="769,124,1011,195"/>
+<area shape="rect" id="node3" href="$control__xacro__config_8hpp.html" title=" " alt="" coords="643,243,886,313"/>
+<area shape="rect" id="node14" href="$modified__urdf__config_8cpp.html" title=" " alt="" coords="911,250,1123,306"/>
+<area shape="rect" id="node4" href="$ros2__controllers__config_8hpp.html" title=" " alt="" coords="306,361,549,432"/>
+<area shape="rect" id="node9" href="$urdf__modifications_8hpp.html" title=" " alt="" coords="643,361,886,432"/>
+<area shape="rect" id="node13" href="$control__xacro__config_8cpp.html" title=" " alt="" coords="910,369,1121,425"/>
+<area shape="rect" id="node5" href="$ros2__controllers_8hpp.html" title=" " alt="" coords="75,480,318,551"/>
+<area shape="rect" id="node7" href="$test__controllers_8cpp.html" title=" " alt="" coords="260,599,451,655"/>
+<area shape="rect" id="node8" href="$ros2__controllers__config_8cpp.html" title=" " alt="" coords="393,487,619,543"/>
+<area shape="rect" id="node6" href="$ros2__controllers__widget_8cpp.html" title=" " alt="" coords="5,599,236,655"/>
+<area shape="rect" id="node10" href="$urdf__modifications__widget_8hpp.html" title=" " alt="" coords="643,480,886,551"/>
+<area shape="rect" id="node12" href="$urdf__modifications_8cpp.html" title=" " alt="" coords="910,487,1107,543"/>
+<area shape="rect" id="node11" href="$urdf__modifications__widget_8cpp.html" title=" " alt="" coords="641,599,889,655"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="distance_field::PropagationDistanceField::PropagationDistanceField" name="distance_field::PropagationDistanceField::PropagationDistanceField">
+<area shape="rect" id="node1" title="Constructor based on an OcTree and bounding box information. A distance field will be constructed wit..." alt="" coords="5,72,289,113"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a5a5de29eff3bd1764e15abda23946cc1" title="Adds an octree to the distance field. Cells that are occupied in the octree that lie within the voxel..." alt="" coords="337,72,515,113"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#a625b0a940086c822c703172a4f01e67c" title="Add a set of obstacle points to the distance field, updating distance values accordingly...." alt="" coords="563,39,740,80"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#ac76beae97cadc2d47fe5d9846fcb9ab4" title="Get the points associated with an octree." alt="" coords="563,104,740,145"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#a0014563f9f1c74ccf60d1d20a3af2b78" title="Gets the number of cells along the X axis." alt="" coords="788,5,965,47"/>
+<area shape="rect" id="node6" href="$classdistance__field_1_1DistanceField.html#ae57048dd1fc4f867c88db969f0d41593" title="Gets the number of cells along the Y axis." alt="" coords="788,71,965,112"/>
+<area shape="rect" id="node7" href="$classdistance__field_1_1DistanceField.html#af51959bcd7efdb18f60207075d09b964" title="Gets the number of cells along the Z axis." alt="" coords="788,136,965,177"/>
+<area shape="rect" id="node8" href="$classdistance__field_1_1DistanceField.html#ad78c36666019889271444f912edef4c2" title="Converts from an set of integer indices to a world location given the origin and resolution parameter..." alt="" coords="788,201,965,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ompl_interface::PlanningContextManager::getPlanningContext" name="ompl_interface::PlanningContextManager::getPlanningContext">
+<area shape="rect" id="node1" title="Returns a planning context to OMPLInterface, which in turn passes it to OMPLPlannerManager." alt="" coords="5,13,272,54"/>
+<area shape="rect" id="node2" href="$classompl__interface_1_1PlanningContextManager.html#a1f8f067d6fea3352b8fcc5aeb60e0e20" title=" " alt="" coords="320,5,552,61"/>
+</map>

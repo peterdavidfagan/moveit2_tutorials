@@ -1,0 +1,4 @@
+<map id="moveit::core::RobotState::clearAttachedBodies" name="moveit::core::RobotState::clearAttachedBodies">
+<area shape="rect" id="node1" title="Clear all attached bodies. This calls delete on the AttachedBody instances, if needed." alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a2ad6bc5b3cbc98fddb44636a6de70734" title=" " alt="" coords="5,5,189,47"/>
+</map>

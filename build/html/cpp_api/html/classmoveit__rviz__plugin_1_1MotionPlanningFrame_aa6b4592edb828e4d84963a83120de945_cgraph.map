@@ -1,0 +1,18 @@
+<map id="moveit_rviz_plugin::MotionPlanningFrame::constructPlanningRequest" name="moveit_rviz_plugin::MotionPlanningFrame::constructPlanningRequest">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,204,239"/>
+<area shape="rect" id="node2" href="$namespacekinematic__constraints.html#a449c87b5d209ba3b9a62d73b4278da77" title="Generates a constraint message intended to be used as a goal constraint for a joint group...." alt="" coords="252,37,447,79"/>
+<area shape="rect" id="node6" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a1b8a5ed8a52c02be0158d4fca7cce701" title=" " alt="" coords="252,103,447,159"/>
+<area shape="rect" id="node7" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#afc14b220fd9f97a0691d054791e830ff" title=" " alt="" coords="259,183,439,239"/>
+<area shape="rect" id="node8" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a9fb7c74cc0554704dedb81ca155bd53a" title=" " alt="" coords="259,263,439,319"/>
+<area shape="rect" id="node9" href="$namespacemoveit_1_1core.html#a0aafbf7242f36d6efd7bd73ecee400e8" title="Convert a MoveIt robot state to a robot state message." alt="" coords="259,344,439,385"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a5902793ed7f64dfc073e37c91154c497" title="For a given group, copy the position values of the variables that make up the group into another loca..." alt="" coords="514,5,702,47"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModelGroup.html#aaaeee5ac20a07f6d5c1fe43a892f005a" title="Get the names of the variables that make up the joints included in this group. The number of returned..." alt="" coords="513,71,703,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModelGroup.html#aa84a6083c84b6efcba6b84c18e9cec15" title="Get the number of variables that describe this joint group. This includes variables necessary for mim..." alt="" coords="771,5,952,47"/>
+<area shape="rect" id="node10" href="$namespacemoveit_1_1core.html#a6fc54b52fbf87b115d32a4fe475b80fd" title="Convert AttachedBodies to AttachedCollisionObjects." alt="" coords="495,279,721,320"/>
+<area shape="rect" id="node11" href="$classmoveit_1_1core_1_1RobotState.html#a449158e2e8aeba947bbc1a4473400ff7" title="Get all bodies attached to the model corresponding to this state." alt="" coords="516,344,700,385"/>
+<area shape="rect" id="node12" href="$namespacemoveit_1_1core.html#abadb5ddc3cb497b1704dff5c9c3144ed" title="Convert a MoveIt robot state to a joint state message." alt="" coords="518,409,698,451"/>
+<area shape="rect" id="node13" href="$classmoveit_1_1core_1_1RobotState.html#a5ecd3e71d7283f30be300c83cfd84041" title="Get the robot model this state is constructed for." alt="" coords="769,311,953,352"/>
+<area shape="rect" id="node14" href="$classmoveit_1_1core_1_1RobotState.html#aae57a83ed9ad7c34982b6a943341026c" title="Get the position of a particular variable. An exception is thrown if the variable is not known." alt="" coords="769,376,953,417"/>
+<area shape="rect" id="node15" href="$classmoveit_1_1core_1_1RobotState.html#a4445bddc825e02d3ab8347b7ea948371" title="Get the velocity of a particular variable. An exception is thrown if the variable is not known." alt="" coords="769,441,953,483"/>
+<area shape="rect" id="node16" href="$classmoveit_1_1core_1_1RobotState.html#a3c363244052c265d92180ee2fd3a5eb9" title="By default, if velocities are never set or initialized, the state remembers that there are no velocit..." alt="" coords="769,507,953,548"/>
+</map>

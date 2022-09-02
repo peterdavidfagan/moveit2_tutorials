@@ -1,0 +1,7 @@
+<map id="moveit_cpp::PlanningComponent::setGoal" name="moveit_cpp::PlanningComponent::setGoal">
+<area shape="rect" id="node1" title="Set the goal constraints generated from a named target state." alt="" coords="5,71,243,112"/>
+<area shape="rect" id="node2" href="$classmoveit__cpp_1_1PlanningComponent.html#aee11caa5e5ab9e8c1e1e52e067b1729c" title="Get the names of the named robot states available as targets." alt="" coords="291,5,528,47"/>
+<area shape="rect" id="node4" href="$classmoveit__cpp_1_1PlanningComponent.html#a4a3998f0a28eaac720bc845c81940fe2" title="Set the goal constraints used for planning." alt="" coords="291,71,528,112"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#aba31c6f758e3dabd32c1acbd069e189e" title="Set all joints to their default positions. The default position is 0, or if that is not within bounds..." alt="" coords="317,136,501,177"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#acd1810d6d30c941a804301b7278ab146" title="Get the names of the known default states (as specified in the SRDF)" alt="" coords="576,5,795,47"/>
+</map>

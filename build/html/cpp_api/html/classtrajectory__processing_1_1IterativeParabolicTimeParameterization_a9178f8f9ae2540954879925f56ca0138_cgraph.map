@@ -1,0 +1,8 @@
+<map id="trajectory_processing::IterativeParabolicTimeParameterization::computeTimeStamps" name="trajectory_processing::IterativeParabolicTimeParameterization::computeTimeStamps">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,293,153"/>
+<area shape="rect" id="node2" href="$classrobot__trajectory_1_1RobotTrajectory.html#afdd5cc4e84e484af2dc6ea337f62719e" title=" " alt="" coords="341,5,576,47"/>
+<area shape="rect" id="node3" href="$classrobot__trajectory_1_1RobotTrajectory.html#a6eaef50c3127c83dbc5ca393376435b1" title=" " alt="" coords="341,71,576,112"/>
+<area shape="rect" id="node4" href="$classrobot__trajectory_1_1RobotTrajectory.html#ababf812aa287c586d9ad0b190e1d2482" title=" " alt="" coords="341,136,576,177"/>
+<area shape="rect" id="node5" href="$classrobot__trajectory_1_1RobotTrajectory.html#a7804317b96eb6c13639839b1276ac04c" title=" " alt="" coords="341,201,576,243"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModelGroup.html#a53c98940d80e6dd37cbe787f86d4155d" title="Get the array of continuous joints used in this group (may include mimic joints)." alt="" coords="624,201,863,243"/>
+</map>

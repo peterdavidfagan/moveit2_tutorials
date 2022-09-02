@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::ControllersWidget::loadToControllersTree" name="moveit_setup::controllers::ControllersWidget::loadToControllersTree">
+<area shape="rect" id="node1" title=" " alt="" coords="611,5,905,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1controllers_1_1ControllersWidget.html#ad99c6560d683347c4c4d243b305d96bb" title=" " alt="" coords="281,5,563,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1controllers_1_1ControllersWidget.html#a4f8885f081e433a2a0a945eb57dad52d" title="Received when this widget is chosen from the navigation menu." alt="" coords="5,5,233,47"/>
+</map>

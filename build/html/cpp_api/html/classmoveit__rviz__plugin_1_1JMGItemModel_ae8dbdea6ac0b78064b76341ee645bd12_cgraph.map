@@ -1,0 +1,10 @@
+<map id="moveit_rviz_plugin::JMGItemModel::setData" name="moveit_rviz_plugin::JMGItemModel::setData">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,191,243"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModel.html#ac997d44f51ca03d13f0d54cf699e0662" title="Force the specified values to be inside bounds and normalized. Quaternions are normalized,..." alt="" coords="249,5,431,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModel.html#a749ce652067b82e5ec5b3ffe3baca733" title="Get the index of this joint&#39;s first variable within the full robot state." alt="" coords="249,71,431,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a5ecd3e71d7283f30be300c83cfd84041" title="Get the robot model this state is constructed for." alt="" coords="248,136,432,177"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModel.html#add20b6d4e10df54752f2c9ba61d8ee0a" title="Get the type of joint." alt="" coords="249,201,431,243"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModelGroup.html#ab0d0e29514820e4ccb2647456ba5cc25" title="Get the index locations in the complete robot state for all the variables in this group." alt="" coords="239,267,441,308"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1RobotState.html#a72e5062115857bc793f0ba6be6aca059" title="Get a raw pointer to the positions of the variables stored in this state. Use carefully...." alt="" coords="248,332,432,373"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1RobotState.html#a54879052daa602ea0319cbe3ded82ff3" title="Set the position of a single variable. An exception is thrown if the variable name is not known." alt="" coords="248,397,432,439"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="collision_detection::CollisionEnvBullet::addAttachedOjects" name="collision_detection::CollisionEnvBullet::addAttachedOjects">
+<area shape="rect" id="node1" title="All of the attached objects in the robot state are wrapped into bullet collision objects." alt="" coords="497,85,651,141"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvBullet.html#a7d61a67dcd95b0e223cf483643727cd3" title=" " alt="" coords="230,5,435,61"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1CollisionEnvBullet.html#a67f5817d78fd75717100c6cd019e8310" title=" " alt="" coords="216,85,449,141"/>
+<area shape="rect" id="node6" href="$classcollision__detection_1_1CollisionEnvBullet.html#a9555a43d4e99787690858d4ab95b5812" title="Bundles the different checkSelfCollision functions into a single function." alt="" coords="237,165,429,221"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnvBullet.html#a89db36a1da5227a92674d92eaad90672" title="Check whether the robot model is in collision with the world. Any collisions between a robot link and..." alt="" coords="5,5,168,61"/>
+<area shape="rect" id="node5" href="$classcollision__detection_1_1CollisionEnvBullet.html#a0cece70f739e32fbf4ad8bf5c6b7a1a4" title="Check whether the robot model is in collision with the world in a continuous manner (between two robo..." alt="" coords="5,85,168,141"/>
+<area shape="rect" id="node7" href="$classcollision__detection_1_1CollisionEnvBullet.html#a92d5eb356e4ce32a736956cf8b2b3cac" title="Check for robot self collision. Any collision between any pair of links is checked for,..." alt="" coords="12,165,161,221"/>
+</map>

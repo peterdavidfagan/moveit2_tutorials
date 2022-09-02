@@ -1,0 +1,4 @@
+<map id="moveit::core::AttachedBody::getAttachedLinkName" name="moveit::core::AttachedBody::getAttachedLinkName">
+<area shape="rect" id="node1" title="Get the name of the link this body is attached to." alt="" coords="5,5,208,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1LinkModel.html#a99ed1c1c371bdb1b007484fd399e435c" title="The name of this link." alt="" coords="256,5,435,47"/>
+</map>

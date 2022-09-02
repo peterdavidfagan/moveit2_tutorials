@@ -1,0 +1,5 @@
+<map id="collision_detection::CollisionEnvFCL::distanceSelf" name="collision_detection::CollisionEnvFCL::distanceSelf">
+<area shape="rect" id="node1" title="The distance to self&#45;collision given the robot is at state state." alt="" coords="512,13,735,54"/>
+<area shape="rect" id="node2" href="$classcollision__detection_1_1CollisionEnvFCL.html#aa173d1e6f03faa6775438f0a5ba47717" title="Bundles the different checkSelfCollision functions into a single function." alt="" coords="259,5,464,61"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnvFCL.html#a09f4209d8564dd75c4f6207f39f5e528" title="Check for robot self collision. Any collision between any pair of links is checked for,..." alt="" coords="5,5,211,61"/>
+</map>

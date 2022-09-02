@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::RobotPoses::loadAllowedCollisionMatrix" name="moveit_setup::srdf_setup::RobotPoses::loadAllowedCollisionMatrix">
+<area shape="rect" id="node1" title="Load the allowed collision matrix from the SRDF&#39;s list of link pairs." alt="" coords="248,5,448,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1RobotPosesWidget.html#a3f3c50f93388a799f9b517abc21f593d" title="Received when this widget is chosen from the navigation menu." alt="" coords="5,5,200,61"/>
+</map>

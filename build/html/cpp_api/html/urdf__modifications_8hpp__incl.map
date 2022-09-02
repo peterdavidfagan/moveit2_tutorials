@@ -1,0 +1,52 @@
+<map id="moveit_setup_assistant/moveit_setup_controllers/include/moveit_setup_controllers/urdf_modifications.hpp" name="moveit_setup_assistant/moveit_setup_controllers/include/moveit_setup_controllers/urdf_modifications.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="88,5,331,76"/>
+<area shape="rect" id="node2" href="$setup__step_8hpp.html" title=" " alt="" coords="5,481,195,523"/>
+<area shape="rect" id="node17" href="$control__xacro__config_8hpp.html" title=" " alt="" coords="266,124,454,165"/>
+<area shape="rect" id="node3" title=" " alt="" coords="397,935,523,962"/>
+<area shape="rect" id="node4" href="$data__warehouse_8hpp.html" title=" " alt="" coords="299,571,488,612"/>
+<area shape="rect" id="node5" href="$config_8hpp.html" title=" " alt="" coords="713,660,903,701"/>
+<area shape="rect" id="node7" href="$class__forward_8h.html" title=" " alt="" coords="1183,928,1340,969"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1223,1107,1300,1133"/>
+<area shape="rect" id="node15" title=" " alt="" coords="447,667,638,694"/>
+<area shape="rect" id="node16" title=" " alt="" coords="247,667,371,694"/>
+<area shape="rect" id="node6" href="$generated__file_8hpp.html" title=" " alt="" coords="643,839,832,880"/>
+<area shape="rect" id="node12" href="$templates_8hpp.html" title=" " alt="" coords="497,749,687,791"/>
+<area shape="rect" id="node13" title=" " alt="" coords="762,757,894,783"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1367,846,1409,873"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1061,935,1120,962"/>
+<area shape="rect" id="node11" title=" " alt="" coords="880,935,960,962"/>
+<area shape="rect" id="node8" href="$declare__ptr_8h.html" title=" " alt="" coords="1175,1017,1347,1059"/>
+<area shape="rect" id="node18" href="$modified__urdf__config_8hpp.html" title=" " alt="" coords="265,392,455,433"/>
+<area shape="rect" id="node22" href="$srdf__config_8hpp.html" title=" " alt="" coords="819,213,1008,255"/>
+<area shape="rect" id="node19" href="$included__xacro__config_8hpp.html" title=" " alt="" coords="294,481,493,523"/>
+<area shape="rect" id="node20" href="$urdf__config_8hpp.html" title=" " alt="" coords="725,571,915,612"/>
+<area shape="rect" id="node21" title=" " alt="" coords="927,667,1033,694"/>
+<area shape="rect" id="node23" href="$robot__model_8h.html" title=" " alt="" coords="2057,660,2212,701"/>
+<area shape="rect" id="node36" href="$moveit__core_2planning__scene_2include_2moveit_2planning__scene_2planning__scene_8h.html" title=" " alt="" coords="2380,303,2553,344"/>
+<area shape="rect" id="node50" title=" " alt="" coords="714,310,875,337"/>
+<area shape="rect" id="node24" href="$exceptions_8h.html" title=" " alt="" coords="2550,757,2781,783"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1855,846,1988,873"/>
+<area shape="rect" id="node26" href="$joint__model__group_8h.html" title=" " alt="" coords="1959,749,2118,791"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2531,935,2672,962"/>
+<area shape="rect" id="node30" href="$fixed__joint__model_8h.html" title=" " alt="" coords="2805,749,2960,791"/>
+<area shape="rect" id="node31" href="$floating__joint__model_8h.html" title=" " alt="" coords="1527,749,1697,791"/>
+<area shape="rect" id="node32" href="$planar__joint__model_8h.html" title=" " alt="" coords="1721,749,1884,791"/>
+<area shape="rect" id="node33" href="$revolute__joint__model_8h.html" title=" " alt="" coords="2143,749,2319,791"/>
+<area shape="rect" id="node34" href="$prismatic__joint__model_8h.html" title=" " alt="" coords="2343,749,2526,791"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1274,757,1401,783"/>
+<area shape="rect" id="node27" href="$kinematics__base_8h.html" title=" " alt="" coords="2063,839,2246,880"/>
+<area shape="rect" id="node29" title=" " alt="" coords="3157,935,3243,962"/>
+<area shape="rect" id="node37" href="$moveit__core_2robot__state_2include_2moveit_2robot__state_2robot__state_8h.html" title=" " alt="" coords="1979,571,2125,612"/>
+<area shape="rect" id="node38" href="$transforms_8h.html" title=" " alt="" coords="1541,667,1771,694"/>
+<area shape="rect" id="node39" href="$collision__detector__allocator_8h.html" title=" " alt="" coords="1041,392,1257,433"/>
+<area shape="rect" id="node40" href="$collision__env_8h.html" title=" " alt="" coords="1052,481,1247,523"/>
+<area shape="rect" id="node41" href="$world__diff_8h.html" title=" " alt="" coords="3019,571,3213,612"/>
+<area shape="rect" id="node42" href="$kinematic__constraint_8h.html" title=" " alt="" coords="1432,392,1648,433"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1271,489,1518,515"/>
+<area shape="rect" id="node44" href="$robot__trajectory_8h.html" title=" " alt="" coords="2616,481,2792,523"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2589,571,2769,612"/>
+<area shape="rect" id="node46" title=" " alt="" coords="1672,392,1875,433"/>
+<area shape="rect" id="node47" title=" " alt="" coords="1899,392,2101,433"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2126,392,2341,433"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2365,399,2429,426"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="distance_field::PropagationDistanceField::getXNumCells" name="distance_field::PropagationDistanceField::getXNumCells">
+<area shape="rect" id="node1" title="Gets the number of cells along the X axis." alt="" coords="612,159,823,200"/>
+<area shape="rect" id="node2" href="$test__distance__field_8cpp.html#a5aae4127e3013a1426bb6a579e697569" title=" " alt="" coords="349,5,552,47"/>
+<area shape="rect" id="node3" href="$test__distance__field_8cpp.html#ac4b804d42ddeee2cdda9c1f51e7d820a" title=" " alt="" coords="341,71,560,112"/>
+<area shape="rect" id="node4" href="$test__distance__field_8cpp.html#afd0f29b02c8094367f11e26beebc5995" title=" " alt="" coords="375,137,526,163"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1PropagationDistanceField.html#a219691c70a530605e133e1b2b9de3fcf" title="Reads, parameterizes, and populates the distance field based on the supplied stream." alt="" coords="337,188,564,229"/>
+<area shape="rect" id="node7" href="$classdistance__field_1_1PropagationDistanceField.html#a0f3ecc400532819db91daf7c0efb09ac" title="Resets the entire distance field to max_distance for positive values and zero for negative values." alt="" coords="351,253,550,295"/>
+<area shape="rect" id="node8" href="$classdistance__field_1_1PropagationDistanceField.html#a8c612812cf5abf0908ce1bf8ded280d0" title="Writes the contents of the distance field to the supplied stream." alt="" coords="345,319,557,360"/>
+<area shape="rect" id="node6" href="$classdistance__field_1_1PropagationDistanceField.html#a3f39d72f90b4725d1efb65820806a28d" title="Constructor that takes an istream and reads the contents of a saved distance field,..." alt="" coords="5,188,289,229"/>
+</map>

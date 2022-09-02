@@ -1,0 +1,5 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getNamedTargets" name="moveit::planning_interface::MoveGroupInterface::getNamedTargets">
+<area shape="rect" id="node1" title="Get the names of the named robot states available as targets, both either remembered states or defaul..." alt="" coords="5,43,292,84"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#acd1810d6d30c941a804301b7278ab146" title="Get the names of the known default states (as specified in the SRDF)" alt="" coords="354,5,573,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a85c033ed09c50bc557955b3b190548fc" title=" " alt="" coords="340,71,587,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveit::planning_interface::PlanningSceneInterface::applyAttachedCollisionObjects" name="moveit::planning_interface::PlanningSceneInterface::applyAttachedCollisionObjects">
+<area shape="rect" id="node1" title="Apply attached collision objects to the planning scene of the move_group node synchronously...." alt="" coords="5,13,235,69"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#a503d531320e1b82e2f6d12589766349f" title="Update the planning_scene of the move_group node with the given ps synchronously. Other PlanningScene..." alt="" coords="283,13,480,69"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface_1_1PlanningSceneInterfaceImpl.html#a93164af9c7a058d959d47bd7f54a05b8" title=" " alt="" coords="528,5,740,76"/>
+</map>

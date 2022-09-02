@@ -1,0 +1,7 @@
+<map id="distance_field::DistanceField::addPointsToField" name="distance_field::DistanceField::addPointsToField">
+<area shape="rect" id="node1" title="Add a set of obstacle points to the distance field, updating distance values accordingly...." alt="" coords="563,39,740,80"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a5a5de29eff3bd1764e15abda23946cc1" title="Adds an octree to the distance field. Cells that are occupied in the octree that lie within the voxel..." alt="" coords="337,5,515,47"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#a7d40ca72ce5a575ddbc4f7602612a05a" title="Adds the set of points corresponding to the shape at the given pose as obstacle points into the dista..." alt="" coords="337,71,515,112"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1PropagationDistanceField.html#a10a41843375b4332754d6847ad350fa3" title="Constructor based on an OcTree and bounding box information. A distance field will be constructed wit..." alt="" coords="5,5,289,47"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#a691113c17e41b934916dc5d7c6b71272" title=" " alt="" coords="59,71,236,112"/>
+</map>

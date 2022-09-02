@@ -1,0 +1,4 @@
+<map id="occupancy_map_monitor::OccupancyMapMonitor::getOcTreePtr" name="occupancy_map_monitor::OccupancyMapMonitor::getOcTreePtr">
+<area shape="rect" id="node1" title="Get a pointer to the underlying octree for this monitor. Lock the tree before reading or writing usin..." alt="" coords="239,5,424,61"/>
+<area shape="rect" id="node2" href="$classoccupancy__map__monitor_1_1OccupancyMapUpdater.html#acb1a47ded49cbe988ee2f1b2170bd47a" title="This is the first function to be called after construction." alt="" coords="5,5,191,61"/>
+</map>

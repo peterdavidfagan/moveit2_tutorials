@@ -1,0 +1,6 @@
+<map id="distance_field::PropagationDistanceField::reset" name="distance_field::PropagationDistanceField::reset">
+<area shape="rect" id="node1" title="Resets the entire distance field to max_distance for positive values and zero for negative values." alt="" coords="5,71,204,112"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1PropagationDistanceField.html#a10907922a2cf7d5260f51d05032accfc" title="Gets the number of cells along the X axis." alt="" coords="252,5,463,47"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1PropagationDistanceField.html#a5f4f93e6d350994f01e43edc4c0edb97" title="Gets the number of cells along the Y axis." alt="" coords="252,71,463,112"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1PropagationDistanceField.html#a48e7c392c8ec94d88f1e14522b0f5098" title="Gets the number of cells along the Z axis." alt="" coords="252,136,463,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit::core::RevoluteJointModel::distance" name="moveit::core::RevoluteJointModel::distance">
+<area shape="rect" id="node1" title="Compute the distance between two joint states of the same model (represented by the variable values)" alt="" coords="311,13,509,54"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RevoluteJointModel.html#a0558a5122494b7782ed32009e9f9093a" title="Provide random values for the joint variables (within specified bounds). Enough memory is assumed to ..." alt="" coords="5,5,263,61"/>
+</map>

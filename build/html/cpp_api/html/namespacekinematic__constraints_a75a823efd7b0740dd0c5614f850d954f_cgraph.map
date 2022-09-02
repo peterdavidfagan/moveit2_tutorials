@@ -1,0 +1,7 @@
+<map id="kinematic_constraints::resolveConstraintFrames" name="kinematic_constraints::resolveConstraintFrames">
+<area shape="rect" id="node1" title="Resolves frames used in constraints to links in the robot model." alt="" coords="5,71,199,112"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#aeafe685444a15143853e4bbc6209d335" title="Get the transformation matrix from the model frame (root of model) to the frame identified by frame_i..." alt="" coords="247,5,431,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a309800a933676917ea4848b972a4318b" title="Get the link transform w.r.t. the root link (model frame) of the RobotModel. This is typically the ro..." alt="" coords="247,71,432,112"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1LinkModel.html#a99ed1c1c371bdb1b007484fd399e435c" title="The name of this link." alt="" coords="250,136,429,177"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1LinkModel.html#af30cc07d5b7409ac39b152a9cd94b563" title="The index of this joint when traversing the kinematic tree in depth first fashion." alt="" coords="480,5,659,47"/>
+</map>

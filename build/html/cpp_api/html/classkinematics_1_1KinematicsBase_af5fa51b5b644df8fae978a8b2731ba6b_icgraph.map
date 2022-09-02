@@ -1,0 +1,4 @@
+<map id="kinematics::KinematicsBase::getGroupName" name="kinematics::KinematicsBase::getGroupName">
+<area shape="rect" id="node1" title="Return the name of the group that the solver is operating on." alt="" coords="221,13,428,54"/>
+<area shape="rect" id="node2" href="$classsrv__kinematics__plugin_1_1SrvKinematicsPlugin.html#a17b05f2de6e34fa42405367fbf19a650" title="Given a set of desired poses for a planning group with multiple end&#45;effectors, search for the joint a..." alt="" coords="5,5,173,61"/>
+</map>

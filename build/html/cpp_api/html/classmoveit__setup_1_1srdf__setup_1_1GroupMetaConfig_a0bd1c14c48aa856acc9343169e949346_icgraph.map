@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::GroupMetaConfig::inputKinematicsYAML" name="moveit_setup::srdf_setup::GroupMetaConfig::inputKinematicsYAML">
+<area shape="rect" id="node1" title=" " alt="" coords="240,5,427,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1GroupMetaConfig.html#a9a6db437a8e94a48c5e7a0c6b6e69714" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,5,192,61"/>
+</map>

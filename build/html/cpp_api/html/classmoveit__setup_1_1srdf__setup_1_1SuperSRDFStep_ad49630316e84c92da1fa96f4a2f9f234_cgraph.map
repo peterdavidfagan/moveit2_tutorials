@@ -1,0 +1,5 @@
+<map id="moveit_setup::srdf_setup::SuperSRDFStep::remove" name="moveit_setup::srdf_setup::SuperSRDFStep::remove">
+<area shape="rect" id="node1" title="Delete an item with the given name from the list." alt="" coords="5,45,179,101"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#a7b2d5e45208ef3f0cf63c4b986a561a8" title="Returns the reference to the vector in the SRDF." alt="" coords="227,5,400,61"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1SuperSRDFStep.html#a6f7c8a77a2944e26561c36a750554446" title="Returns the info field associated with this part of the SRDF." alt="" coords="227,85,400,141"/>
+</map>

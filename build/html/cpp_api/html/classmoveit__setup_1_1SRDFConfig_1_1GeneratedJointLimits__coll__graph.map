@@ -1,0 +1,8 @@
+<map id="moveit_setup::SRDFConfig::GeneratedJointLimits" name="moveit_setup::SRDFConfig::GeneratedJointLimits">
+<area shape="rect" id="node1" title=" " alt="" coords="149,261,343,303"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1YamlGeneratedFile.html" title=" " alt="" coords="5,172,247,199"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="21,96,231,123"/>
+<area shape="rect" id="node4" title=" " alt="" coords="20,5,232,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1SRDFConfig.html" title=" " alt="" coords="271,172,466,199"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="270,96,467,123"/>
+</map>

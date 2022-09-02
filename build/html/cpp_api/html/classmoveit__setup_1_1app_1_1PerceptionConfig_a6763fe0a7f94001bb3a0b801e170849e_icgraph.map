@@ -1,0 +1,4 @@
+<map id="moveit_setup::app::PerceptionConfig::load3DSensorsYAML" name="moveit_setup::app::PerceptionConfig::load3DSensorsYAML">
+<area shape="rect" id="node1" title="Load perception sensor config." alt="" coords="277,5,549,47"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1app_1_1PerceptionConfig.html#ace501aef0163907f8cc7a9ecd6225279" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,5,229,47"/>
+</map>

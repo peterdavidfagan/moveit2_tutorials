@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::detachObject" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::detachObject">
+<area shape="rect" id="node1" title=" " alt="" coords="311,5,557,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#aa99896b1fcca049803ec4015d6dd8f03" title="Detach an object. name specifies the name of the object attached to this group, or the name of the li..." alt="" coords="5,13,263,54"/>
+</map>

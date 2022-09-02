@@ -1,0 +1,5 @@
+<map id="moveit_setup::controllers::ControlXacroConfig" name="moveit_setup::controllers::ControlXacroConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="17,169,205,211"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1IncludedXacroConfig.html" title="A virtual class that represents a xacro header that should be included in the modified urdf configura..." alt="" coords="5,80,216,121"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SetupConfig.html" title="where all the data for each part of the configuration is stored." alt="" coords="12,5,209,32"/>
+</map>

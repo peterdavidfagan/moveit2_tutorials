@@ -1,0 +1,5 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::clearRobotModel" name="moveit_rviz_plugin::MotionPlanningDisplay::clearRobotModel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,45,185,101"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1MotionPlanningFrame.html#ad764a4f8e46d69eb3410a4fa9190b8ff" title=" " alt="" coords="235,5,407,61"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a35509e2fe77ce5a32d3eeb938a9e9e2e" title=" " alt="" coords="233,85,408,141"/>
+</map>

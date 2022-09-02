@@ -1,0 +1,7 @@
+<map id="moveit_setup::RVizPanel::highlightLinkEvent" name="moveit_setup::RVizPanel::highlightLinkEvent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1RVizPanel.html#a8323a545316f108e1eceb497cd19cb0d" title=" " alt="" coords="236,5,419,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1LinkModel.html#a47d471387e6baea286e83f0600ce87cd" title="Get shape associated to the collision geometry for this link." alt="" coords="238,71,417,112"/>
+<area shape="rect" id="node5" href="$classmoveit__rviz__plugin_1_1RobotStateDisplay.html#ad2d15074467bda3d06785cde00880a72" title=" " alt="" coords="252,137,403,193"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SRDFConfig.html#aaa5e1ec7eee10b0ebdbfc7bfed7e88d5" title=" " alt="" coords="467,5,661,47"/>
+</map>

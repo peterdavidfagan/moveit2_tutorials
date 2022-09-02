@@ -1,0 +1,4 @@
+<map id="trajectory_processing::Trajectory::getDuration" name="trajectory_processing::Trajectory::getDuration">
+<area shape="rect" id="node1" title="Returns the optimal duration of the trajectory." alt="" coords="108,5,287,47"/>
+<area shape="rect" id="node2" href="$test__time__optimal__trajectory__generation_8cpp.html#a58fafeea33a2ccaaa2ed7335eaef0b11" title=" " alt="" coords="5,13,60,39"/>
+</map>

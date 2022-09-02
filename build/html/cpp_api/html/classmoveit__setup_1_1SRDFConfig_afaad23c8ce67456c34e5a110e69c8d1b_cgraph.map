@@ -1,0 +1,5 @@
+<map id="moveit_setup::SRDFConfig::loadPrevious" name="moveit_setup::SRDFConfig::loadPrevious">
+<area shape="rect" id="node1" title="Loads the configuration from an existing MoveIt configuration." alt="" coords="5,27,200,69"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup.html#a0f072c14ac8dfa0e0f78636fc598d9e8" title=" " alt="" coords="248,5,475,32"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SRDFConfig.html#ad42db24416a8d6db62cdd502285d9fd8" title="Load SRDF File." alt="" coords="264,57,459,98"/>
+</map>

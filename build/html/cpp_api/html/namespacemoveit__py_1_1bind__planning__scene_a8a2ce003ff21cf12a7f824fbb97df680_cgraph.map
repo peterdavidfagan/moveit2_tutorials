@@ -1,0 +1,9 @@
+<map id="moveit_py::bind_planning_scene::apply_collision_object" name="moveit_py::bind_planning_scene::apply_collision_object">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,224,115"/>
+<area shape="rect" id="node2" href="$copy__ros__msg_8cpp.html#a4c654ca4e123006f4c11faa59031bfcb" title=" " alt="" coords="272,81,431,108"/>
+<area shape="rect" id="node3" href="$copy__ros__msg_8cpp.html#a882f5162b350809e27d847b0861dbc6f" title=" " alt="" coords="507,31,603,57"/>
+<area shape="rect" id="node6" href="$copy__ros__msg_8cpp.html#a6c84147732baa1d84cc695ebf8d8fee2" title=" " alt="" coords="509,81,601,108"/>
+<area shape="rect" id="node7" href="$copy__ros__msg_8cpp.html#afe94dabbb2dd07055be4f4cd6a418f88" title=" " alt="" coords="479,132,631,159"/>
+<area shape="rect" id="node4" href="$copy__ros__msg_8cpp.html#ac15b7442c54cabe3945e6b2272a8b67e" title=" " alt="" coords="679,5,825,32"/>
+<area shape="rect" id="node5" href="$copy__ros__msg_8cpp.html#a7b3db7fa15c8c3edc6d88f4baf3e8f2a" title=" " alt="" coords="705,56,799,83"/>
+</map>

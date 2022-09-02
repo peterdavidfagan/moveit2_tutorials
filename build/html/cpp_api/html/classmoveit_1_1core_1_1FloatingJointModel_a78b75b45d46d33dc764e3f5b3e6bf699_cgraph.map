@@ -1,0 +1,5 @@
+<map id="moveit::core::FloatingJointModel::distance" name="moveit::core::FloatingJointModel::distance">
+<area shape="rect" id="node1" title="Compute the distance between two joint states of the same model (represented by the variable values)" alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1FloatingJointModel.html#a1e9866963c624b3092906e8fe5415618" title="Get the distance between the rotation components of two states." alt="" coords="249,5,443,47"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1FloatingJointModel.html#ad746c535833981949b6da7927e991e23" title="Get the distance between the translation components of two states." alt="" coords="248,71,444,112"/>
+</map>

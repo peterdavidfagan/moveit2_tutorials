@@ -1,0 +1,4 @@
+<map id="moveit::core::MoveItErrorCode" name="moveit::core::MoveItErrorCode">
+<area shape="rect" id="node1" title="a wrapper around moveit_msgs::MoveItErrorCodes to make it easier to return an error code message from..." alt="" coords="5,95,227,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="17,5,215,47"/>
+</map>

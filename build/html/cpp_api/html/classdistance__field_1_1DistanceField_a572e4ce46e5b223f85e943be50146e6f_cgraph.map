@@ -1,0 +1,6 @@
+<map id="distance_field::DistanceField::moveShapeInField" name="distance_field::DistanceField::moveShapeInField">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,187,80"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a3ff4e4053688842a27968fa7cb0ae750" title="Moves the shape in the distance field from the old pose to the new pose, removing points that are no ..." alt="" coords="235,39,416,80"/>
+<area shape="rect" id="node3" href="$namespacedistance__field.html#a065dcdb8fe0b7ed297fb87a62afa2fbd" title="Find all points on a regular grid that are internal to the body, assuming the body is a convex shape...." alt="" coords="464,5,659,47"/>
+<area shape="rect" id="node4" href="$classdistance__field_1_1DistanceField.html#a154f82da8747de3e7f0ee609561d28a2" title="This function will remove any obstacle points that are in the old point set but not the new point set..." alt="" coords="467,71,656,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="pilz_industrial_motion_planner::CommandListManager::solve" name="pilz_industrial_motion_planner::CommandListManager::solve">
+<area shape="rect" id="node1" title="Generates trajectories for the specified list of motion commands." alt="" coords="5,85,239,141"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1PlanComponentsBuilder.html#aee88ad77167c67dedc19298c2e2dbdce" title="Appends the specified trajectory to the trajectory container under construction." alt="" coords="287,5,529,61"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1PlanComponentsBuilder.html#a76f27f96e03f3975fe9b6dd550cdb46f" title=" " alt="" coords="287,85,529,141"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner_1_1PlanComponentsBuilder.html#a86022e36311a73bf02bcfccd1089cd79" title="Clears the trajectory container under construction." alt="" coords="287,165,529,221"/>
+</map>

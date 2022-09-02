@@ -1,0 +1,4 @@
+<map id="kdl_kinematics_plugin::KDLKinematicsPlugin::searchPositionIK" name="kdl_kinematics_plugin::KDLKinematicsPlugin::searchPositionIK">
+<area shape="rect" id="node1" title="Given a desired pose of the end&#45;effector, search for the joint angles required to reach it...." alt="" coords="5,5,175,61"/>
+<area shape="rect" id="node2" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a4cb4552d31fcaeb5ee9ce795e9e1cb7e" title="Given a desired pose of the end&#45;effector, search for the joint angles required to reach it...." alt="" coords="223,5,392,61"/>
+</map>

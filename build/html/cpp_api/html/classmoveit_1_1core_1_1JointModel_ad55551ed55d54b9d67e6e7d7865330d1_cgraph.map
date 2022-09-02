@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModel::getVariableBounds" name="moveit::core::JointModel::getVariableBounds">
+<area shape="rect" id="node1" title="Get the bounds for a variable. Throw an exception if the variable was not found." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModel.html#a21ccd564228bd1460b8b59a6232b2e36" title="Get the index of the variable within this joint." alt="" coords="235,5,416,47"/>
+</map>

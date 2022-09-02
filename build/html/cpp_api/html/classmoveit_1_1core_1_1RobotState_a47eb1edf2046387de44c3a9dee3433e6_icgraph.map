@@ -1,0 +1,6 @@
+<map id="moveit::core::RobotState::setJointGroupAccelerations" name="moveit::core::RobotState::setJointGroupAccelerations">
+<area shape="rect" id="node1" title="Given accelerations for the variables that make up a group, in the order found in the group (includin..." alt="" coords="260,57,467,98"/>
+<area shape="rect" id="node2" href="$core_8cpp.html#a92e436fb725965a2681c8e0eff28a83e" title=" " alt="" coords="33,5,184,32"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a1b8f2f64d8ea38940ec7e9d0e008b1a6" title="Given accelerations for the variables that make up a group, in the order found in the group (includin..." alt="" coords="5,57,212,98"/>
+<area shape="rect" id="node4" href="$unittest__trajectory__functions_8cpp.html#afcd52755d10e95051acec8c02eb0f806" title="Check that function isRobotStateEqual() returns &#39;false&#39; if the acceleration of the robot states are n..." alt="" coords="74,123,143,149"/>
+</map>

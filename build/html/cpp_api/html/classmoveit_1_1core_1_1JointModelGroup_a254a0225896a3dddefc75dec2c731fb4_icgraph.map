@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModelGroup::setDefaultIKTimeout" name="moveit::core::JointModelGroup::setDefaultIKTimeout">
+<area shape="rect" id="node1" title="Set the default IK timeout." alt="" coords="224,13,427,54"/>
+<area shape="rect" id="node2" href="$classrobot__model__loader_1_1RobotModelLoader.html#af3b5c5b24d5f7c258fac7c6014540381" title="Load the kinematics solvers into the kinematic model. This is done by default, unless disabled explic..." alt="" coords="5,5,176,61"/>
+</map>

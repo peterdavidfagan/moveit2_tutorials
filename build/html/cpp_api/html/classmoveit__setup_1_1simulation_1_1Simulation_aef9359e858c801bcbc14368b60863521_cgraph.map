@@ -1,0 +1,7 @@
+<map id="moveit_setup::simulation::Simulation::getGazeboCompatibleURDF" name="moveit_setup::simulation::Simulation::getGazeboCompatibleURDF">
+<area shape="rect" id="node1" title="Parses the existing urdf and constructs a string from it with the elements required by gazebo simulat..." alt="" coords="5,86,296,127"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1simulation_1_1Simulation.html#af85059d473396d258137f9518e80108d" title="Helper function to get the controller that is controlling the joint." alt="" coords="344,5,565,61"/>
+<area shape="rect" id="node3" href="$namespacemoveit__setup_1_1simulation.html#a7721d126260e85906e1a70a1c5f9ff62" title=" " alt="" coords="361,86,549,127"/>
+<area shape="rect" id="node4" href="$namespacemoveit__setup.html#a762d54388d110ce4ea9f52f728675e51" title="Insert a new XML element with a given tag, attributes, and text." alt="" coords="355,152,555,179"/>
+<area shape="rect" id="node5" href="$namespacemoveit__setup.html#a05304782b64c23e1d4fd151923c47625" title=" " alt="" coords="613,145,813,186"/>
+</map>

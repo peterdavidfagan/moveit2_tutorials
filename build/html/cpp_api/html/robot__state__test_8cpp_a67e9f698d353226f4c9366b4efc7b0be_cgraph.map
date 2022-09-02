@@ -1,0 +1,12 @@
+<map id="TEST_F" name="TEST_F">
+<area shape="rect" id="node1" title=" " alt="" coords="5,175,75,202"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1RobotState.html#a2efa6e38a215fda851f987bed33e1a7a" title="Add an attached body to this state." alt="" coords="167,71,351,112"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#af42747bf0761dfc2920cab0cc567f761" title="Get the latest link upwards the kinematic tree which is only connected via fixed joints." alt="" coords="123,233,396,275"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1RobotState.html#a5c3129e7624ffe8c47dfaffee5c85560" title="Remove the attached body named id. Return false if the object was not found (and thus not removed)...." alt="" coords="453,5,637,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotState.html#a309800a933676917ea4848b972a4318b" title="Get the link transform w.r.t. the root link (model frame) of the RobotModel. This is typically the ro..." alt="" coords="453,71,638,112"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1RobotState.html#ab67fb64eb7f7b59e4d6e940bb79f8d8e" title="Get the attached body named name. Return nullptr if not found." alt="" coords="453,136,637,177"/>
+<area shape="rect" id="node7" href="$classmoveit_1_1core_1_1AttachedBody.html#a88861172146386df7197f08eee50b1a7" title="Get the model of the link this body is attached to." alt="" coords="444,201,647,243"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1RobotState.html#a2b2cdba896e3cda3e307e117eaef39c2" title="Get the model of a particular link." alt="" coords="453,267,637,308"/>
+<area shape="rect" id="node9" href="$classmoveit_1_1core_1_1RobotState.html#a5ecd3e71d7283f30be300c83cfd84041" title="Get the robot model this state is constructed for." alt="" coords="453,332,637,373"/>
+<area shape="rect" id="node10" href="$classmoveit_1_1core_1_1RobotState.html#adb15c840b22c6c45daa3af5b2a158aeb" title="Check if an attached body named id exists in this state." alt="" coords="453,397,637,439"/>
+</map>

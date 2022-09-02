@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,151,276"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1DataWarehouse.html" title="Container for all of the SetupConfig object singletons." alt="" coords="199,191,421,218"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="205,242,415,269"/>
+<area shape="rect" id="node21" href="$classplanning__scene_1_1PlanningScene.html" title="This class maintains the representation of the environment as seen by a planning instance...." alt="" coords="217,293,403,335"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1SRDFConfig_1_1GeneratedSRDF.html" title=" " alt="" coords="511,176,706,217"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1TemplatedGeneratedFile.html" title="Specialization of GeneratedFile for generating a text file from a template." alt="" coords="469,242,748,269"/>
+<area shape="rect" id="node13" href="$classmoveit__setup_1_1YamlGeneratedFile.html" title=" " alt="" coords="488,679,729,706"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1ModifiedUrdfConfig_1_1GeneratedModifiedURDF.html" title=" " alt="" coords="806,5,1038,47"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1PackageSettingsConfig_1_1GeneratedCMake.html" title=" " alt="" coords="809,71,1035,112"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1PackageSettingsConfig_1_1GeneratedPackageXML.html" title=" " alt="" coords="809,136,1035,177"/>
+<area shape="rect" id="node9" href="$classmoveit__setup_1_1SRDFConfig_1_1GeneratedCartesianLimits.html" title=" " alt="" coords="822,201,1022,243"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1app_1_1LaunchBundle_1_1BonusTemplatedFile.html" title=" " alt="" coords="796,267,1048,308"/>
+<area shape="rect" id="node11" href="$classmoveit__setup_1_1app_1_1LaunchBundle_1_1GenericLaunchTemplate.html" title=" " alt="" coords="813,333,1031,389"/>
+<area shape="rect" id="node12" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig_1_1GeneratedControlHeader.html" title=" " alt="" coords="807,413,1037,469"/>
+<area shape="rect" id="node14" href="$classmoveit__setup_1_1PackageSettingsConfig_1_1GeneratedSettings.html" title=" " alt="" coords="809,493,1035,535"/>
+<area shape="rect" id="node15" href="$classmoveit__setup_1_1SRDFConfig_1_1GeneratedJointLimits.html" title=" " alt="" coords="825,559,1019,600"/>
+<area shape="rect" id="node16" href="$classmoveit__setup_1_1app_1_1PerceptionConfig_1_1GeneratedSensorConfig.html" title=" " alt="" coords="818,625,1026,681"/>
+<area shape="rect" id="node17" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig_1_1GeneratedInitialPositions.html" title=" " alt="" coords="807,705,1037,761"/>
+<area shape="rect" id="node18" href="$classmoveit__setup_1_1controllers_1_1MoveItControllersConfig_1_1GeneratedControllersConfig.html" title=" " alt="" coords="817,785,1027,841"/>
+<area shape="rect" id="node19" href="$classmoveit__setup_1_1controllers_1_1ROS2ControllersConfig_1_1GeneratedControllersConfig.html" title=" " alt="" coords="817,865,1027,921"/>
+<area shape="rect" id="node20" href="$classmoveit__setup_1_1srdf__setup_1_1GroupMetaConfig_1_1GeneratedGroupMetaConfig.html" title=" " alt="" coords="817,945,1027,1001"/>
+</map>

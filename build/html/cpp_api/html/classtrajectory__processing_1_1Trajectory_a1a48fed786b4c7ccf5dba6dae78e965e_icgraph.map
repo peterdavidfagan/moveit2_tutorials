@@ -1,0 +1,4 @@
+<map id="trajectory_processing::Trajectory::getAcceleration" name="trajectory_processing::Trajectory::getAcceleration">
+<area shape="rect" id="node1" title="Return the acceleration vector for a given point in time." alt="" coords="108,5,311,47"/>
+<area shape="rect" id="node2" href="$test__time__optimal__trajectory__generation_8cpp.html#afa971b084e97619045a0538e1ad0c639" title=" " alt="" coords="5,13,60,39"/>
+</map>

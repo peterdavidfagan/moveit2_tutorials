@@ -1,0 +1,5 @@
+<map id="kinematics_plugin_loader::KinematicsPluginLoader::KinematicsLoaderImpl::chooseTipFrames" name="kinematics_plugin_loader::KinematicsPluginLoader::KinematicsLoaderImpl::chooseTipFrames">
+<area shape="rect" id="node1" title="Helper function to decide which, and how many, tip frames a planning group has." alt="" coords="677,5,928,76"/>
+<area shape="rect" id="node2" href="$classkinematics__plugin__loader_1_1KinematicsPluginLoader_1_1KinematicsLoaderImpl.html#aee20108e28bea50867ee349bcd13851f" title=" " alt="" coords="341,5,629,76"/>
+<area shape="rect" id="node3" href="$classkinematics__plugin__loader_1_1KinematicsPluginLoader_1_1KinematicsLoaderImpl.html#a446a75b8254780e7c170bf509c87aa9e" title=" " alt="" coords="5,5,293,76"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pilz_industrial_motion_planner::CommandPlanner::getPlanningContext" name="pilz_industrial_motion_planner::CommandPlanner::getPlanningContext">
+<area shape="rect" id="node1" title="Returns a PlanningContext that can be used to solve(calculate) the trajectory that corresponds to com..." alt="" coords="5,5,208,61"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1CommandPlanner.html#a0b0b6afd4f359c4ee3ae6e98dc2435dc" title="Checks if the request can be handled." alt="" coords="256,5,459,61"/>
+</map>

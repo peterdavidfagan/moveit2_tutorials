@@ -1,0 +1,7 @@
+<map id="pilz_industrial_motion_planner::VelocityProfileATrap::Clone" name="pilz_industrial_motion_planner::VelocityProfileATrap::Clone">
+<area shape="rect" id="node1" title="returns copy of current VelocityProfile object" alt="" coords="5,85,220,141"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#ab8735c0f5fddb7dddbf64a226fa09fe5" title="Profile with given acceleration/constant/deceleration durations. Each duration must obey the maximal ..." alt="" coords="268,45,483,101"/>
+<area shape="rect" id="node5" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a2cb90af21a840ba4d37c800bd0542c8b" title="Constructor." alt="" coords="268,125,483,181"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a7a814ecd5b06b7301b79711bdcf660ad" title="Duration." alt="" coords="531,5,745,61"/>
+<area shape="rect" id="node4" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a38aa2d9c190b97ab94d185a20f3b6630" title="compute the fastest profile Algorithm:" alt="" coords="531,85,745,141"/>
+</map>

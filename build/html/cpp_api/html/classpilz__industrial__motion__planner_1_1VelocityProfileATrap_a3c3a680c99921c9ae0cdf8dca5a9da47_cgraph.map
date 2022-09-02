@@ -1,0 +1,4 @@
+<map id="pilz_industrial_motion_planner::VelocityProfileATrap::setProfileStartVelocity" name="pilz_industrial_motion_planner::VelocityProfileATrap::setProfileStartVelocity">
+<area shape="rect" id="node1" title="Profile with start velocity Note: This function is not general and is currently only used for live co..." alt="" coords="5,5,220,61"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a38aa2d9c190b97ab94d185a20f3b6630" title="compute the fastest profile Algorithm:" alt="" coords="268,5,483,61"/>
+</map>

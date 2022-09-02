@@ -1,0 +1,4 @@
+<map id="trajectory_processing::Trajectory::isValid" name="trajectory_processing::Trajectory::isValid">
+<area shape="rect" id="node1" title="Call this method after constructing the object to make sure the trajectory generation succeeded witho..." alt="" coords="108,5,271,47"/>
+<area shape="rect" id="node2" href="$test__time__optimal__trajectory__generation_8cpp.html#a58fafeea33a2ccaaa2ed7335eaef0b11" title=" " alt="" coords="5,13,60,39"/>
+</map>

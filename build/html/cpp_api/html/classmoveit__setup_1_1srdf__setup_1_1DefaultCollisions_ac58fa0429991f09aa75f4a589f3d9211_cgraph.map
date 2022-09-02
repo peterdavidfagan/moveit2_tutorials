@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::DefaultCollisions::linkPairsToSRDFSorted" name="moveit_setup::srdf_setup::DefaultCollisions::linkPairsToSRDFSorted">
+<area shape="rect" id="node1" title="Output Link Pairs to SRDF Format; sorted; with optional filter." alt="" coords="5,5,189,61"/>
+<area shape="rect" id="node2" href="$namespacemoveit__setup_1_1srdf__setup.html#ac4d40df5d75940b971dda122a6d83664" title="Converts a reason for disabling a link pair into a string." alt="" coords="237,13,465,54"/>
+</map>

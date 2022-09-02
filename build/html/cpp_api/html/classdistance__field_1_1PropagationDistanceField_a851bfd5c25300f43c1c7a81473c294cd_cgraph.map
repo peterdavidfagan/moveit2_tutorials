@@ -1,0 +1,4 @@
+<map id="distance_field::PropagationDistanceField::updatePointsInField" name="distance_field::PropagationDistanceField::updatePointsInField">
+<area shape="rect" id="node1" title="This function will remove any obstacle points that are in the old point set but not the new point set..." alt="" coords="5,5,252,47"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1PropagationDistanceField.html#a4904f0b6dc38faa912a56abe67fa2910" title="Converts from a world location to a set of integer indices. Should return false if the world location..." alt="" coords="300,5,499,47"/>
+</map>

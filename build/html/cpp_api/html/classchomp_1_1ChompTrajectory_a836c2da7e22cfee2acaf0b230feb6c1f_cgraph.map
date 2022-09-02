@@ -1,0 +1,4 @@
+<map id="chomp::ChompTrajectory::getFreeJointTrajectoryBlock" name="chomp::ChompTrajectory::getFreeJointTrajectoryBlock">
+<area shape="rect" id="node1" title="Gets the block of free (optimizable) trajectory for a single joint." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$classchomp_1_1ChompTrajectory.html#afb272cf4167ff09cf8a264e305e70b8f" title="Gets the number of points (that are free to be optimized) in the trajectory." alt="" coords="261,5,445,47"/>
+</map>

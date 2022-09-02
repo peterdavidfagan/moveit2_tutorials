@@ -1,0 +1,7 @@
+<map id="moveit_setup::core::StartScreenWidget::onInit" name="moveit_setup::core::StartScreenWidget::onInit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,156,113"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupStep.html#aab57faf30c16fa632b89d833ae47cbc7" title="Makes a namespaced logger for this step available to the widget." alt="" coords="215,5,400,47"/>
+<area shape="rect" id="node3" href="$namespacemoveit__setup.html#a399f04e10443cb224ab25be0e87f387e" title="Return a path for the given package&#39;s share folder." alt="" coords="205,71,410,98"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1LoadPathArgsWidget.html#aa15c2255b5f1a88efcdf992fc73fa20e" title=" " alt="" coords="204,123,411,164"/>
+<area shape="rect" id="node4" href="$namespacecreate__ikfast__moveit__plugin.html#a0c9b4e891e3b0ed1d9e9da320cee114b" title=" " alt="" coords="459,57,657,113"/>
+</map>

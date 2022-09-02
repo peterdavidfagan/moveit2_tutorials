@@ -1,0 +1,4 @@
+<map id="kinematic_constraints::VisibilityConstraint::decideContact" name="kinematic_constraints::VisibilityConstraint::decideContact">
+<area shape="rect" id="node1" title="Function that gets passed into collision checking to allow some collisions." alt="" coords="5,5,172,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1Transforms.html#a101b4614f91072368a62c879bd59e36a" title="Check if two frames end up being the same once the missing / are added as prefix (if they are missing..." alt="" coords="220,13,404,54"/>
+</map>

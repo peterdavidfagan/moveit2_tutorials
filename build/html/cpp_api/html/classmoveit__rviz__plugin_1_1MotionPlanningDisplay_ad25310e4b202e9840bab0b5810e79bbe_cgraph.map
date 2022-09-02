@@ -1,0 +1,9 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::updateLinkColors" name="moveit_rviz_plugin::MotionPlanningDisplay::updateLinkColors">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,185,141"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a61f5cafe78dff5c641e9af6ece0d269e" title=" " alt="" coords="233,85,408,141"/>
+<area shape="rect" id="node5" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a24a7d323c74427b5abe639d2d401cb7a" title=" " alt="" coords="485,5,660,61"/>
+<area shape="rect" id="node6" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#ad90a463b66cf0d0b4533b177cc5f65ff" title=" " alt="" coords="233,165,408,221"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a6bbffa243e6239b50063d067bcd035ea" title="Get the names of the links that are part of this joint group and also have geometry associated with t..." alt="" coords="456,85,689,141"/>
+<area shape="rect" id="node4" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#ab2d4befc925c6933f7f508bef69a67f3" title=" " alt="" coords="485,165,660,221"/>
+<area shape="rect" id="node7" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a412ff7d9a49c6e29ad203e6355c570bf" title=" " alt="" coords="485,245,660,301"/>
+</map>

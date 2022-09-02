@@ -1,0 +1,4 @@
+<map id="moveit::core::JointModelGroup::getJointRoots" name="moveit::core::JointModelGroup::getJointRoots">
+<area shape="rect" id="node1" title="Unlike a complete kinematic model, a group may contain disconnected parts of the kinematic tree – a s..." alt="" coords="259,5,440,47"/>
+<area shape="rect" id="node2" href="$classdynamics__solver_1_1DynamicsSolver.html#a526e0867a5f44135d4d3ed409358fbc5" title="Initialize the dynamics solver." alt="" coords="5,5,211,47"/>
+</map>

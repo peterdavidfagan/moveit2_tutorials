@@ -1,0 +1,26 @@
+<map id="moveit_ros/planning_interface/test" name="moveit_ros/planning_interface/test">
+<area shape="rect" id="node1" href="dir_1fbf532420a7090a5f28a662d875b9c9.html" title="common_planning_interface_objects" alt="" coords="106,255,367,303"/>
+<area shape="rect" id="node8" href="dir_fba027dbac5a86c5d2f335ee867d17b9.html" title="planning" alt="" coords="5,351,84,399"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000466_000400.html" title="2" alt="" coords="100,346,109,360"/>
+<area shape="rect" id="node2" href="dir_47e006003cc784cc5843426295c91976.html" title="move_group_interface" alt="" coords="421,159,589,207"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000471_000466.html" title="1" alt="" coords="317,249,327,264"/>
+<area shape="rect" id="node3" href="dir_58aaa3dc5177e276d0f53c5cd44135c5.html" title="py_bindings_tools" alt="" coords="495,351,634,399"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000471_000481.html" title="4" alt="" coords="590,331,599,345"/>
+<area shape="rect" id="node4" href="dir_f45303381845e65f52ec49648de22150.html" title="planning_scene_interface" alt="" coords="392,255,580,303"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000471_000476.html" title="1" alt="" coords="498,231,507,246"/>
+<area shape="rect" id="node7" href="dir_d9cb55919b2dab7e58617a4db1d520b8.html" title="moveit_core" alt="" coords="513,447,616,495"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000471_000025.html" title="11" alt="" coords="621,435,639,450"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000471_000400.html" title="3" alt="" coords="55,327,64,342"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000476_000481.html" title="3" alt="" coords="536,324,545,339"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000476_000025.html" title="2" alt="" coords="505,422,514,436"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000424_000466.html" title="1" alt="" coords="277,241,286,256"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000424_000471.html" title="5" alt="" coords="485,131,494,146"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000424_000481.html" title="1" alt="" coords="592,332,602,346"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000424_000476.html" title="4" alt="" coords="436,229,446,244"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000424_000025.html" title="1" alt="" coords="632,444,641,458"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000424_000400.html" title="4" alt="" coords="43,324,53,339"/>
+<area shape="rect" id="node6" href="dir_c0d23968d8e68dbf0f876c9cf8881348.html" title="launch" alt="" coords="318,63,390,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000400_000025.html" title="70" alt="" coords="487,449,504,464"/>
+<area shape="rect" id="clust2" href="dir_74f65dfe6b7ed3fd860fe7f1624363ea.html" alt="" coords="307,52,497,121"/>
+<area shape="rect" id="clust1" href="dir_268fe41b8ac2174caad7bc3d1794ba44.html" title="planning_interface" alt="" coords="95,16,645,409"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="distance_field::DistanceField::addOcTreeToField" name="distance_field::DistanceField::addOcTreeToField">
+<area shape="rect" id="node1" title="Adds an octree to the distance field. Cells that are occupied in the octree that lie within the voxel..." alt="" coords="337,5,515,47"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1PropagationDistanceField.html#a10a41843375b4332754d6847ad350fa3" title="Constructor based on an OcTree and bounding box information. A distance field will be constructed wit..." alt="" coords="5,5,289,47"/>
+</map>

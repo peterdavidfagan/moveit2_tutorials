@@ -1,0 +1,4 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::updateBackgroundJobProgressBar" name="moveit_rviz_plugin::MotionPlanningDisplay::updateBackgroundJobProgressBar">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#ab44504c3da3a42da0b810941fd1a3a7d" title="Get the size of the queue of jobs (includes currently processed job)." alt="" coords="304,13,497,54"/>
+</map>

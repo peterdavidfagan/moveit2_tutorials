@@ -1,0 +1,7 @@
+<map id="collision_detection::CollisionEnvBullet::addLinkAsCollisionObject" name="collision_detection::CollisionEnvBullet::addLinkAsCollisionObject">
+<area shape="rect" id="node1" title="Construts a bullet collision object out of a robot link." alt="" coords="5,97,200,153"/>
+<area shape="rect" id="node2" href="$namespacecollision__detection__bullet.html#ad5214824afd0d2e6bd0bf77ba17f6629" title=" " alt="" coords="269,5,443,47"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1CollisionEnv.html#ad75025c17e4bb0532507e384c6298512" title="Get the link paddings as a map (from link names to padding value)" alt="" coords="248,71,464,112"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1CollisionEnv.html#a83b6fa8d0882a047291317606bca4ee2" title="Get the link scaling as a map (from link names to scale value)" alt="" coords="256,136,456,177"/>
+<area shape="rect" id="node5" href="$namespacecollision__detection__bullet.html#a087947c111851e345100a17d335d63d7" title=" " alt="" coords="269,201,443,243"/>
+</map>

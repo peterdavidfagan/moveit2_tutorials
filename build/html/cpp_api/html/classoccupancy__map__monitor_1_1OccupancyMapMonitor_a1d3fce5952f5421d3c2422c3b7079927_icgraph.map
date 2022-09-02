@@ -1,0 +1,4 @@
+<map id="occupancy_map_monitor::OccupancyMapMonitor::getMapFrame" name="occupancy_map_monitor::OccupancyMapMonitor::getMapFrame">
+<area shape="rect" id="node1" title="Gets the map frame (this is set either by the constor or a parameter)." alt="" coords="264,5,449,61"/>
+<area shape="rect" id="node2" href="$classoccupancy__map__monitor_1_1PointCloudOctomapUpdater.html#a9f4ed79b11522d12a1db512f9f1a46f9" title=" " alt="" coords="5,5,216,61"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="moveit::core::JointModelGroup::getMimicJointModels" name="moveit::core::JointModelGroup::getMimicJointModels">
+<area shape="rect" id="node1" title="Get the mimic joints that are part of this group." alt="" coords="259,79,465,120"/>
+<area shape="rect" id="node2" href="$classdynamics__solver_1_1DynamicsSolver.html#a526e0867a5f44135d4d3ed409358fbc5" title="Initialize the dynamics solver." alt="" coords="5,5,211,47"/>
+<area shape="rect" id="node3" href="$classkdl__kinematics__plugin_1_1KDLKinematicsPlugin.html#a3a705baf29bf253ebc242eac5a64d7fe" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="23,71,193,127"/>
+<area shape="rect" id="node4" href="$classsrv__kinematics__plugin_1_1SrvKinematicsPlugin.html#aad70fc7c31d0f4e022d1508acfa1aa7f" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="24,151,192,207"/>
+</map>

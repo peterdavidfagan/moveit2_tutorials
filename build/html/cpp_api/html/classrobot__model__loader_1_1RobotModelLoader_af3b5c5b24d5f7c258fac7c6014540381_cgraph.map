@@ -1,0 +1,4 @@
+<map id="robot_model_loader::RobotModelLoader::loadKinematicsSolvers" name="robot_model_loader::RobotModelLoader::loadKinematicsSolvers">
+<area shape="rect" id="node1" title="Load the kinematics solvers into the kinematic model. This is done by default, unless disabled explic..." alt="" coords="5,5,176,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a254a0225896a3dddefc75dec2c731fb4" title="Set the default IK timeout." alt="" coords="224,13,427,54"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="collision_detection::fcl2contact" name="collision_detection::fcl2contact">
+<area shape="rect" id="node1" title="Transforms an FCL contact into a MoveIt contact point." alt="" coords="5,13,149,54"/>
+<area shape="rect" id="node2" href="$structcollision__detection_1_1CollisionGeometryData.html#a697b8cf0334a95ff367db32dda1e7b00" title="Returns the name which is saved in the member pointed to in ptr." alt="" coords="197,5,380,61"/>
+</map>

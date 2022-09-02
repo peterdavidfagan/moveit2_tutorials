@@ -1,0 +1,6 @@
+<map id="moveit::planning_interface::MoveGroupInterface::detachObject" name="moveit::planning_interface::MoveGroupInterface::detachObject">
+<area shape="rect" id="node1" title="Detach an object. name specifies the name of the object attached to this group, or the name of the li..." alt="" coords="5,39,263,80"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#ae26f3a6b60ca8da84829097eafba50d5" title=" " alt="" coords="311,31,557,87"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1core_1_1JointModelGroup.html#a0b1752d210db29e6a05f7d0e70c4ce4f" title="Get the names of the links that are part of this joint group." alt="" coords="605,5,808,47"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1JointModelGroup.html#a8c1668a6ef27e60f1bff7d0c19282c00" title="Check if a link is part of this group." alt="" coords="616,71,797,112"/>
+</map>

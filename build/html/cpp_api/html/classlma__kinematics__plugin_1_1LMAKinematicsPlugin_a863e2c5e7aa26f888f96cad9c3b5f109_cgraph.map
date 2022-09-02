@@ -1,0 +1,11 @@
+<map id="lma_kinematics_plugin::LMAKinematicsPlugin::initialize" name="lma_kinematics_plugin::LMAKinematicsPlugin::initialize">
+<area shape="rect" id="node1" title="Initialization function for the kinematics, for use with kinematic chain IK solvers." alt="" coords="5,194,179,250"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1JointModelGroup.html#a5c96362127bca0b1263983def71cf86a" title="Get all the joints in this group (including fixed and mimic joints)." alt="" coords="239,5,421,47"/>
+<area shape="rect" id="node3" href="$classkinematics_1_1KinematicsBase.html#a52177304d2d5f906ab11e8087738a71a" title="Return the name of the tip frame of the chain on which the solver is operating. This is usually a lin..." alt="" coords="227,71,433,112"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1core_1_1RobotModel.html#a000d9e24a0c24a909b58c6a5b4b82a32" title="Get the parsed URDF model." alt="" coords="235,136,425,177"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1JointModelGroup.html#a0db655aa0f72015d6d6531fa2cc48965" title="Check if this group is a linear chain." alt="" coords="239,201,421,243"/>
+<area shape="rect" id="node6" href="$classmoveit_1_1core_1_1JointModelGroup.html#a9a0642700aead33b3f6bb3d454039bae" title="Return true if the group consists only of joints that are single DOF." alt="" coords="238,267,422,308"/>
+<area shape="rect" id="node7" href="$classkinematics_1_1KinematicsBase.html#a80e4cf7d0b3a922494a19b53d46daf38" title="Enables kinematics plugins access to parameters that are defined for the private namespace and inside..." alt="" coords="227,332,433,373"/>
+<area shape="rect" id="node8" href="$classkinematics_1_1KinematicsBase.html#a2c8ecd6268c1aef0fbcfde3b7a42809e" title=" " alt="" coords="227,397,433,439"/>
+<area shape="rect" id="node9" href="$classkinematics_1_1KinematicsBase.html#a1ab7f68c8d7d694f9dd35bd14a150c0a" title="Set the search discretization value for all the redundant joints." alt="" coords="481,397,688,439"/>
+</map>

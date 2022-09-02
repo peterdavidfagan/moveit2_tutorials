@@ -1,0 +1,5 @@
+<map id="moveit_setup::simulation::Simulation::getJointHardwareInterface" name="moveit_setup::simulation::Simulation::getJointHardwareInterface">
+<area shape="rect" id="node1" title="Helper function to get the controller that is controlling the joint." alt="" coords="619,5,840,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1simulation_1_1Simulation.html#aef9359e858c801bcbc14368b60863521" title="Parses the existing urdf and constructs a string from it with the elements required by gazebo simulat..." alt="" coords="280,13,571,54"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1simulation_1_1SimulationWidget.html#a15e6b42d94bd9cd30b03801f8f1d0cac" title="function called when widget is activated, allows to update/initialize GUI" alt="" coords="5,13,232,54"/>
+</map>

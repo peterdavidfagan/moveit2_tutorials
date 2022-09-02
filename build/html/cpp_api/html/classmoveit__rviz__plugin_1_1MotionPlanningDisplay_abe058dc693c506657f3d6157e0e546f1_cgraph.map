@@ -1,0 +1,5 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::onDisable" name="moveit_rviz_plugin::MotionPlanningDisplay::onDisable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,45,185,101"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1MotionPlanningFrame.html#a9f43f1f6935be8d879b4c1ac81aaaaee" title=" " alt="" coords="235,5,407,61"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a5147d860c8d4829f03978a42256f1561" title=" " alt="" coords="233,85,408,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="moveit_rviz_plugin::MotionPlanningDisplay::backgroundJobUpdate" name="moveit_rviz_plugin::MotionPlanningDisplay::backgroundJobUpdate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,45,185,101"/>
+<area shape="rect" id="node2" href="$classmoveit__rviz__plugin_1_1PlanningSceneDisplay.html#a920ac69f439f677204b580d659fc762a" title="queue the execution of this function for the next time the main update() loop gets called" alt="" coords="271,5,446,61"/>
+<area shape="rect" id="node3" href="$classmoveit__rviz__plugin_1_1MotionPlanningDisplay.html#a6b24e9041d6e0107f3ce703f87499490" title=" " alt="" coords="233,85,484,141"/>
+<area shape="rect" id="node4" href="$classmoveit_1_1tools_1_1BackgroundProcessing.html#ab44504c3da3a42da0b810941fd1a3a7d" title="Get the size of the queue of jobs (includes currently processed job)." alt="" coords="532,93,725,134"/>
+</map>

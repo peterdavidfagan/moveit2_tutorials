@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::getJointModelGroupNames" name="moveit::planning_interface::MoveGroupInterface::getJointModelGroupNames">
+<area shape="rect" id="node1" title="Get the available planning group names." alt="" coords="5,5,267,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#a9a6746f8fe4fab2d2a17891b1dfc18db" title=" " alt="" coords="315,5,561,61"/>
+</map>

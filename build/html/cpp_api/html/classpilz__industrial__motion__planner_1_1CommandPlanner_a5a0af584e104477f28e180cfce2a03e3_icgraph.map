@@ -1,0 +1,4 @@
+<map id="pilz_industrial_motion_planner::CommandPlanner::setPlannerConfigurations" name="pilz_industrial_motion_planner::CommandPlanner::setPlannerConfigurations">
+<area shape="rect" id="node1" title="Specify the settings to be used for an algorithms." alt="" coords="256,5,459,61"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1CommandPlanner.html#ab5f6c26cbb353c979e7f8d7eba1c2cdb" title="Initializes the planner Upon initialization this planner will look for plugins implementing pilz_indu..." alt="" coords="5,5,208,61"/>
+</map>

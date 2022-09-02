@@ -1,0 +1,15 @@
+<map id="distance_field::DistanceField::getXNumCells" name="distance_field::DistanceField::getXNumCells">
+<area shape="rect" id="node1" title="Gets the number of cells along the X axis." alt="" coords="1052,145,1229,186"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a5808c7630a3f194f2608fda16cc4546f" title="Gets not only the distance to the nearest cell but the gradient direction. The gradient is computed a..." alt="" coords="805,27,1000,69"/>
+<area shape="rect" id="node5" href="$classdistance__field_1_1DistanceField.html#aac976ff11d9c3b2b868124d714780db3" title="Populates the supplied marker array with a series of arrows representing gradients of cells that are ..." alt="" coords="563,86,753,127"/>
+<area shape="rect" id="node6" href="$classdistance__field_1_1DistanceField.html#a3b16c21d534a78ee8ff5c0e73eb021dc" title="Get an iso&#45;surface for visualization in rviz. The iso&#45;surface shows every cell that has a distance in..." alt="" coords="801,145,1004,186"/>
+<area shape="rect" id="node7" href="$classdistance__field_1_1DistanceField.html#ac76beae97cadc2d47fe5d9846fcb9ab4" title="Get the points associated with an octree." alt="" coords="814,210,991,251"/>
+<area shape="rect" id="node13" href="$classdistance__field_1_1DistanceField.html#ae4cae3cc67b5aed33c40303576a01d76" title="A function that populates the marker with three planes &#45; one each along the XY, XZ,..." alt="" coords="807,275,998,317"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1PosedDistanceField.html#a5b6f762faaf46ffdc05fa3f8f7ee4bce" title="Gets not only the distance to the nearest cell but the gradient direction. The point defined by the x..." alt="" coords="576,5,740,61"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1PosedDistanceField.html#ad5f91ba612ca78a60f3ef4dab3e43935" title=" " alt="" coords="265,5,480,61"/>
+<area shape="rect" id="node8" href="$classdistance__field_1_1DistanceField.html#a5a5de29eff3bd1764e15abda23946cc1" title="Adds an octree to the distance field. Cells that are occupied in the octree that lie within the voxel..." alt="" coords="569,181,747,222"/>
+<area shape="rect" id="node10" href="$classdistance__field_1_1DistanceField.html#a6d4d5386350ec80d3ca511cf940c0cfb" title="Get the points associated with a shape. This is mainly used when the external application needs to ca..." alt="" coords="569,246,747,287"/>
+<area shape="rect" id="node9" href="$classdistance__field_1_1PropagationDistanceField.html#a10a41843375b4332754d6847ad350fa3" title="Constructor based on an OcTree and bounding box information. A distance field will be constructed wit..." alt="" coords="231,181,515,222"/>
+<area shape="rect" id="node11" href="$classdistance__field_1_1DistanceField.html#a7d40ca72ce5a575ddbc4f7602612a05a" title="Adds the set of points corresponding to the shape at the given pose as obstacle points into the dista..." alt="" coords="284,246,461,287"/>
+<area shape="rect" id="node12" href="$classdistance__field_1_1DistanceField.html#a691113c17e41b934916dc5d7c6b71272" title=" " alt="" coords="5,246,183,287"/>
+</map>

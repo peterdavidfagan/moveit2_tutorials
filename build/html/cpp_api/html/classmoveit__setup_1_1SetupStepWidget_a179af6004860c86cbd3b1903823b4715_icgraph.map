@@ -1,0 +1,5 @@
+<map id="moveit_setup::SetupStepWidget::getSetupStep" name="moveit_setup::SetupStepWidget::getSetupStep">
+<area shape="rect" id="node1" title="Return a reference to the SetupStep object." alt="" coords="284,39,515,80"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SetupStepWidget.html#a2f2c39dc2091415590eb675b2c684273" title="Called after construction to initialize the step." alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1SetupStepWidget.html#a57e61f2d09bbb62b8c83cc98d2e7867c" title=" " alt="" coords="5,71,236,112"/>
+</map>

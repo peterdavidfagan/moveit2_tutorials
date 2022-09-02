@@ -1,0 +1,7 @@
+<map id="trajectory_execution_manager::TrajectoryExecutionManager::executeAndWait" name="trajectory_execution_manager::TrajectoryExecutionManager::executeAndWait">
+<area shape="rect" id="node1" title=" " alt="" coords="5,45,228,101"/>
+<area shape="rect" id="node2" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#a1d076f16a13a284b45dac6c4bac4b519" title="Start the execution of pushed trajectories; this does not wait for completion, but calls a callback w..." alt="" coords="276,5,499,61"/>
+<area shape="rect" id="node3" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#ac60b8619c74edb48b97ddf42dd1b39fe" title=" " alt="" coords="276,85,499,141"/>
+<area shape="rect" id="node4" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#a1fb8ee6f7c809152afc3989dc7447046" title="Stop whatever executions are active, if any." alt="" coords="547,85,769,141"/>
+<area shape="rect" id="node5" href="$classtrajectory__execution__manager_1_1TrajectoryExecutionManager.html#a263a182be1c8a3ea036c0ed35dea2141" title="Clear the trajectories to execute." alt="" coords="817,85,1040,141"/>
+</map>

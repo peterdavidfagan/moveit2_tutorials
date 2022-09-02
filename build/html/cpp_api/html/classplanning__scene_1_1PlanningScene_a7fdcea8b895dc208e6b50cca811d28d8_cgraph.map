@@ -1,0 +1,4 @@
+<map id="planning_scene::PlanningScene::getOctomapMsg" name="planning_scene::PlanningScene::getOctomapMsg">
+<area shape="rect" id="node1" title="Construct a message (octomap) with the octomap data from the planning_scene." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classplanning__scene_1_1PlanningScene.html#a42f7bb50bff9037aa4de0f396cb80a09" title="Get the frame in which planning is performed." alt="" coords="240,5,427,47"/>
+</map>

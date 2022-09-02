@@ -1,0 +1,5 @@
+<map id="pilz_industrial_motion_planner::VelocityProfileATrap::SetProfileDuration" name="pilz_industrial_motion_planner::VelocityProfileATrap::SetProfileDuration">
+<area shape="rect" id="node1" title="Profile scaled by the total duration." alt="" coords="5,45,220,101"/>
+<area shape="rect" id="node2" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a7a814ecd5b06b7301b79711bdcf660ad" title="Duration." alt="" coords="268,5,483,61"/>
+<area shape="rect" id="node3" href="$classpilz__industrial__motion__planner_1_1VelocityProfileATrap.html#a38aa2d9c190b97ab94d185a20f3b6630" title="compute the fastest profile Algorithm:" alt="" coords="268,85,483,141"/>
+</map>

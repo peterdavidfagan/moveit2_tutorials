@@ -1,0 +1,6 @@
+<map id="moveit_setup::srdf_setup::RobotPosesWidget::focusGiven" name="moveit_setup::srdf_setup::RobotPosesWidget::focusGiven">
+<area shape="rect" id="node1" title="Received when this widget is chosen from the navigation menu." alt="" coords="5,45,200,101"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1RobotPoses.html#a5b9bb39ea22c002ef52b97f0d3f29acb" title="Load the allowed collision matrix from the SRDF&#39;s list of link pairs." alt="" coords="248,45,448,101"/>
+<area shape="rect" id="node3" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a2139ebe716a44a42313bf1caf42a85ee" title="Clear the allowed collision matrix." alt="" coords="496,5,676,61"/>
+<area shape="rect" id="node4" href="$classcollision__detection_1_1AllowedCollisionMatrix.html#a2ad7ed411f25bcc382d447dec0f87530" title="Set an entry corresponding to a pair of elements." alt="" coords="496,85,676,141"/>
+</map>

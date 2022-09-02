@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setSupportSurfaceName" name="moveit::planning_interface::MoveGroupInterface::MoveGroupInterfaceImpl::setSupportSurfaceName">
+<area shape="rect" id="node1" title=" " alt="" coords="295,5,569,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface.html#a42ec25f3ac294283222cbf5fe33c8907" title="For pick/place operations, the name of the support surface is used to specify the fact that attached ..." alt="" coords="5,5,247,61"/>
+</map>

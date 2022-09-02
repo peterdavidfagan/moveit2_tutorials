@@ -1,0 +1,12 @@
+<map id="moveit_setup::TemplatedGeneratedFile" name="moveit_setup::TemplatedGeneratedFile">
+<area shape="rect" id="node1" title="Specialization of GeneratedFile for generating a text file from a template." alt="" coords="524,209,803,235"/>
+<area shape="rect" id="node4" href="$classmoveit__setup_1_1ModifiedUrdfConfig_1_1GeneratedModifiedURDF.html" title=" " alt="" coords="861,5,1093,47"/>
+<area shape="rect" id="node5" href="$classmoveit__setup_1_1PackageSettingsConfig_1_1GeneratedCMake.html" title=" " alt="" coords="864,71,1089,112"/>
+<area shape="rect" id="node6" href="$classmoveit__setup_1_1PackageSettingsConfig_1_1GeneratedPackageXML.html" title=" " alt="" coords="864,136,1089,177"/>
+<area shape="rect" id="node7" href="$classmoveit__setup_1_1SRDFConfig_1_1GeneratedCartesianLimits.html" title=" " alt="" coords="877,201,1077,243"/>
+<area shape="rect" id="node8" href="$classmoveit__setup_1_1app_1_1LaunchBundle_1_1BonusTemplatedFile.html" title=" " alt="" coords="851,267,1103,308"/>
+<area shape="rect" id="node9" href="$classmoveit__setup_1_1app_1_1LaunchBundle_1_1GenericLaunchTemplate.html" title=" " alt="" coords="868,333,1085,389"/>
+<area shape="rect" id="node10" href="$classmoveit__setup_1_1controllers_1_1ControlXacroConfig_1_1GeneratedControlHeader.html" title=" " alt="" coords="861,413,1092,469"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1GeneratedFile.html" title="Container for the logic for a single file to appear in MoveIt configuration package." alt="" coords="265,209,476,235"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,201,217,243"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="moveit::core::JointModel::getChildLinkModel" name="moveit::core::JointModel::getChildLinkModel">
+<area shape="rect" id="node1" title="Get the link that this joint connects to. There will always be such a link." alt="" coords="248,43,429,84"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1SRDFConfig.html#aa03c888c95c0e6cb9dce736a362b56d4" title="Return the name of the child link of a joint." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node3" href="$classmoveit__setup_1_1srdf__setup_1_1PlanningGroups.html#af776ee75dafec12910f792820b653f29" title=" " alt="" coords="15,71,190,127"/>
+</map>

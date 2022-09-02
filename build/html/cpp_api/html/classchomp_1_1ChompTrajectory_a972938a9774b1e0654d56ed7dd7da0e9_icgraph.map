@@ -1,0 +1,7 @@
+<map id="chomp::ChompTrajectory::getNumJoints" name="chomp::ChompTrajectory::getNumJoints">
+<area shape="rect" id="node1" title="Gets the number of joints in each trajectory point." alt="" coords="475,71,659,112"/>
+<area shape="rect" id="node2" href="$classchomp_1_1ChompTrajectory.html#ac6648f657f13641600b3d39f1b6270dd" title="Creates a new containing only the joints of interest, and adds padding to the start and end if needed..." alt="" coords="243,5,427,47"/>
+<area shape="rect" id="node3" href="$classchomp_1_1ChompTrajectory.html#a0e2396f83d3e6e93da03c01022f296c3" title="Gets the block of the trajectory which can be optimized." alt="" coords="243,71,427,112"/>
+<area shape="rect" id="node4" href="$classchomp_1_1ChompPlanner.html#a15329905603fe1bf38e84a3973dc3e83" title=" " alt="" coords="250,136,419,177"/>
+<area shape="rect" id="node5" href="$classchomp_1_1OptimizerAdapter.html#ac4b3582c46aba259952e593ebce7fcdb" title="Adapt the planning request if needed, call the planner function planner and update the planning respo..." alt="" coords="5,136,195,177"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::VirtualJoints::onInit" name="moveit_setup::srdf_setup::VirtualJoints::onInit">
+<area shape="rect" id="node1" title="Overridable initialization method." alt="" coords="5,5,157,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1SRDFStep.html#ae82f8c7edb1da9476ea19f8f46fad99a" title="Overridable initialization method." alt="" coords="205,13,387,54"/>
+</map>

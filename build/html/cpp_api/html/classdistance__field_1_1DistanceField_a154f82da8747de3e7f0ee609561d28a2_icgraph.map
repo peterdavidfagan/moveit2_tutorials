@@ -1,0 +1,5 @@
+<map id="distance_field::DistanceField::updatePointsInField" name="distance_field::DistanceField::updatePointsInField">
+<area shape="rect" id="node1" title="This function will remove any obstacle points that are in the old point set but not the new point set..." alt="" coords="464,5,653,47"/>
+<area shape="rect" id="node2" href="$classdistance__field_1_1DistanceField.html#a3ff4e4053688842a27968fa7cb0ae750" title="Moves the shape in the distance field from the old pose to the new pose, removing points that are no ..." alt="" coords="235,5,416,47"/>
+<area shape="rect" id="node3" href="$classdistance__field_1_1DistanceField.html#a572e4ce46e5b223f85e943be50146e6f" title=" " alt="" coords="5,5,187,47"/>
+</map>

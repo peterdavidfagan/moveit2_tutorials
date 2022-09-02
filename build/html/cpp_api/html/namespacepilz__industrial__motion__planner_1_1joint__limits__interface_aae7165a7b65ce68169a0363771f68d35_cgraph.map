@@ -1,0 +1,4 @@
+<map id="pilz_industrial_motion_planner::joint_limits_interface::getJointLimits" name="pilz_industrial_motion_planner::joint_limits_interface::getJointLimits">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,191,61"/>
+<area shape="rect" id="node2" href="$namespacejoint__limits.html#a7b519211152988b4138851b8bd1c6921" title="Populate a JointLimits instance from the ROS parameter server." alt="" coords="239,13,399,54"/>
+</map>

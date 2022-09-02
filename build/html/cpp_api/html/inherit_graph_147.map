@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,204,69"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1core_1_1MoveItErrorCode.html" title="a wrapper around moveit_msgs::MoveItErrorCodes to make it easier to return an error code message from..." alt="" coords="252,5,473,32"/>
+<area shape="rect" id="node3" href="$classmoveit_1_1hybrid__planning_1_1MoveItErrorCode.html" title=" " alt="" coords="273,57,453,98"/>
+</map>

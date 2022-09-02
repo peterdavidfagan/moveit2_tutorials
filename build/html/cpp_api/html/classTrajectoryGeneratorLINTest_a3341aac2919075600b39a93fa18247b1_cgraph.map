@@ -1,0 +1,31 @@
+<map id="TrajectoryGeneratorLINTest::checkLinResponse" name="TrajectoryGeneratorLINTest::checkLinResponse">
+<area shape="rect" id="node1" title=" " alt="" coords="5,457,204,498"/>
+<area shape="rect" id="node2" href="$namespacetestutils.html#ab92bd7b28971f78ffe134429c7e3d333" title="Check that given trajectory is straight line." alt="" coords="268,150,451,191"/>
+<area shape="rect" id="node15" href="$namespacetestutils.html#a6941dcc98ca4e3988e382fd3de978667" title="check joint trajectory of consistency, position, velocity and acceleration limits" alt="" coords="252,431,467,457"/>
+<area shape="rect" id="node20" href="$structplanning__interface_1_1MotionPlanResponse.html#acec831a8d2cfd2ef0aa0b6ed94d8d59a" title=" " alt="" coords="276,481,443,537"/>
+<area shape="rect" id="node29" href="$namespacetestutils.html#a16cef7d20ff377c527415f1898b6d740" title="check if the goal given in joint space is reached Only the last point in the trajectory is veryfied." alt="" coords="269,561,449,588"/>
+<area shape="rect" id="node3" href="$namespacetestutils.html#a6103ebf4ba5ba7a0b6e28c6c4f793bee" title="check SLERP. The orientation should rotate around the same axis linearly." alt="" coords="547,5,709,32"/>
+<area shape="rect" id="node4" href="$namespacepilz__industrial__motion__planner.html#a846707e0c70fe0ce82d46c752642e37e" title="compute the pose of a link at give robot state" alt="" coords="809,41,996,82"/>
+<area shape="rect" id="node6" href="$namespacetestutils.html#a3adb3ee10723d5a032569890776fc5ea" title="Determines the goal position from the given request. TRUE if successful, FALSE otherwise." alt="" coords="515,107,741,133"/>
+<area shape="rect" id="node8" href="$classmoveit_1_1core_1_1RobotState.html#aa0d9f132691a3f24186dcdff72be5d28" title="Get the transformation matrix from the model frame (root of model) to the frame identified by frame_i..." alt="" coords="811,158,995,199"/>
+<area shape="rect" id="node10" href="$namespacemoveit_1_1core.html#a5792ec6b3f0ca1dcb27eea3ff61315b6" title="Convert a joint state to a MoveIt robot state." alt="" coords="541,209,715,250"/>
+<area shape="rect" id="node14" href="$classmoveit_1_1core_1_1RobotState.html#aba31c6f758e3dabd32c1acbd069e189e" title="Set all joints to their default positions. The default position is 0, or if that is not within bounds..." alt="" coords="536,274,720,315"/>
+<area shape="rect" id="node5" href="$classmoveit_1_1core_1_1RobotState.html#acb5a70a55390ddecac5d79bbc1a929ba" title="Check if a transformation matrix from the model frame (root of model) to frame frame_id is known." alt="" coords="1090,41,1274,82"/>
+<area shape="rect" id="node7" href="$trajectory__functions_8h.html#a2fe53a81df95276f6522dfe5ab280a6c" title=" " alt="" coords="823,107,982,133"/>
+<area shape="rect" id="node9" href="$classmoveit_1_1core_1_1RobotState.html#a8778df1884c3caaf47558c939832cd9e" title="Update the reference frame transforms for links. This call is needed before using the transforms of l..." alt="" coords="1357,158,1541,199"/>
+<area shape="rect" id="node11" href="$classmoveit_1_1core_1_1RobotState.html#aaec5557d55b862d9dd832b3d4c221836" title="Update all transforms." alt="" coords="811,223,995,265"/>
+<area shape="rect" id="node12" href="$classmoveit_1_1core_1_1RobotState.html#afa1f72a766bdf75d81f4404058322576" title="Update the transforms for the collision bodies. This call is needed before calling collision checking..." alt="" coords="1064,223,1300,265"/>
+<area shape="rect" id="node13" href="$classmoveit_1_1core_1_1JointModel.html#aa6dbe9f994aca22adf80add175d10681" title="Get all the link models that descend from this joint, in the kinematic tree." alt="" coords="1348,223,1551,265"/>
+<area shape="rect" id="node16" href="$namespacetestutils.html#a3c3c86cff874d688226f74f9e8ea4b91" title="is Acceleration Bounded" alt="" coords="541,339,715,381"/>
+<area shape="rect" id="node17" href="$namespacetestutils.html#ac5d5277d059651d070458ced4dd21d3d" title="is Position Bounded" alt="" coords="527,405,729,432"/>
+<area shape="rect" id="node18" href="$namespacetestutils.html#a4dc6934eb856b588dbbef7744c766bb3" title="check if the sizes of the joint position/veloicty/acceleration are correct" alt="" coords="515,456,741,483"/>
+<area shape="rect" id="node19" href="$namespacetestutils.html#a318192937ca55e8c39e41410d9de0f22" title="is Velocity Bounded" alt="" coords="527,507,729,533"/>
+<area shape="rect" id="node21" href="$namespacemoveit_1_1core.html#a0aafbf7242f36d6efd7bd73ecee400e8" title="Convert a MoveIt robot state to a robot state message." alt="" coords="538,558,718,599"/>
+<area shape="rect" id="node22" href="$namespacemoveit_1_1core.html#a6fc54b52fbf87b115d32a4fe475b80fd" title="Convert AttachedBodies to AttachedCollisionObjects." alt="" coords="789,493,1016,534"/>
+<area shape="rect" id="node23" href="$classmoveit_1_1core_1_1RobotState.html#a449158e2e8aeba947bbc1a4473400ff7" title="Get all bodies attached to the model corresponding to this state." alt="" coords="811,558,995,599"/>
+<area shape="rect" id="node24" href="$namespacemoveit_1_1core.html#abadb5ddc3cb497b1704dff5c9c3144ed" title="Convert a MoveIt robot state to a joint state message." alt="" coords="813,623,993,665"/>
+<area shape="rect" id="node25" href="$classmoveit_1_1core_1_1RobotState.html#a5ecd3e71d7283f30be300c83cfd84041" title="Get the robot model this state is constructed for." alt="" coords="1090,525,1274,566"/>
+<area shape="rect" id="node26" href="$classmoveit_1_1core_1_1RobotState.html#aae57a83ed9ad7c34982b6a943341026c" title="Get the position of a particular variable. An exception is thrown if the variable is not known." alt="" coords="1090,590,1274,631"/>
+<area shape="rect" id="node27" href="$classmoveit_1_1core_1_1RobotState.html#a4445bddc825e02d3ab8347b7ea948371" title="Get the velocity of a particular variable. An exception is thrown if the variable is not known." alt="" coords="1090,655,1274,697"/>
+<area shape="rect" id="node28" href="$classmoveit_1_1core_1_1RobotState.html#a3c363244052c265d92180ee2fd3a5eb9" title="By default, if velocities are never set or initialized, the state remembers that there are no velocit..." alt="" coords="1090,721,1274,762"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="moveit_setup::srdf_setup::KinematicChainWidget::cancelEditing" name="moveit_setup::srdf_setup::KinematicChainWidget::cancelEditing">
+<area shape="rect" id="node1" title="Event sent when user presses cancel button." alt="" coords="276,5,499,61"/>
+<area shape="rect" id="node2" href="$classmoveit__setup_1_1srdf__setup_1_1KinematicChainWidget.html#a4452d294d85540ffaa4e2d88c8a9d098" title="Constructor." alt="" coords="5,5,228,61"/>
+</map>

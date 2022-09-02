@@ -1,0 +1,4 @@
+<map id="kinematic_constraints::JointConstraint::equal" name="kinematic_constraints::JointConstraint::equal">
+<area shape="rect" id="node1" title="Check if two joint constraints are the same." alt="" coords="5,13,176,54"/>
+<area shape="rect" id="node2" href="$classkinematic__constraints_1_1KinematicConstraint.html#a70ce30ff98c419e2adda243b096c1d6d" title="Get the type of constraint." alt="" coords="224,5,391,61"/>
+</map>

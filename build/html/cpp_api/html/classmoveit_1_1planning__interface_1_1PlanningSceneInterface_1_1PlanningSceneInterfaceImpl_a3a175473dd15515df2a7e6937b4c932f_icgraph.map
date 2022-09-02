@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::PlanningSceneInterface::PlanningSceneInterfaceImpl::getKnownObjectNames" name="moveit::planning_interface::PlanningSceneInterface::PlanningSceneInterfaceImpl::getKnownObjectNames">
+<area shape="rect" id="node1" title=" " alt="" coords="251,5,463,76"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1PlanningSceneInterface.html#a5c1c0276df1938281836b0c172179ed0" title="Get the names of all known objects in the world. If with_type is set to true, only return objects tha..." alt="" coords="5,13,203,69"/>
+</map>

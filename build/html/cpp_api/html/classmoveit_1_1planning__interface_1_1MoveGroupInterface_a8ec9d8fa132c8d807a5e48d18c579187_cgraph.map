@@ -1,0 +1,4 @@
+<map id="moveit::planning_interface::MoveGroupInterface::setGoalJointTolerance" name="moveit::planning_interface::MoveGroupInterface::setGoalJointTolerance">
+<area shape="rect" id="node1" title="Set the joint tolerance (for each joint) that is used for reaching the goal when moving to a joint va..." alt="" coords="5,5,256,61"/>
+<area shape="rect" id="node2" href="$classmoveit_1_1planning__interface_1_1MoveGroupInterface_1_1MoveGroupInterfaceImpl.html#aa74efb0453a9df2775a33d81784fc448" title=" " alt="" coords="304,5,563,61"/>
+</map>

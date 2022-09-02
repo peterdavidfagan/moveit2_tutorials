@@ -1,0 +1,5 @@
+<map id="robot_interaction::LockedRobotState" name="robot_interaction::LockedRobotState">
+<area shape="rect" id="node1" title="Maintain a RobotState in a multithreaded environment." alt="" coords="32,5,173,47"/>
+<area shape="rect" id="node2" href="$classSuper1.html" title=" " alt="" coords="5,102,72,129"/>
+<area shape="rect" id="node3" href="$classrobot__interaction_1_1InteractionHandler.html" title=" " alt="" coords="97,95,239,136"/>
+</map>

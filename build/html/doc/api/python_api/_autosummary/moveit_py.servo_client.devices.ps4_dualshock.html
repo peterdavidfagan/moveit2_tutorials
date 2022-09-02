@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>moveit_py.servo_client.devices.ps4_dualshock &mdash; MoveIt documentation  documentation</title>
+      <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/copybutton.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/tabs.css" type="text/css" />
+      <link rel="stylesheet" href="../../../../_static/css/override.css" type="text/css" />
+    <link rel="shortcut icon" href="../../../../_static/favicon.ico"/>
+    <link rel="canonical" href="https://moveit.picknik.ai/rolling/doc/api/python_api/_autosummary/moveit_py.servo_client.devices.ps4_dualshock.html" />
+  <!--[if lt IE 9]>
+    <script src="../../../../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../../../../" id="documentation_options" src="../../../../_static/documentation_options.js"></script>
+        <script src="../../../../_static/jquery.js"></script>
+        <script src="../../../../_static/underscore.js"></script>
+        <script src="../../../../_static/doctools.js"></script>
+        <script src="../../../../_static/clipboard.min.js"></script>
+        <script src="../../../../_static/copybutton.js"></script>
+    <script src="../../../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" />
+    <link rel="next" title="moveit_py.servo_client.teleop" href="moveit_py.servo_client.teleop.html" />
+    <link rel="prev" title="moveit_py.servo_client.devices.oculus_quest" href="moveit_py.servo_client.devices.oculus_quest.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+            <a href="../../../../index.html">
+            <img src="../../../../_static/rolling-small.png" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../../tutorials/tutorials.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../examples/examples.html">Examples</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../concepts/concepts.html">Concepts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../how_to_guides/how_to_guides.html">How-To Guides</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../../api.html">API Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../cpp_api/api.html">C++ API Documentation</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../api.html">Python API Documentation</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="moveit_py.core.html">moveit_py.core</a></li>
+<li class="toctree-l3"><a class="reference internal" href="moveit_py.planning.html">moveit_py.planning</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="moveit_py.servo_client.html">moveit_py.servo_client</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="moveit_py.servo_client.devices.html">moveit_py.servo_client.devices</a><ul class="current">
+<li class="toctree-l5"><a class="reference internal" href="moveit_py.servo_client.devices.oculus_quest.html">moveit_py.servo_client.devices.oculus_quest</a></li>
+<li class="toctree-l5 current"><a class="current reference internal" href="#">moveit_py.servo_client.devices.ps4_dualshock</a></li>
+</ul>
+</li>
+<li class="toctree-l4"><a class="reference internal" href="moveit_py.servo_client.teleop.html">moveit_py.servo_client.teleop</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../../how_to_contribute/how_to_contribute.html">Contributing</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../index.html">MoveIt documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../../../index.html" class="icon icon-home"></a> &raquo;</li>
+          <li><a href="../../api.html">API Documentation</a> &raquo;</li>
+          <li><a href="../api.html">Python API Documentation</a> &raquo;</li>
+          <li><a href="moveit_py.servo_client.html">moveit_py.servo_client</a> &raquo;</li>
+          <li><a href="moveit_py.servo_client.devices.html">moveit_py.servo_client.devices</a> &raquo;</li>
+      <li>moveit_py.servo_client.devices.ps4_dualshock</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/ros-planning/moveit2_tutorials/blob/main/doc/api/python_api/_autosummary/moveit_py.servo_client.devices.ps4_dualshock.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+
+
+  <div class="section" id="module-moveit_py.servo_client.devices.ps4_dualshock">
+<span id="moveit-py-servo-client-devices-ps4-dualshock"></span><h1>moveit_py.servo_client.devices.ps4_dualshock<a class="headerlink" href="#module-moveit_py.servo_client.devices.ps4_dualshock" title="Permalink to this headline"></a></h1>
+<p>PS$ dualshock teleop device implementation.</p>
+<p class="rubric">Classes</p>
+<table class="longtable docutils align-default">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 90%" />
+</colgroup>
+<tbody>
+<tr class="row-odd"><td><p><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes" title="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes"><code class="xref py py-obj docutils literal notranslate"><span class="pre">DualShockAxes</span></code></a>([LEFT_STICK_X, LEFT_STICK_Y, ...])</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons" title="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons"><code class="xref py py-obj docutils literal notranslate"><span class="pre">DualShockButtons</span></code></a>([X, O, TRIANGLE, SQUARE, ...])</p></td>
+<td><p></p></td>
+</tr>
+<tr class="row-odd"><td><p><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock" title="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PS4DualShock</span></code></a>([Axes, Buttons])</p></td>
+<td><p>A dataclass to store device config.</p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop" title="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop"><code class="xref py py-obj docutils literal notranslate"><span class="pre">PS4DualShockTeleop</span></code></a>([node_name, device_name, ...])</p></td>
+<td><p>A class which encapsulates teleoperation functionalities for ps4 dualshock device.</p></td>
+</tr>
+</tbody>
+</table>
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.</span></span><span class="sig-name descname"><span class="pre">DualShockAxes</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">LEFT_STICK_X</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">0</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">LEFT_STICK_Y</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">LEFT_TRIGGER</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">2</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">RIGHT_STICK_X</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">3</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">RIGHT_STICK_Y</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">4</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">RIGHT_TRIGGER</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">5</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">D_PAD_X</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">6</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">D_PAD_Y</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">7</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes" title="Permalink to this definition"></a></dt>
+<dd><dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.LEFT_STICK_X">
+<span class="sig-name descname"><span class="pre">LEFT_STICK_X</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">0</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.LEFT_STICK_X" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.LEFT_STICK_Y">
+<span class="sig-name descname"><span class="pre">LEFT_STICK_Y</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">1</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.LEFT_STICK_Y" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.LEFT_TRIGGER">
+<span class="sig-name descname"><span class="pre">LEFT_TRIGGER</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">2</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.LEFT_TRIGGER" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.RIGHT_STICK_X">
+<span class="sig-name descname"><span class="pre">RIGHT_STICK_X</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">3</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.RIGHT_STICK_X" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.RIGHT_STICK_Y">
+<span class="sig-name descname"><span class="pre">RIGHT_STICK_Y</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">4</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.RIGHT_STICK_Y" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.RIGHT_TRIGGER">
+<span class="sig-name descname"><span class="pre">RIGHT_TRIGGER</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">5</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.RIGHT_TRIGGER" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.D_PAD_X">
+<span class="sig-name descname"><span class="pre">D_PAD_X</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">6</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.D_PAD_X" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.D_PAD_Y">
+<span class="sig-name descname"><span class="pre">D_PAD_Y</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">7</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes.D_PAD_Y" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.</span></span><span class="sig-name descname"><span class="pre">DualShockButtons</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">X</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">0</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">O</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">TRIANGLE</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">2</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">SQUARE</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">3</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">L1</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">4</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">R1</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">5</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">L2</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">6</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">R2</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">7</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">SHARE</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">8</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">OPTIONS</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">9</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">HOME</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">10</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">LEFT_STICK_TRIGGER</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">11</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">RIGHT_STICK_TRIGGER</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">12</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons" title="Permalink to this definition"></a></dt>
+<dd><dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.X">
+<span class="sig-name descname"><span class="pre">X</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">0</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.X" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.O">
+<span class="sig-name descname"><span class="pre">O</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">1</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.O" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.TRIANGLE">
+<span class="sig-name descname"><span class="pre">TRIANGLE</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">2</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.TRIANGLE" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.SQUARE">
+<span class="sig-name descname"><span class="pre">SQUARE</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">3</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.SQUARE" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.L1">
+<span class="sig-name descname"><span class="pre">L1</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">4</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.L1" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.R1">
+<span class="sig-name descname"><span class="pre">R1</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">5</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.R1" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.L2">
+<span class="sig-name descname"><span class="pre">L2</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">6</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.L2" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.R2">
+<span class="sig-name descname"><span class="pre">R2</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">7</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.R2" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.SHARE">
+<span class="sig-name descname"><span class="pre">SHARE</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">8</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.SHARE" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.OPTIONS">
+<span class="sig-name descname"><span class="pre">OPTIONS</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">9</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.OPTIONS" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.HOME">
+<span class="sig-name descname"><span class="pre">HOME</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">10</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.HOME" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.LEFT_STICK_TRIGGER">
+<span class="sig-name descname"><span class="pre">LEFT_STICK_TRIGGER</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">11</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.LEFT_STICK_TRIGGER" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.RIGHT_STICK_TRIGGER">
+<span class="sig-name descname"><span class="pre">RIGHT_STICK_TRIGGER</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">12</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons.RIGHT_STICK_TRIGGER" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.</span></span><span class="sig-name descname"><span class="pre">PS4DualShock</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">Axes</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes" title="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">DualShockAxes(LEFT_STICK_X=0,</span> <span class="pre">LEFT_STICK_Y=1,</span> <span class="pre">LEFT_TRIGGER=2,</span> <span class="pre">RIGHT_STICK_X=3,</span> <span class="pre">RIGHT_STICK_Y=4,</span> <span class="pre">RIGHT_TRIGGER=5,</span> <span class="pre">D_PAD_X=6,</span> <span class="pre">D_PAD_Y=7)</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">Buttons</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons" title="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">DualShockButtons(X=0,</span> <span class="pre">O=1,</span> <span class="pre">TRIANGLE=2,</span> <span class="pre">SQUARE=3,</span> <span class="pre">L1=4,</span> <span class="pre">R1=5,</span> <span class="pre">L2=6,</span> <span class="pre">R2=7,</span> <span class="pre">SHARE=8,</span> <span class="pre">OPTIONS=9,</span> <span class="pre">HOME=10,</span> <span class="pre">LEFT_STICK_TRIGGER=11,</span> <span class="pre">RIGHT_STICK_TRIGGER=12)</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock" title="Permalink to this definition"></a></dt>
+<dd><p>A dataclass to store device config. This class follows the conventions of Joy message (<a class="reference external" href="http://docs.ros.org/en/noetic/api/sensor_msgs/html/msg/Joy.html">http://docs.ros.org/en/noetic/api/sensor_msgs/html/msg/Joy.html</a>)</p>
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock.Axes">
+<span class="sig-name descname"><span class="pre">Axes</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes" title="moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.DualShockAxes</span></a></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">DualShockAxes(LEFT_STICK_X=0,</span> <span class="pre">LEFT_STICK_Y=1,</span> <span class="pre">LEFT_TRIGGER=2,</span> <span class="pre">RIGHT_STICK_X=3,</span> <span class="pre">RIGHT_STICK_Y=4,</span> <span class="pre">RIGHT_TRIGGER=5,</span> <span class="pre">D_PAD_X=6,</span> <span class="pre">D_PAD_Y=7)</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock.Axes" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock.Buttons">
+<span class="sig-name descname"><span class="pre">Buttons</span></span><em class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons" title="moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.DualShockButtons</span></a></em><em class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">DualShockButtons(X=0,</span> <span class="pre">O=1,</span> <span class="pre">TRIANGLE=2,</span> <span class="pre">SQUARE=3,</span> <span class="pre">L1=4,</span> <span class="pre">R1=5,</span> <span class="pre">L2=6,</span> <span class="pre">R2=7,</span> <span class="pre">SHARE=8,</span> <span class="pre">OPTIONS=9,</span> <span class="pre">HOME=10,</span> <span class="pre">LEFT_STICK_TRIGGER=11,</span> <span class="pre">RIGHT_STICK_TRIGGER=12)</span></em><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock.Buttons" title="Permalink to this definition"></a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop">
+<em class="property"><span class="pre">class</span><span class="w"> </span></em><span class="sig-prename descclassname"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.</span></span><span class="sig-name descname"><span class="pre">PS4DualShockTeleop</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">node_name</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">'ps4_dualshock_teleop'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">device_name</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">'ps4_dualshock'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">device_config</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><a class="reference internal" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock" title="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock"><span class="pre">moveit_py.servo_client.devices.ps4_dualshock.PS4DualShock</span></a></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">PS4DualShock(Axes=DualShockAxes(LEFT_STICK_X=0,</span> <span class="pre">LEFT_STICK_Y=1,</span> <span class="pre">LEFT_TRIGGER=2,</span> <span class="pre">RIGHT_STICK_X=3,</span> <span class="pre">RIGHT_STICK_Y=4,</span> <span class="pre">RIGHT_TRIGGER=5,</span> <span class="pre">D_PAD_X=6,</span> <span class="pre">D_PAD_Y=7),</span> <span class="pre">Buttons=DualShockButtons(X=0,</span> <span class="pre">O=1,</span> <span class="pre">TRIANGLE=2,</span> <span class="pre">SQUARE=3,</span> <span class="pre">L1=4,</span> <span class="pre">R1=5,</span> <span class="pre">L2=6,</span> <span class="pre">R2=7,</span> <span class="pre">SHARE=8,</span> <span class="pre">OPTIONS=9,</span> <span class="pre">HOME=10,</span> <span class="pre">LEFT_STICK_TRIGGER=11,</span> <span class="pre">RIGHT_STICK_TRIGGER=12))</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop" title="Permalink to this definition"></a></dt>
+<dd><p>A class which encapsulates teleoperation functionalities for ps4 dualshock device.</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop.publish_command">
+<span class="sig-name descname"><span class="pre">publish_command</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">data</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop.publish_command" title="Permalink to this definition"></a></dt>
+<dd><p>Publishes the teleop command.</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop.record">
+<span class="sig-name descname"><span class="pre">record</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#moveit_py.servo_client.devices.ps4_dualshock.PS4DualShockTeleop.record" title="Permalink to this definition"></a></dt>
+<dd><p>Records trajectory data.</p>
+</dd></dl>
+
+</dd></dl>
+
+</div>
+
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="moveit_py.servo_client.devices.oculus_quest.html" class="btn btn-neutral float-left" title="moveit_py.servo_client.devices.oculus_quest" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="moveit_py.servo_client.teleop.html" class="btn btn-neutral float-right" title="moveit_py.servo_client.teleop" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2022, PickNik Robotics.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+    <!-- Theme Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108532843-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-108532843-1', {
+          'anonymize_ip': false,
+      });
+    </script> 
+
+</body>
+</html>
