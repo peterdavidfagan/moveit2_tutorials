@@ -41,6 +41,18 @@ Building more complex applications with MoveIt often requires developers to dig 
    bullet_collision_checker/bullet_collision_checker
    mobile_base_arm/mobile_base_arm_tutorial
 
+Using MoveIt Directly Through the Python API
+------------------------------------------
+The MoveIt Python API builds on top of the C++ API. The Python API is useful for rapid prototyping and experimentation. 
+
+.. toctree::
+   :maxdepth: 1
+   
+   robot_model_and_robot_state_python/robot_model_and_robot_state_python_tutorial 
+   planning_scene_python/planning_scene_python_tutorial
+   motion_planning_python_api/motion_planning_python_api_tutorial
+   jupyter_notebook_prototyping/jupyter_notebook_prototyping_tutorial
+
 Integration with a New Robot
 ----------------------------
 Before attempting to integrate a new robot with MoveIt 2, check whether your robot has already been set up (see the `list of robots running MoveIt <http://moveit.ros.org/robots/>`_). Otherwise, follow the tutorials in this section to integrate your robot with MoveIt.

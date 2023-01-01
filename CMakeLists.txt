@@ -17,6 +17,7 @@ set(THIS_PACKAGE_INCLUDE_DEPENDS
   interactive_markers
   moveit_core
   moveit_msgs
+  moveit_py
   moveit_ros_planning
   moveit_ros_planning_interface
   moveit_servo
@@ -53,6 +54,7 @@ include_directories(${THIS_PACKAGE_INCLUDE_DIRS})
 # add_subdirectory(doc/examples/trajopt_planner)
 # add_subdirectory(doc/examples/visualizing_collisions)
 add_subdirectory(doc/examples/dual_arms)
+add_subdirectory(doc/examples/jupyter_notebook_prototyping)
 add_subdirectory(doc/examples/motion_planning_api)
 add_subdirectory(doc/examples/motion_planning_pipeline)
 add_subdirectory(doc/examples/move_group_interface)
@@ -62,9 +64,9 @@ add_subdirectory(doc/examples/pilz_industrial_motion_planner)
 add_subdirectory(doc/examples/planning_scene_ros_api)
 add_subdirectory(doc/examples/planning_scene)
 add_subdirectory(doc/examples/realtime_servo)
+add_subdirectory(doc/examples/robot_model_and_robot_state)
 add_subdirectory(doc/how_to_guides/using_ompl_constrained_planning)
 add_subdirectory(doc/how_to_guides/parallel_planning)
-add_subdirectory(doc/examples/robot_model_and_robot_state)
 add_subdirectory(doc/tutorials/pick_and_place_with_moveit_task_constructor)
 add_subdirectory(doc/tutorials/quickstart_in_rviz)
 
