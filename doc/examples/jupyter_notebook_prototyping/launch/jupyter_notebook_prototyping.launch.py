@@ -79,11 +79,11 @@ def generate_launch_description():
     start_notebook = ExecuteProcess(cmd = ["python3 -m notebook"], shell = True, output = "screen")
     return LaunchDescription(
         [
+            start_notebook,
             static_tf,
             robot_state_publisher,
             rviz_node,
             ros2_control_node,
-            start_notebook,
         ]
         + load_controllers
         )

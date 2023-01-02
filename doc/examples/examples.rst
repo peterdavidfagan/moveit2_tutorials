@@ -17,7 +17,7 @@ The simplest way to use MoveIt through scripting is using the ``move_group_inter
    moveit_commander_scripting/moveit_commander_scripting_tutorial
 
 Using MoveIt Directly Through the C++ API
-------------------------------------------
+-----------------------------------------
 Building more complex applications with MoveIt often requires developers to dig into MoveIt’s C++ API. As an added plus, using the C++ API directly skips many of the ROS Service/Action layers resulting in significantly faster performance.
 
 .. toctree::
@@ -42,7 +42,7 @@ Building more complex applications with MoveIt often requires developers to dig 
    mobile_base_arm/mobile_base_arm_tutorial
 
 Using MoveIt Directly Through the Python API
-------------------------------------------
+--------------------------------------------
 The MoveIt Python API builds on top of the C++ API. The Python API is useful for rapid prototyping and experimentation. 
 
 .. toctree::
